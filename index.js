@@ -2,6 +2,7 @@ const getAnswer = require("./api/getAnswer")
 const getQuestions = require("./api/getQuestions")
 const submitAnswer = require("./api/submitAnswer")
 const prompts = require('prompts')
+const Bingxu = require('bingxu')
 
 const _getUserInput = async () => {
 
@@ -41,20 +42,22 @@ const _parseAnswer = (string) => {
 setImmediate(async () => {
     const userInput = await _getUserInput()
     const { nodeID, assignmentID, token } = userInput
+
+    const tokenHoa = `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNWY5NTg4YjQ2Y2YxMWViYWM0OTU0NjYzIiwicm9sZSI6Im1lbWJlciIsImlhdCI6MTYwMzYzNTM4MSwiZXhwIjoxNjAzODA4MTgxfQ.YJLzfW6szNNJqhhylwpKJXGCZcdsoqcKSXXMARAgEP4`
     if (!nodeID || !assignmentID || !token) throw new Error('Missing field.')
     let response = await getQuestions(nodeID, assignmentID, token)
     const { questions } = response.data
     const questionsIDArray = questions.map(q => { return q._id })
     await Promise.all(questionsIDArray.map(async qid => {
-        response = await getAnswer(qid, nodeID, assignmentID, token)
-        const { question_text } = response.data
-        const { type, content: answerArray } = _parseAnswer(question_text)
-        if (type === 0) {
-            for (let i = 0; i < answerArray.length; i++) {
-                response = await submitAnswer(qid, answerArray[i], nodeID, assignmentID, token)
-                const { answer_right } = response
-                if (answer_right === 1) { console.log({ qid, ans: answerArray[i] }); break }
-            }
-        }
+        response = await getAnswer(qid, nodeID, assignmentID, tokenHoa)
+
+        const {history} = response.data
+        const {current_answer} = history
+
+        const vAnswer = current_answer[0]
+
+        response = await submitAnswer(qid, vAnswer, nodeID, assignmentID, token)
+
+        await Bingxu.setSleepTime(3000)
     }))
 })
