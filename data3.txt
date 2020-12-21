@@ -1,0 +1,3498 @@
+1. Kỹ thuật được áp dụng để kiểm tra khả năng sử dụng là?
+{{Hộp màu xám. 
+Hộp đen. 
+Sự kết hợp của tất cả. 
+Hộp trắng}}
+ANS:Hộp đen
+
+2. Điền vào chỗ trống
+{{}}() là quá trình đánh giá phần mềm có đáp ứng các yêu cầu được thiết lập trong giai đoạn trước hay không.
+ANS:Thảm tra
+
+3. Điền vào chỗ trống
+{{}}() là quá trình đánh giá phần mềm có đảm bảo tuân thủ với mục đích sử dụng hay không.
+ANS:Xác nhận
+
+4. Bằng cách thu thập ________ trong quá trình kiểm thử phần mềm, có thể phát triển các hướng dẫn có ý nghĩa để tạm dừng quá trình kiểm thử.
+{{Cường độ thất bại. 
+Thời gian thử nghiệm. 
+Tất cả những điều đã đề cập. 
+Số liệu}}
+ANS:Số liệu
+
+5. Bắt đầu kiểm thử sớm hay muộn tốt hơn?
+{{Sớm. 
+Tuỳ dự án phần mềm. 
+Muộn. 
+Như nhau}}
+ANS:Sớm
+
+6. Các ca kiểm thử trong phương pháp kiểm thử hộp trắng được sinh ra từ đâu?
+{{Mô hình.. 
+Ngẫu nhiên.. 
+Mã nguồn.. 
+Đặc tả yêu cầu.}}
+ANS:Mã nguồn.
+
+7. Các dev và tester cùng nhau hợp tác để tìm ra các nguy cơ là ở mức độ (level) nào?
+{{Mức độ 3.. 
+Mức độ 1.. 
+Mức độ 2.. 
+Mức độ 4.}}
+ANS:Mức độ 3.
+
+8. Các hoạt động kiểm thử phần mềm nên bắt đầu khi nào?
+{{Trong giai đoạn thiết kế.. 
+Ngay sau khi mã được viết.. 
+Khi các yêu cầu đã được chính thức lập thành văn bản.. 
+Càng sớm càng tốt trong vòng đời phát triển.}}
+ANS:Càng sớm càng tốt trong vòng đời phát triển.
+
+9. Điền vào chỗ trống
+Chất lượng của một phần mềm được thể hiện bằng những đặc trưng phù hợp với {{}}() của nó.
+ANS:đặc tả
+
+10. Chi phí sửa lỗi ít nhất khi chú trọng kiểm thử từ giao đoạn nào?
+{{Giai đoạn kết thúc.. 
+Giai đoạn phân tích thiết kế yêu cầu.. 
+Giai đoạn thiết kế giao diện.. 
+Giai đoạn phát triển.}}
+ANS:Giai đoạn phân tích thiết kế yêu cầu.
+
+11. Chọn đáp án không phải là một hành vi của phần mềm?
+{{Tài chính. 
+Bộ định tuyến mạng. 
+Chuyển đổi mạng. 
+Tạo cấu trúc}}
+ANS:Tạo cấu trúc
+
+12. Điền vào chỗ trống
+Chúng ta {{}}() giảm lỗi của sản phẩm phần mềm về mức 0.
+ANS:không thể
+
+13. Danh sách các mục để kiểm thử được gọi là
+{{Bảng kiểm tra (Checksheet). 
+Danh sách kiểm tra (Checklist). 
+Thủ tục (Procedure). 
+Quy trình (Process)}}
+ANS:Danh sách kiểm tra (Checklist)
+
+14. Đâu không là lý do cho việc kiểm thử phần mềm?
+{{Để đảm bảo phần mềm là chính xác và đáng tin cậy. 
+Để kiểm tra hiệu suất của các nhà phát triển. 
+Để đảm bảo tất cả các yêu cầu được thỏa mãn. 
+Để sản xuất một sản phẩm chất lượng, không có lỗi}}
+ANS:Để kiểm tra hiệu suất của các nhà phát triển
+
+15. Đâu không phải là một sai lầm về dữ liệu?
+{{Đơn vị hoặc thang chia sai.. 
+Khởi tạo sai.. 
+Sử dụng sai biến.. 
+Thuật toán sai.}}
+ANS:Thuật toán sai.
+
+16. Đâu không phải là một sai lầm về giao diện?
+{{Xử lý gián đoạn sai (trong các hệ thống nhúng). 
+Hàm đi kèm sai. 
+Gọi sai thủ tục. 
+Thời gian vào ra (time out)}}
+ANS:Hàm đi kèm sai
+
+17. Đâu không phải là một sai lầm về logic khi thực hiện một bài kiểm thử?
+{{Kết quả tính toán đúng nhưng không đúng thời điểm. 
+Điều kiện ngoại lai. 
+Thể hiện sai. 
+Thiếu trường hợp}}
+ANS:Kết quả tính toán đúng nhưng không đúng thời điểm
+
+18. Đâu không phải là tiêu chí đánh giá chất lượng phần mềm?
+{{Khả năng bảo trì. 
+Chức năng. 
+Tính cụ thể hóa. 
+Khả năng di chuyển}}
+ANS:Tính cụ thể hóa
+
+19. Đâu không phải lý do kiểm thử với danh sách kiểm tra (checklist) không hiệu quả
+{{Rất khó có thể bao phủ tất cả các chức năng. 
+Nó theo dõi những gì đã được thực hiện. 
+Các hệ thống phức tạp không được mô tả chi tiết. 
+Nó lãng phí công sức để kiểm thử các mục chồng chéo nhau}}
+ANS:Nó theo dõi những gì đã được thực hiện
+
+20. Điều nào sau đây là đúng đối với Khiếm khuyết Thảm khốc?
+{{Phần mềm bị lỗi và dữ liệu có thể khôi phục được. 
+Sự cố ứng dụng và không thể khôi phục dữ liệu.. 
+Che giấu các khuyết tật khác.. 
+Đưa ra những khiếm khuyết khác.}}
+ANS:Che giấu các khuyết tật khác.
+
+21. Điều nào sau đây là mục tiêu quan trọng của các hoạt động kiểm thử trong vòng tròn phát triển phần mềm?
+{{Gỡ lỗi. 
+Cung cấp thông tin ra quyết định. 
+Kiểm tra toàn diện. 
+Khiếm khuyết cụm}}
+ANS:Gỡ lỗi
+
+22. Điền vào chỗ trống
+Định nghĩa {{}}() là kiểm tra xem lỗi đã được báo cáo trước đó đã được sửa.
+ANS:gỡ lỗi
+
+23. Định nghĩa của gỡ lỗi là gì?
+{{Kiểm tra rằng không có hậu quả ngoài ý muốn xảy ra do sửa chữa.. 
+Xác định quá trình lỗi, sửa mã và kiểm tra sửa lỗi là đúng.. 
+Kiểm tra hoạt động chính xác không.. 
+Kiểm tra xem lỗi đã được báo cáo trước đó đã được sửa.}}
+ANS:Kiểm tra xem lỗi đã được báo cáo trước đó đã được sửa.
+
+24. Định nghĩa của xác minh (verification)?
+{{Là quá trình xác định xem các sản phẩm của một giai đoạn nhất định của quá trình phát triển phần mềm có đáp ứng được các yêu cầu được thiết lập ở các pha sau không.. 
+Là quá trình xác định xem các sản phẩm của tất cả giai đoạn của quá trình phát triển phần mềm có đáp ứng được các yêu cầu được thiết lập ở các pha trước không.. 
+Là quá trình đánh giá lại sản phẩm.. 
+Là quá trình xác định xem các sản phẩm của một giai đoạn nhất định của quá trình phát triển phần mềm có đáp ứng được các yêu cầu được thiết lập ở các pha trước không.}}
+ANS:Là quá trình xác định xem các sản phẩm của một giai đoạn nhất định của quá trình phát triển phần mềm có đáp ứng được các yêu cầu được thiết lập ở các pha trước không.
+
+25. Đoán lỗi (Error) là:
+{{Kỹ thuật thực hiện kiểm thử.. 
+Các kỹ thuật xác minh kiểm thử.. 
+Kỹ thuật quản lý dữ liệu kiểm thử.. 
+Các kỹ thuật quản lý kiểm soát kiểm thử.}}
+ANS:Kỹ thuật quản lý dữ liệu kiểm thử.
+
+26. Hoạt động nào dưới đây không là Kiểm định (Verification)?
+{{Kiểm thử hệ thống. 
+Đánh giá hình thức (formal review). 
+Bình duyệt (peer review). 
+Kiểm duyệt (Inspection)}}
+ANS:Kiểm thử hệ thống
+
+27. Hoạt động nào dưới đây là Thẩm định (Validation)?
+{{Đánh giá thiết kế. 
+Duyệt mã nguồn (code review). 
+Kiểm duyệt (Inspection). 
+Kiểm thử chấp nhận}}
+ANS:Duyệt mã nguồn (code review)
+
+28. Khi nào thì quá trình kiểm thử kết thúc?
+{{Khi tài nguyên (thời gian và ngân sách) hết.. 
+Khi chất lượng phần mềm đã đạt được tiêu chí.. 
+Thử nghiệm không bao giờ kết thúc.. 
+Khi đạt đến một số phạm vi bao phủ.}}
+ANS:Khi chất lượng phần mềm đã đạt được tiêu chí.
+
+29. Điền vào chỗ trống
+Khiếm khuyết (fault) và các thất bại (failure) đều có thể được gọi chung là {{}}().
+ANS:lỗi
+
+30. Điền vào chỗ trống
+Khóa học này tập trung vào kiếm thức kiểm thử cho {{}}().
+ANS:người lập trình viên
+
+31. Kiểm chứng (verification) là quá trình để đảm bảo rằng một sản phẩm phần mềm thỏa mãn?
+{{Đặc tả của nó. 
+Yêu cầu người dùng. 
+Yêu cầu khách hàng. 
+Yêu cầu của chủ đầu tư}}
+ANS:Đặc tả của nó
+
+32. Điền vào chỗ trống
+Kiểm thử {{}}() là kỹ thuật để kiểm tra khả năng sử dụng.
+ANS:hộp trắng
+
+33. Điền vào chỗ trống
+Kiểm thử bậc {{}}() được xem là tương đương với việc gỡ lỗi (debugging).
+ANS:0
+
+34. Kiểm thử bậc nào được xem là tương đương với việc gỡ lỗi (debugging)?
+{{Bậc 3.. 
+Bậc 4.. 
+Bậc 1.. 
+Bậc 0.}}
+ANS:Bậc 0.
+
+35. Kiểm thử giúp __________ của sản phẩm bằng cách tìm ra các khuyết tật trong sản phẩm.
+{{Sửa chữa khuyết điểm. 
+Tất cả những điều trên.. 
+Nâng cao chất lượng. 
+Đo lường chất lượng}}
+ANS:Đo lường chất lượng
+
+36. Điền vào chỗ trống
+Kiểm thử giúp {{}}() của sản phẩm bằng cách tìm ra các khuyết tật trong sản phẩm.
+ANS:đo lường chất lượng
+
+37. Điền vào chỗ trống
+Kiểm thử mức {{}}() không phân biệt được hành vi không chính xác của chương trình và lỗi trong chương trình.
+ANS:0
+
+38. Điền vào chỗ trống
+Kiểm thử mức {{}}() đặt lập trình viên và kiểm thử viên vào trạng thái đối đầu.
+ANS:2
+
+39. Điền vào chỗ trống
+Kiểm tra hệ thống là một kiểm thử hộp {{}}().
+ANS:đen
+
+40. Loại kiểm thử nào dựa trên quan niệm rằng bất kì chương trình nào cũng là một hàm ánh xạ từ miền dữ liệu đầu vào đến miền dữ liệu đầu ra của nó?
+{{Kiểm thử hệ thống. 
+Kiểm thử chức năng. 
+Kiểm thử cấu trúc. 
+Kiểm thử chấp nhận}}
+ANS:Kiểm thử chức năng
+
+41. Lỗi do lỗi tĩnh trong chương trình tạo nên, gây ra kết quả chạy không đúng với ước tính được gọi là gì?
+{{Software error.. 
+Software fault.. 
+Software bug.. 
+Software failure.}} 
+ANS:Software error.
+
+42. Lỗi phần mềm (Software errors) là gì?
+{{Là lỗi tĩnh ở trong chương trình. Có thể hiểu là sai sót ở trong mã nguồn hoặc mã biên dịch của chương trình.. 
+Là lỗi khi chạy chương trình tạo nên.. 
+Là lỗi xảy ra ở bên ngoài. Có thể hiểu là hành động sai với mô tả ban đầu.. 
+Là lỗi do lỗi tĩnh trong chương trình tạo nên, gây ra kết quả chạy không đúng với ước tính.}}
+ANS:Là lỗi do lỗi tĩnh trong chương trình tạo nên, gây ra kết quả chạy không đúng với ước tính.
+
+43. Lỗi phần mềm (Software fault) xuất hiện khi nào?
+{{Lúc người dùng sử dụng.. 
+Lúc triển khai dự án phần mềm.. 
+Lúc phát triển phần mềm.. 
+Lúc kiểm thử phần mềm.}}
+ANS:Lúc triển khai dự án phần mềm.
+
+44. Lỗi tồn tại trong phần mềm càng lâu thì ___.
+{{Việc loại bỏ càng nhàm chán hơn.. 
+Chi phí sửa chữa và phát hiện tốn kém hơn.. 
+Ít có khả năng được sửa chữa đúng cách.. 
+Tất cả các đáp án trên.}}
+ANS:Tất cả các đáp án trên.
+
+45. Mối quan hệ giữa kiểm thử (testing) và đảm bảo chất lượng (quality assurance - QA) là gì?
+{{Bảo đảm chất lượng là một phần của quá trình kiểm thử hoàn chỉnh. 
+Kiểm thử là một phần của quá trình bảo đảm chất lượng hoàn chỉnh. 
+Bảo đảm chất lương và kiểm thử độc lập với nhau. 
+Kiểm tra và bảo đảm chất lượng là hai phạm trù tương đương}}
+ANS:Kiểm thử là một phần của quá trình bảo đảm chất lượng hoàn chỉnh
+
+46. Một khái niệm quan trọng của đảm bảo chất lượng là tất cả các sản phẩm?
+{{Được kiểm tra kỹ lưỡng \. 
+ xem xét trước khi giao cho khách hàng. 
+Có tài liệu đầy đủ. 
+Có thông số kỹ thuật đo lường cho kết quả đầu ra. 
+Được giao đúng thời hạn và sử dụng nguồn ngân sách cho phép}}
+ANS:Được kiểm tra kỹ lưỡng \/ xem xét trước khi giao cho khách hàng
+
+47. Một lỗi (error) là?
+{{Một bước, quy trình hoặc dữ liệu định nghĩa sai trong một chương trình máy tính. 
+Một điểm yếu trong quy trình. 
+Một hành động của con người mà tạo ra một kết quả không chính xác. 
+Bắt nguồn từ hành vi cụ thể}}
+ANS:Một hành động của con người mà tạo ra một kết quả không chính xác
+
+48. Mức độ kiểm thử nào sau đây thuộc quá trình xác nhận (Validation)?
+{{Kiểm thử đơn vị (Unit Testing).. 
+Kiểm thử chấp nhận (Acceptance Testing).. 
+Kiểm thử tích hợp (Integration Testing).. 
+Kiểm thử hệ thống (System Testing).}}
+ANS:Kiểm thử chấp nhận (Acceptance Testing).
+
+49. Điền vào chỗ trống
+Mục tiêu của người kiểm thử là {{}}() lỗi càng sớm càng tốt
+ANS:loại bỏ
+
+50. Ở mức độ (level) nào thì mọi người bắt đầu nhận ra rằng thử nghiệm (testing) chỉ là 1 cách để cái tiến được chương trình?
+{{Mức độ 2.. 
+Mức độ 4.. 
+Mức độ 1.. 
+Mức độ 3.}}
+ANS:Mức độ 4.
+
+51. Pha nào phát hiện lỗi trước trong số các pha sau?
+{{Kiểm thử hệ thống. 
+Kiểm định (Verification). 
+Thẩm định (Validation). 
+Kiểm thử tích hợp}}
+ANS:Kiểm định (Verification)
+
+52. Phát biểu nào sau đây là đúng về mô hình chữ V?
+{{Nó bao gồm việc kiểm định và thẩm định. 
+Nó xác định các kỹ thuật kiểm thử được sử dụng. 
+Nó chỉ mô hình hóa pha kiểm thử. 
+Nó khẳng định rằng mô-đun được thử nghiệm mâu thuẫn với yêu cầu người dùng.}}
+ANS:Nó bao gồm việc kiểm định và thẩm định
+
+53. Quá trình kiểm thử dựa trên phân tích động không tồn tại bước nào sau đây?
+{{Lập kế hoạch kiểm thử. 
+Nghiên cứu khả thi. 
+Chạy các ca kiểm thử. 
+Phát triển ca kiểm thử}}
+ANS:Nghiên cứu khả thi
+
+54. Tại sao phải bắt đầu kiểm thử sớm?
+{{Vì kiểm thử do riêng một nhóm thực hiện.. 
+Vì bắt đầu kiểm thử sớm dễ hơn là muộn.. 
+Vì bắt đầu kiểm thử muộn sẽ không phát hiện được lỗi.. 
+Vì bắt đầu kiểm thử muộn sẽ tiêu tốn nhiều nguồn lực.}}
+ANS:Vì bắt đầu kiểm thử muộn sẽ tiêu tốn nhiều nguồn lực.
+
+55. Thẩm định (validation) là quá trình để đảm bảo rằng sản phẩm đáp ứng được yêu cầu của?
+{{Giám đốc công ty. 
+Đặc tả yêu cầu. 
+Nhà đầu tư. 
+Khách hàng}}
+ANS:Khách hàng
+
+56. Thẩm định (validation) là quá trình kiểm tra xem sản phẩm theo đúng với thử nào sau đây?
+{{Yêu cầu của khách hàng.. 
+Thiết kế.. 
+Bàn giao.. 
+Lập trình.}}
+ANS:Yêu cầu của khách hàng.
+
+57. Thế nào là kiểm thử mức độ (level) 0?
+{{Kiểm thử mức độ (level) 0 thì có sự khác nhau rõ ràng giữa kiểm thử và tìm lỗi.. 
+Kiểm thử mức độ (level) 0 là tìm lỗi trong phần mềm.. 
+-. 
+Không có kiểm thử mức độ (level) 0.}}
+ANS:-
+
+58. Điền vào chỗ trống
+Trong các mức kiểm thử của Beizer, hiện nay đa số các công ty phần mềm đang dừng kiểm thử ở mức thứ {{}}().
+ANS:2
+
+59. Trong các quy trình phát triển phần mềm, đặc biệt là quy trình Agile, lập trình viên cần có kỹ năng kiểm thử tối thiểu ở mức độ nào để sản phẩm có chất lượng tốt nhất?
+{{Kiểm thử tích hợp (Integration Testing).. 
+Kiểm thử đơn vị (Unit Testing).. 
+Kiểm thử chấp nhận (Acceptance Testing).. 
+Kiểm thử hệ thống (System Testing).}}
+ANS:Kiểm thử đơn vị (Unit Testing).
+
+60. Điền vào chỗ trống
+Trong kiểm thử bậc {{}}(), kiểm thử viên làm việc với lập trình viên để giảm thiểu rủi ro.
+ANS:3
+
+61. Điền vào chỗ trống
+Trong kiểm thử bậc 3, {{}}() làm việc cùng nhà phát triển phần mềm để giảm thiểu rủi ro.
+ANS:kiểm thử viên
+
+62. Trong kiểm thử bậc 3, người kiểm thử làm việc cùng ai để giảm thiểu rủi ro?
+{{Người phát triển phần mềm.. 
+Quản lý dự án.. 
+Khách hàng.. 
+Nhà tài trợ dự án.}}
+ANS:Người phát triển phần mềm.
+
+63. Trong quá trình phát triển phần mềm, thường thì đâu là giai đoạn tiêu tốn nhiều thời gian và chi phí nhất?
+{{Triển khai.. 
+Thiết kế kiến trúc.. 
+Thu thập yêu cầu đặc tả.. 
+Kiểm thử.}}
+ANS:Kiểm thử.
+
+64. Trường hợp nào là ví dụ cho xác minh (Verification)?
+{{Phỏng vấn, tìm hiểu yêu cầu của khách hàng xem có phù hợp với mong đợi của họ hay không.. 
+Người phát triển làm một tính năng theo thiết kế.. 
+Các bài kiểm tra đơn vị ánh xạ các yêu cầu với hành vi của lớp.. 
+Thiết kế nguyên mẫu cho người dùng.}}
+ANS:Các bài kiểm tra đơn vị ánh xạ các yêu cầu với hành vi của lớp.
+
+65. Vấn đề nào sau đây phải được giải quyết nếu một chiến lược kiểm thử phần mềm thành công được thực hiện?
+{{Phát triển một kế hoạch thử nghiệm nhấn mạnh thử nghiệm chu kỳ nhanh. 
+Sử dụng các đánh giá kỹ thuật chính thức hiệu quả làm bộ lọc trước khi thử nghiệm. 
+Tất cả những điều đã đề cập. 
+Mục tiêu thử nghiệm của nhà nước một cách rõ ràng}}
+ANS:Tất cả những điều đã đề cập
+
+66. Việc phân tích nào được thực hiện dựa trên việc khảo sát các tài liệu được xây dựng trong quá trình phát triển sản phẩm phần mềm?
+{{Phân tích thiết kế. 
+Phân tích tĩnh. 
+Phân tích động. 
+Phân tích rủi ro}}
+ANS:Phân tích tĩnh
+
+67. Việc tăng chất lượng của phần mềm, bằng các phương pháp phát triển tốt hơn, sẽ ảnh hưởng đến thời gian cần thiết để kiểm thử (các giai đoạn kiểm thử) như thế nào?
+{{Tăng thời gian kiểm thử.. 
+Giảm thời gian kiểm thử.. 
+Tất cả đều đúng.. 
+Không có tác động gì.}}
+ANS:Giảm thời gian kiểm thử.
+
+68. Xác minh (Verification) là quá trình:
+{{Được thực hiện bởi một nhóm kiểm thử viên độc lập.. 
+Đảm bảo rằng hệ thống hiện tại đáp ứng những gì mà khách hàng muốn.. 
+Xây dựng và phát triển hệ thống.. 
+Kiểm tra xem hệ thống có đang được phát triển theo đúng như thiết kế ban đầu.}}
+ANS:Kiểm tra xem hệ thống có đang được phát triển theo đúng như thiết kế ban đầu.
+
+69. Các khiếm khuyết (Faults) thường được phát hiện nhiều nhất ở pha nào?
+{{Kiểm thử hệ thống.. 
+Triển khai.. 
+Kiểm thử tích hợp.. 
+Thực hiện và kiểm thử đơn vị.}}
+ANS:Kiểm thử hệ thống.
+
+70. Chi phí sửa chữa các khiếm khuyết (Faults) được phát hiện sẽ nhiều nhất ở pha nào?
+{{Thực hiện và kiểm thử đơn vị.. 
+Kiểm thử hệ thống.. 
+Triển khai.. 
+Thiết kế.}}
+ANS:Triển khai.
+
+71. Có ý kiến cho rằng: Rủi ro (risk) khi sử dụng phần mềm là luôn tồn tại, bất kể dù rủi ro lớn gây hỏng phần mềm đến rủi ro nhỏ gây trải nghiệm thất thường. Dựa vào bậc 3 của thang kiểm thử Beizer, ý kiến trên có đúng không?
+{{Ý kiến trên đúng về rủi ro khi sử dụng phần mềm.. 
+Ý kiến sai khi nói về rủi ro phần mềm: rủi ro là một khái niệm đã lỗi thời và không áp dụng vào những phần mềm hiện nay.. 
+Ý kiến sai khi nói về rủi ro phần mềm: rủi ro là điều có thể tránh khỏi và chữa được.. 
+Ý kiến sai khi nói về rủi ro phần mềm: rủi ro tuy là điều không thể tránh khỏi, nhưng nó luôn là những rủi ro nhỏ, không phải rủi ro quá to tát.}}
+ANS:Ý kiến trên đúng về rủi ro khi sử dụng phần mềm.
+
+72. Lỗi do sự khác biệt giữa kết quả thực thi chương trình với kết quả mong đợi của một thành phần, hệ thống hoặc dịch vụ nào đó gọi là lỗi gì?
+{{Thất bại (Failure). 
+Lỗi do mã (Error). 
+Lỗi (Defect). 
+Lỗi khuyết điểm (Fault)}}
+ANS:Thất bại (Failure)
+
+73. Lỗi sai (fault) được người dùng tìm thấy là do ý nào sau đây?
+{{Phần mềm chất lượng kém.. 
+Không đủ thời gian để kiểm thử.. 
+Phần mềm chưa đáp ứng được và kiểm thử chưa tìm ra hết lỗi.. 
+Tất cả đều sai.}}
+ANS:Phần mềm chưa đáp ứng được và kiểm thử chưa tìm ra hết lỗi.
+
+74. Một lỗi được phát hiện càng muộn, thì việc sửa chữa càng tốn kém. Tại sao?
+{{Tài liệu nghèo nàn, vì vậy sẽ mất nhiều thời gian hơn để tìm hiểu.. 
+Tất cả đều sai.. 
+Tốn lương trả công.. 
+Lỗi đã được tích hợp vào nhiều tài liệu, mã,...}}
+ANS:Lỗi đã được tích hợp vào nhiều tài liệu, mã,...
+
+75. Những gì thường được coi là phụ trợ cho bước mã hóa?
+{{Kiểm tra tích hợp. 
+Kiểm tra hồi quy. 
+Kiểm tra đơn vị. 
+Hoàn thành kiểm tra}}
+ANS:Kiểm tra đơn vị
+
+76. Chi phí dành cho việc kiểm thử là lớn nhất ở giai đoạn nào?
+{{Giai đoạn thiết kế.. 
+Giai đoạn tích hợp.. 
+Giai đoạn thực thi.. 
+Giai đoạn sau khi triển khai.}}
+ANS:Giai đoạn sau khi triển khai.
+
+77. Đặc điểm nào sau đây không phải là đặc điểm chung của kiểm thử phần mềm?
+{{Thử nghiệm được thực hiện bởi nhà phát triển phần mềm hoặc một nhóm thử nghiệm độc lập.. 
+Không có điều nào được đề cập.. 
+Các kỹ thuật kiểm tra khác nhau phù hợp tại các thời điểm khác nhau.. 
+Kiểm tra và gỡ lỗi là các hoạt động khác nhau, nhưng gỡ lỗi phải được thực hiện trong bất kỳ chiến lược kiểm tra nào.}}
+ANS:Các kỹ thuật kiểm tra khác nhau phù hợp tại các thời điểm khác nhau.
+
+78. Đâu không phải là mục đích chung của kiểm thử?
+{{Đánh giá trình độ của đội ngũ phát triển. 
+Duy trì sự hài lòng của khách hàng. 
+Nâng cao chất lượng sản phẩm. 
+Giảm chi phí phát triển}} 
+ANS:Đánh giá trình độ của đội ngũ phát triển
+
+79. Đâu không phải là mục đích của việc kiểm thử?
+{{Nâng cao chất lượng phần mềm. 
+Duy trì sự hài lòng của khách hàng.. 
+Đa dạng hóa công dụng của phần mềm.. 
+Giảm thiểu chi phí.}}
+ANS:Đa dạng hóa công dụng của phần mềm.
+
+80. Điều nào sau đây không phải là trường hợp kiểm thử hồi quy?
+{{Kiểm tra tập trung vào các thành phần phần mềm đã được thay đổi. 
+Các bài kiểm tra bổ sung tập trung vào các chức năng phần mềm có khả năng bị ảnh hưởng bởi sự thay đổi. 
+Một mẫu thử nghiệm đại diện sẽ thực hiện tất cả các chức năng phần mềm. 
+Các thành phần cấp thấp được kết hợp thành các cụm thực hiện một chức năng con phần mềm cụ thể}}
+ANS:Các thành phần cấp thấp được kết hợp thành các cụm thực hiện một chức năng con phần mềm cụ thể
+
+81. Kiểm thử nên được thực hiện lúc nào?
+{{Thực hiện sau khi phần mềm đã hoàn thiện giai đoạn phát triển. 
+Thực hiện lúc phần mềm đang được tích hợp vào hệ thống. 
+Càng sớm càng tốt trong vòng đời phát triển phần mềm. 
+Thực hiện lúc phần mềm đã được bàn giao cho đối tác}}
+ANS:Càng sớm càng tốt trong vòng đời phát triển phần mềm
+
+82. Mục đích của kiểm thử cấp độ 3 là gì?
+{{Kiểm thử và gỡ lỗi. 
+Thể hiện rằng phần mềm không họat động. 
+Thể hiện sự đúng đắn. 
+Giảm thiểu rủi ro}}
+ANS:Giảm thiểu rủi ro
+
+83. Nâng cao chất lượng trở thành kỷ luật từ trong tinh thần là đặc điểm của mức độ trưởng thành nào trong kiểm thử?
+{{Mức độ 4.. 
+Mức độ 1.. 
+Mức độ 2.. 
+Mức độ 3.}}
+ANS:Mức độ 4.
+
+84. Ở cấp độ thử nghiệm nào, trọng tâm là mức độ sử dụng của khách hàng?
+{{Kiểm thử alpha. 
+Cả Alpha và Beta. 
+Kiểm thử Beta. 
+Kiểm thử xác thực}}
+ANS:Cả Alpha và Beta
+
+85. Trường hợp nào khả thi nhất nếu đoạn chương trình hoàn thành hết tất cả các ca kiểm thử và không sai một ca nào?
+{{Chương trình đã hoàn thiện.. 
+Các ca kiểm thử đó không phát hiện được lỗi.. 
+Tất cả các đáp án đều sai.. 
+Chương trình đã hoàn thiện hoặc các ca kiểm thử đó không phát hiện được lỗi.}}
+ANS:Chương trình đã hoàn thiện hoặc các ca kiểm thử đó không phát hiện được lỗi.
+
+----------------------------
+1. Cơ sở kiểm thử (Test Basis) của kiểm thử thành phần không bao gồm ý nào trong các ý dưới đây?
+{{Biểu đồ tuần tự (Sequence diagrams). 
+Mã nguồn (Code). 
+Thiết kế chi tiết (Detailed Design). 
+Mô hình dữ liệu (Data Model)}}
+ANS:Biểu đồ tuần tự (Sequence diagrams)
+
+2. Cơ sở kiểm thử (Test Basis) của kiểm thử tích hợp không bao gồm ý nào trong các ý dưới đây?
+{{Tài liệu đặc tả phần mềm (SRS). 
+Biểu đồ tuần tự (Sequence Diagrams). 
+Đặc tả sử dụng (Use case). 
+Quy trình làm việc (Workflows)}}
+ANS:Tài liệu đặc tả phần mềm (SRS)
+
+3. Đâu là một đặc tính tốt của bất kì mô hình kiểm thử nào?
+{{Thêm một vài hoạt động kiểm thử trong quá trình phát triển. 
+Bắt đầu phân tích và thiết kế ca kiểm thử ngay sau khi phát triển xong. 
+Mỗi giai đoạn kiểm thử đều có mục tiêu cụ thể. 
+Tất cả đối tượng đều tham gia quá trình kiểm thử}}
+ANS:Mỗi giai đoạn kiểm thử đều có mục tiêu cụ thể
+
+4. Điều nào sau đây là một hình thức kiểm tra chức năng?
+{{Phân tích giá trị biên. 
+Kiểm thử hiệu năng. 
+Kiểm thử thành phần. 
+Kiểm tra khả năng sử dụng}}
+ANS:Phân tích giá trị biên
+
+5. Điều nào sau đây là thử nghiệm phi chức năng?
+{{Kiểm thử hiệu năng. 
+Kiểm thử thành phần. 
+Kiểm thử hộp đen (Black box testing). 
+Kiểm thử hộp trắng (White box testing)}}
+ANS:Kiểm thử hiệu năng
+
+6. Kiểm tra hệ thống phi chức năng bao gồm?
+{{Kiểm thử các thuộc tính của hệ thống bao gồm hiệu năng và khả năng sử dụng.. 
+Kiểm thử để xem nơi hệ thống không hoạt động đúng chức năng.. 
+Kiểm tra tính năng hệ thống chỉ sử dụng phần mềm cần thiết cho chức năng đó.. 
+Kiểm thử các chức năng có thể không tồn tại.}}
+ANS:Kiểm thử để xem nơi hệ thống không hoạt động đúng chức năng.
+
+7. Mô hình V là gì?
+{{Kỹ thuật thiết kế thử nghiệm. 
+Mức độ kiểm tra. 
+Loại thử nghiệm. 
+Mô hình SDLC}}
+ANS:Mức độ kiểm tra
+
+8. Một tập các yếu tố đầu vào, bao gồm điều kiện ràng buộc và kết quả mong đợi được gọi là gì?
+{{Kế hoạch kiểm thử.. 
+Trường hợp kiểm thử.. 
+Bộ kiểm thử.. 
+Tài liệu kiểm thử.}}
+ANS:Trường hợp kiểm thử.
+
+9. Nếu một ứng dụng cho phép thực thi nhiều phiên bản của chính nó, chúng sẽ xuất hiện trên màn hình dưới dạng các cửa sổ riêng biệt được gọi là
+{{Thực đơn. 
+Con trỏ. 
+Các tab. 
+Cửa sổ}}
+ANS:Cửa sổ
+
+10. Phương pháp kiểm thử giá trị biên được thường xuyên sử dụng trong loại kiểm thử nào sau đây?
+{{Kiểm thử tự động. 
+Kiểm thử chức năng. 
+Kiểm thử dựa trên mô hình. 
+Kiểm thử hộp trắng}}
+ANS:Kiểm thử chức năng
+
+11. Phương pháp kiểm thử mà trong đó các ca kiểm thử được sinh ra từ mô hình đặc tả hành vi của hệ thống đang được kiểm thử là?
+{{Kiểm thử tích hợp. 
+Kiểm thử dựa trên mô hình. 
+Kiểm thử dòng dữ liệu. 
+Kiểm thử dòng điều khiển}}
+ANS:Kiểm thử dựa trên mô hình
+
+12. Sự khác nhau giữa kiểm thử hộp đen và kiểm thử hộp trắng là gì?
+{{Hộp đen là chức năng, hộp trắng là phi chức năng.. 
+Hộp đen có chiều rộng lớn hơn hộp trắng.. 
+Hộp đen là chức năng, hộp trắng là cấu trúc.. 
+Hộp đen chỉ có thể thực hiện sau hộp trắng.}}
+ANS:Hộp đen là chức năng, hộp trắng là cấu trúc.
+
+13. Thử nghiệm Sanity là gì?
+{{Loại thử nghiệm. 
+Kỹ thuật thiết kế thử nghiệm. 
+Mức độ thực thi kiểm tra. 
+Mức độ kiểm tra}}
+ANS:Mức độ thực thi kiểm tra
+
+14. Điền vào chỗ trống
+Trong kĩ thuật {{}}(), hành vi và hiệu suất của chương trình được chú ý xem xét.
+ANS:kiểm thử tĩnh
+
+15. Điền vào chỗ trống
+Trong kỹ thuật {{}}(), các thuộc tính hành vi và hiệu suất của chương trình được chú ý xem xét.
+ANS:Kiểm thử tĩnh
+
+16. Trong kỹ thuật nào các thuộc tính hành vi và hiệu suất của chương trình được chú ý xem xét?
+{{Kiểm thử chấp nhận.. 
+Kiểm thử đơn vị. 
+Kiểm thử tĩnh.. 
+Không có đáp án đúng.}} 
+ANS:Kiểm thử tĩnh.
+
+17. Điền vào chỗ trống
+{{}}() là quá trình sinh ra các giá trị đầu vào để đáp ứng điểu kiện bao phủ hoặc các mục đích kỹ thuật khác.
+ANS:Thiết kế kiểm thử
+
+18. _____ không phải là Tài liệu Thử nghiệm?
+{{Trường hợp thử nghiệm. 
+Mã PIN (Ghi chú Khởi động Dự án). 
+Chính sách kiểm tra. 
+RTM (Ma trận xác định nguồn gốc yêu cầu)}}
+ANS:Chính sách kiểm tra
+
+19. _____ có phải là Người kiểm tra Đơn vị Kiểm thử không?
+{{Khách hàng. 
+Nhà phân tích kinh doanh. 
+Người kiểm tra độc lập. 
+Nhà phát triển}} 
+ANS:Người kiểm tra độc lập
+
+20. Điền vào chỗ trống
+{{}}() là quá trình tìm ra chỗ sai trong mã nguồn. 
+ANS:Gỡ lỗi
+
+21. Điền vào chỗ trống
+Các mức kiểm thử hệ thống bao gồm {{}}(), kiểm thử mô đun, kiểm thử tích hợp và kiểm thử hệ thống.
+ANS:kiểm thử đơn vị
+
+22. Đâu không phải là lợi ích của điều kiện bao phủ (Coverage Criteria)?
+{{Tạo điều kiện cho kiểm thử hồi quy diễn ra dễ dàng hơn.. 
+Tránh việc lặp lại khi chạy các ca kiểm thử.. 
+Giúp chuyên viên kiểm thử đánh giá ca kiểm thử dễ dàng.. 
+Bao trùm được hết không gian tìm kiếm.}}
+ANS:Giúp chuyên viên kiểm thử đánh giá ca kiểm thử dễ dàng.
+
+23. Điền vào chỗ trống
+Hoạt động đánh giá phần mềm bằng cách thực thi được gọi là {{}}().
+ANS:kiểm thử
+
+24. Khái niệm nào sau đây không liên quan đến kiểm thử tĩnh?
+{{Soạn tài liệu. 
+Công cụ chuẩn bị dữ liệu. 
+Phát hiện khuyết điểm sớm. 
+Trình biên dịch}}
+ANS:Công cụ chuẩn bị dữ liệu
+
+25. Kiểm thử chức năng là gì?
+{{Mô hình SDLC. 
+Mức độ kiểm tra. 
+Kỹ thuật thiết kế thử nghiệm. 
+Loại thử nghiệm}}
+ANS:Loại thử nghiệm
+
+26. Kiểm thử tích hợp là gì?
+{{Kỹ thuật thiết kế thử nghiệm. 
+Mức độ kiểm tra. 
+Loại thử nghiệm. 
+Mô hình SDLC}}
+ANS:Mô hình SDLC
+
+27. Kìm câu trả lời sai trong các câu sau?
+{{Kiểm thử chỉ có thể cho thấy sự hiện diện của các lỗi chứ không phải sự vắng mặt của chúng.. 
+Tester thường gọi kiểm test là thành công (hoặc hiệu quả) nếu nó phát hiện ra lỗi. 
+Kìm ra tất cả các thất bại (failure) trong phần mềm là không thể xác định được. 
+Kiểm thử chỉ có thể cho thấy sự hiện diện của các lỗi và sự vắng mặt của chúng.}}
+ANS:Kiểm thử chỉ có thể cho thấy sự hiện diện của các lỗi và sự vắng mặt của chúng.
+
+28. Điền vào chỗ trống
+Mô hình {{}}() là viết tắt cho Reachability, Infection, Propagation, Reveal.
+ANS:RIPR
+
+29. Mô hình RIPR là gì?
+{{RIPR là tên viết tắt của 4 yếu tố cần thiết để cho 1 lỗi phần mềm được quan sát thấy.. 
+Tất cả đều đúng.. 
+Là bao gồm 4 yếu tố Reachability, Infection, Propagation, Revealability với 4 chữ cái đầu tiên của từng yếu tố là tên viết tắt của mô hình.. 
+Là 1 mô hình kiểm thử.}}
+ANS:Tất cả đều đúng.
+
+30. Mô hình RIPR viết tắt cho những đặc trưng nào?
+{{Reliability, Infection, Propagation, Reveal. 
+Reachability, Infection, Propagation, Reveal. 
+Reachability, Infection, Propagation, Realization. 
+Reachability, Inability, Probability, Reveal}}
+ANS:Reachability, Infection, Propagation, Reveal
+
+31. Những yếu tố nào được chấp nhận bởi hành vi của phần mềm để được coi là được chấp nhận?
+{{Độ tin cậy (reliability), độ an toàn (safety). 
+Khả năng bảo trì(maintainability), sự an toàn (security). 
+Hiệu quả (efficency). 
+Tất cả các đáp án trên}}
+ANS:Tất cả các đáp án trên
+
+32. Phát biểu nào về kiểm thử (testing) và gỡ lỗi (debugging) sau đây là đúng?
+{{Kiểm thử sẽ được thực hiện để tìm ra thất bại (failure), gỡ lỗi sẽ dựa vào quá trình kiểm thử mà bị thất bại để tìm ra lỗi chương trình (fault).. 
+Gỡ lỗi sẽ được thực hiện trước để tìm ra thất bại (failure), sau đó kiểm thử sẽ được thực hiện để phát hiện ra lỗi (fault) của phần mềm.. 
+Kiểm thử và gỡ lỗi chỉ được dùng khi phần mềm đó đã hoàn thiện và không còn lỗi nguy hiểm.. 
+Chúng không có mối quan hệ nào cả.}}
+ANS:Kiểm thử sẽ được thực hiện để tìm ra thất bại (failure), gỡ lỗi sẽ dựa vào quá trình kiểm thử mà bị thất bại để tìm ra lỗi chương trình (fault).
+
+33. Điền vào chỗ trống
+Quá trình tìm lỗi sai trong mã nguồn được gọi là {{}}().
+ANS:gỡ lỗi
+
+34. Tại sao không thể có khái niệm đúng (correctness) cho phần mềm?
+{{Khái niệm này không có đinh nghĩa. 
+Khái niệm này rất chung chung và không cụ thể. 
+Tất cả các đáp án trên. 
+Vì phần mềm luôn được nhận lệnh được mở rộng lên cấu trúc vật lý (physical structure) và logic luôn ngày một phức tạp}}
+ANS:Tất cả các đáp án trên
+
+35. Ý nào sau đây đúng về phần mềm kiểm thử (testware) (gồm trường hợp kiểm thử (test case) và tập dữ liệu kiểm thử (test dataset))?
+{{Chỉ cần thiết cho đến khi phần mềm được phát hành vào sản xuất hoặc sử dụng.. 
+Cần quản lý cấu hình giống như yêu cầu, thiết kế và mã.. 
+Nên được xây dựng mới cho mỗi phiên bản mới của phần mềm.. 
+Tất cả đều sai.}}
+ANS:Cần quản lý cấu hình giống như yêu cầu, thiết kế và mã.
+
+36. Các bài kiểm thử nên được chạy theo thứ tự nào?
+{{Tùy thứ tự nào cũng được.. 
+Các bài kiểm tra dễ nhất trước tiên (để tạo sự tự tin ban đầu).. 
+Các bài kiểm thử quan trọng nhất đầu tiên.. 
+Những bài kiểm thử khó nhất trước tiên (để có thời gian sửa chữa tối đa).}}
+ANS:Các bài kiểm thử quan trọng nhất đầu tiên.
+
+37. Kỹ thuật nào sau đây là một hình thức của kiểm thử chức năng (Functional testing)?
+{{Kiểm thử bảo mật. 
+Kiểm thử hiệu suất. 
+Kiểm thử khả năng sử dụng. 
+Kiểm thử giá trị biên}}
+ANS:Kiểm thử giá trị biên
+
+38. Mô hình khuếch đại lỗi nào được sử dụng để minh họa việc tạo ra và phát hiện lỗi trong các bước sơ bộ của quy trình kỹ thuật phần mềm?
+{{Mã hóa.. 
+Thiết kế.. 
+Tất cả các đáp án trên. 
+Thiết kế chi tiết.}}
+ANS:Tất cả các đáp án trên
+
+39. Người quản lí kiểm thử (Test manager) có vai trò gì trong kiểm thử?
+{{Thiết kế kiểm thử.. 
+Thực thi kiểm thử.. 
+Đánh giá kiểm thử.. 
+Giám sát quá trình kiểm thử.}}
+ANS:Giám sát quá trình kiểm thử.
+
+40. Điền vào chỗ trống
+Thiết kế và xây dựng kiểm thử là giai đoạn tốn {{}}() nhất của công việc kiểm thử.
+ANS:thời gian
+
+41. Viết tắt thuật ngữ CASE?
+{{Kỹ thuật phần mềm được ủy quyền máy tính. 
+Kỹ thuật phần mềm hỗ trợ máy tính. 
+Kỹ thuật phần mềm được ủy quyền chung. 
+Kỹ thuật phần mềm hỗ trợ máy tính}}
+ANS:Kỹ thuật phần mềm được ủy quyền máy tính
+
+42. Điền vào chỗ trống
+{{}}() được thực hiện sau khi có những thay đổi trong phần mềm, để đảm bảo rằng phần mềm sau khi được cập nhật vẫn có những chức năng nó có trước khi cập nhật.
+ANS:Kiểm thử hồi quy
+
+43. Điền vào chỗ trống
+{{}}() là mô hình đặc trưng cho các cấp độ kiểm thử và cách chúng liên quan đến hoạt động phát triển phần mềm.
+ANS:Mô hình V
+
+44. Đâu không phải là một kỹ thuật kiểm thử hộp trắng?
+{{Kiểm thử chuyển đổi trạng thái (State transition testing).. 
+Kiểm thử luồng dữ liệu (Data flow testing).. 
+Kiểm thử đường dẫn (Path testing).. 
+Kiểm thử trạng thái (Statement testing).}}
+ANS:Kiểm thử chuyển đổi trạng thái (State transition testing).
+
+45. Đâu không phải là một mức độ kiểm thử?
+{{Kiểm thử tích hợp (Integration Testing).. 
+Kiểm thử chấp nhận (Acceptance Testing).. 
+Kiểm thử chức năng (Functional Testing).. 
+Kiểm thử hệ thống (System Testing).}} 
+ANS:Kiểm thử chức năng (Functional Testing).
+
+46. Đâu không phải là một phương pháp tiếp cận để kiểm thử tích hợp?
+{{Từ dưới lên.. 
+Tất cả các phương án trên đều đúng.. 
+Từ trên xuống. 
+Big-Bang. (\. 
+\. 
+câu trả lời này không có nghĩa tiếng việt đúng để dịch)}}
+ANS:Tất cả các phương án trên đều đúng.
+
+47. Đâu là mục tiêu chính của kiểm thử chấp nhận (Acceptance testing)?
+{{Đánh giá phần mềm liên quan đến thiết kế kiến trúc và hành vi tổng thể.. 
+Đánh giá phần mềm theo yêu cầu hoặc nhu cầu của người dùng.. 
+Đánh giá phần mềm liên quan đến thiết kế hệ thống con.. 
+Đánh giá phần mềm liên quan đến việc triển khai.}}
+ANS:Đánh giá phần mềm theo yêu cầu hoặc nhu cầu của người dùng.
+
+48. Đâu là nhược điểm của hướng tiếp cận Big Bang trong kiểm thử tích hợp?
+{{Khó xác định được lỗi thuộc mô đun nào. 
+Khó phát hiện lỗi ở những mô đun quan trọng. 
+Khó phát hiện lỗi ở những mô đun không quan trọng. 
+Không tìm ra được nguyên nhân}}
+ANS:Khó xác định được lỗi thuộc mô đun nào
+
+49. Đâu là việc cần làm khi thực hiện kiểm thử tích hợp (Integration Testing)?
+{{Kiểm tra các thành phần riêng lẻ (components) đã được phát triển.. 
+Kiểm tra tương tác giữa các mô đun đã được phát triển.. 
+Kiểm tra xem giao diện đã đúng với mô tả hay chưa.. 
+Kiểm tra xem khách hàng đã hài lòng với sản phẩm hay chưa.}}
+ANS:Kiểm tra tương tác giữa các mô đun đã được phát triển.
+
+50. Hoạt động kiểm thử nào được thiết kế để đánh giá các đơn vị sản xuất trong giai đoạn thực hiện?
+{{Kiểm thử mô-đun (Module testing).. 
+Kiểm thử đơn vị (Unit testing).. 
+Kiểm thử chấp nhận (Acceptance testing).. 
+Kiểm thử hệ thống (System testing).}}
+ANS:Kiểm thử đơn vị (Unit testing).
+
+51. Điền vào chỗ trống
+Kiểm thử {{}}() (Integration testing) là kiểm thử để kiểm tra sự tương tác của các mô đun.
+ANS:tích hợp
+
+52. Kiểm thử để kiểm tra sự tương tác của các mô đun là:
+{{Kiểm thử hệ thống (System testing). 
+Kiểm thử tích hợp (Integration testing). 
+Kiểm thử chấp nhận (Acceptance testing). 
+Kiểm thử đơn vị (Unit testing)}}
+ANS:Kiểm thử tích hợp (Integration testing)
+
+53. Kiểm thử đơn vị được thực hiện bởi ai?
+{{Nhà phát triển.. 
+Người dùng.. 
+Không có đáp án đúng.. 
+Khách hàng.}}
+ANS:Nhà phát triển.
+
+54. Kiểm thử hệ thống thuộc loại kiểm thử nào?
+{{Kiểm thử đơn vị.. 
+Kiểm thử tích hợp.. 
+Kiểm thử hộp trắng.. 
+Kiểm thử hộp đen.}}
+ANS:Kiểm thử hộp đen.
+
+55. Kiểm thử hộp trắng thường không được sử dụng trong hoạt động kiểm thử nào?
+{{Kiểm thử tích hợp.. 
+Kiểm thử đơn vị.. 
+Kiểm thử chấp nhận.. 
+Kiểm thử hệ thống.}}
+ANS:Kiểm thử chấp nhận.
+
+56. Kiểm thử tích hợp phải giả định các mô-đun hoạt động _____________.
+{{Chính xác khi chúng được kết nối với nhau.. 
+Lỗi khi chúng hoạt động độc lập.. 
+Chính xác khi chúng hoạt động độc lập.. 
+Lỗi khi chúng được kết nối với nhau.}}
+ANS:Chính xác khi chúng được kết nối với nhau.
+
+57. Kiểm thử từng lớp, mô đun, thành phần là:
+{{Kiểm thử chấp nhận (Acceptance testing). 
+Kiểm thử đơn vị (Unit testing). 
+Kiểm thử mô đun (Module testing). 
+Kiểm thử tích hợp (Integration testing)}}
+ANS:Kiểm thử mô đun (Module testing)
+
+58. Kiểm tra Bảng Quyết định là gì?
+{{Kỹ thuật thiết kế kiểm tra hộp xám. 
+Kỹ thuật thiết kế thử nghiệm dựa trên kinh nghiệm. 
+Kỹ thuật thiết kế thử nghiệm hộp trắng. 
+Kỹ thuật thiết kế kiểm tra hộp đen}}
+ANS:Kỹ thuật thiết kế kiểm tra hộp đen
+
+59. Kỹ thuật Hộp trắng còn được gọi là gì?
+{{Kiểm tra dựa trên thiết kế. 
+Kiểm tra kết cấu. 
+Kỹ thuật đoán lỗi. 
+Kỹ thuật dựa trên kinh nghiệm}}
+ANS:Kiểm tra kết cấu
+
+60. Loại kiểm thử nào có công việc chính là thực hiện lại một số tập hợp con các kiểm thử đã được tiến hành để đảm bảo các thay đổi không bị lan truyền?
+{{Kiểm tra dựa trên chuỗi (Thread-based testing).. 
+Kiểm thử đơn vị.. 
+Kiểm thử tích hợp.. 
+Kiểm thử hồi quy.}}
+ANS:Kiểm thử đơn vị.
+
+61. Loại kiểm thử nào sau đây thuộc về kiểm thử tích hợp trong ngữ cảnh hướng đối tượng?
+{{Kiểm thử đơn vị.. 
+Kiểm tra dựa trên chuỗi (Thread-based testing).. 
+Kiểm thử hồi quy.. 
+Kiểm thử sandwich (kết hợp giữa phương pháp dưới lên và trên xuống).}}
+ANS:Kiểm tra dựa trên chuỗi (Thread-based testing).
+
+62. Mô hình chữ V là gì?
+{{Một mức độ kiểm thử.. 
+Một phương pháp kiểm thử.. 
+Một kỹ thuật thiết kế kiểm thử.. 
+Một mô hình về vòng đời phát triển phần mềm.}}
+ANS:Một mô hình về vòng đời phát triển phần mềm.
+
+63. Mục đích chính của kiểm thử thành phần (Component Testing) là gì?
+{{Kiểm tra các chương trình. 
+Kiểm tra các hàm. 
+Kiểm tra hệ thống. 
+Kiểm tra tương tác giữa các hàm}}
+ANS:Kiểm tra các hàm
+
+64. Tài liệu Kiểm tra nào mô tả Tiêu chí Thoát của Kiểm tra?
+{{Kế hoạch kiểm tra. 
+Trường hợp thử nghiệm. 
+Báo cáo khiếm khuyết. 
+Báo cáo tóm tắt thử nghiệm}}
+ANS:Trường hợp thử nghiệm
+
+65. Thông thường, ai là người thực hiện việc kiểm thử hệ thống (System Testing)?
+{{Chuyên viên phân tích nghiệp vụ (Business Analyst).. 
+Lập trình viên, nhà phát triển (Developer).. 
+Kiểm thử viên (Tester).. 
+Quản lý dự án (Project Manager).}}
+ANS:Kiểm thử viên (Tester).
+
+66. Thông thường, người thực hiện việc kiểm thử chấp nhận là?
+{{Người dùng cuối.. 
+Người quản lý dự án.. 
+Đội ngũ kiểm thử.. 
+Đội ngũ phát triển phần mềm.}}
+ANS:Người dùng cuối.
+
+67. Thử nghiệm hoàn chỉnh là?
+{{Không thực tế và không thể. 
+Luôn luôn có thể. 
+Thực tế và có thể. 
+Không thực tế nhưng có thể}}
+ANS:Không thực tế nhưng có thể
+
+68. Thứ tự mà các cấp độ kiểm tra được thực hiện là:
+{{Nó phụ thuộc vào bản chất của một dự án.. 
+Đơn vị, Tích hợp, Chấp nhận, Hệ thống.. 
+Đơn vị, Hệ thống, Tích hợp, Chấp nhận.. 
+Đơn vị, Tích hợp, Hệ thống, Chấp nhận.}}
+ANS:Nó phụ thuộc vào bản chất của một dự án.
+
+69. Thứ tự thông thường của các hoạt động trong kiểm thử truyền thống là gì?
+{{Kiểm thử tích hợp, kiểm thử đơn vị, kiểm thử chấp nhận, kiểm thử hệ thống.. 
+Kiểm thử đơn vị, kiểm thử tích hợp, kiểm thử hệ thống, kiểm thử chấp nhận.. 
+Kiểm thử tích hợp, kiểm thử hệ thống, kiểm thử đơn vị, kiểm thử chấp nhận.. 
+Kiểm thử đơn vị, kiểm thử hệ thống, kiểm thử tích hợp, kiểm thử chấp nhận.}}
+ANS:Kiểm thử đơn vị, kiểm thử tích hợp, kiểm thử hệ thống, kiểm thử chấp nhận.
+
+70. Trong kiểm thử hướng đối tượng, kiểm thử liên phương thức là như thế nào ?
+{{Kiểm thử các cặp phương thức trong cùng một gói. 
+Kiểm thử các cặp phương thức trong cùng một lớp. 
+Kiểm thử các cặp phương thức trong khác lớp. 
+Kiểm thử từng phương thức riêng rẽ trong cùng một lớp}}
+ANS:Kiểm thử các cặp phương thức trong cùng một lớp
+
+71. Trong mô hình chữ V, thông tin cho mỗi cấp độ kiểm thử thường được lấy từ đâu?
+{{Từ dữ liệu kiểm thử của các hệ thống tương tự.. 
+Thông tin từ các cấp độ kiểm thử trước đó.. 
+Quá trình hoạt động hệ thống trong thực tế.. 
+Các hoạt động phát triển liên kết.}}
+ANS:Các hoạt động phát triển liên kết.
+
+72. Điền vào chỗ trống
+{{}}() là kiểm thử dựa theo các mô tả bên ngoài của phần mềm, bao gồm các thông số kĩ thuật, yêu cầu và thiết kế.
+ANS:Kiểm thử hộp đen
+
+73. Điền vào chỗ trống
+{{}}() là quá trình kiểm thử mà kiểm thử viên kiểm tra từ mã nguồn của phần mềm.
+ANS:Kiểm thử hộp trắng
+
+74. Câu nhận định nào sau đây sai?
+{{Kiểm thử hộp trắng tốn nhiều chi phí nên thường được áp dụng vào các hệ thống lớn.. 
+Kiểm thử hộp trắng có thể sử dụng cho cả kiểm thử đơn vị và kiểm thử hệ thống.. 
+Kiểm thử hộp trắng đòi hỏi kiến thức về chương trình trong phần mềm.. 
+Kiểm thử hộp đen chỉ dùng cho kiểm thử đơn vị.}}
+ANS:Kiểm thử hộp đen chỉ dùng cho kiểm thử đơn vị.
+
+75. Đâu không phải là ý đúng về điều kiện bao phủ?
+{{Điều kiện bao phủ thường được sử dụng để mô tả tỉ lệ hoàn thiện. 
+Thước đo của điều kiện bao phủ là tỉ lệ phần trăm số lỗi tìm thấy. 
+Điều kiện bao phủ có thể đo bằng một bộ kiểm thử. 
+Thước đo của điều kiện bao phủ là tỉ lệ bao phủ của yêu cầu khách hàng}}
+ANS:Thước đo của điều kiện bao phủ là tỉ lệ phần trăm số lỗi tìm thấy
+
+76. Điều nào sau đây sai khi nói về người thực hiện kiểm thử hộp đen?
+{{Kiểm thử dựa vào đầu vào và đầu ra của chương trình.. 
+Phải sáng tạo trong việc tìm ra điểm yếu của hệ thống.. 
+Phải hiểu và nắm được mã nguồn.. 
+Cần phải nắm được tài liệu đặc tả yêu cầu và chức năng của hệ thống.}}
+ANS:Phải hiểu và nắm được mã nguồn.
+
+77. Điền vào chỗ trống
+Kiểm thử hộp {{}}() là kiểm thử chức năng.
+ANS:đen
+
+78. Điền vào chỗ trống
+Kiểm thử hộp {{}}() là kiểm thử cấu trúc.
+ANS:trắng
+
+79. Kiểm thử hộp trắng có thể được thực hiện khi nào?
+{{Sau khi lập trình và có mã nguồn.. 
+Sau khi cài đặt chương trình.. 
+Sau khi thiết kế hệ thống.. 
+Sau khi thu thập yêu cầu đặc tả.}}
+ANS:Sau khi lập trình và có mã nguồn.
+
+80. Một miền đầu vào nhận giá trị năm sinh trong [1000, 2000]. Các giá trị biên để kiểm thử cho miền đầu vào này là:
+{{1000, 2000. 
+999, 1000, 2000, 2001, 2002. 
+0, 1900, 1990, 2000. 
+1000, 1001, 1090, 1999, 2000}}
+ANS:1000, 2000
+
+81. Phương pháp kiểm thử hộp trắng không áp dụng cho các mức độ kiểm tra phần mềm nào sau đây?
+{{Kiểm thử đơn vị (Unit Testing).. 
+Kiểm thử hệ thống (System Testing).. 
+Kiểm thử chấp nhận (Acceptance Testing).. 
+Kiểm thử tích hợp (Integration Testing).}}
+ANS:Kiểm thử chấp nhận (Acceptance Testing).
+
+82. Ý kiến nào sau đây mô tả đúng nhất về sự khác nhau giữa kiểm thử hộp đen và kiểm thử hộp trắng?
+{{Kiểm thử hộp đen đáng tin cậy hơn kiểm thử hộp trắng.. 
+Kiểm thử hộp đen là kiểm thử chức năng còn kiểm thử hộp trắng là kiểm thử phi chức năng.. 
+Kiểm thử hộp đen là kiểm thử chức năng còn kiểm thử hộp trắng là kiểm thử cấu trúc.. 
+Kiểm thử hộp đen chỉ có thể thực hiện sau kiểm thử hộp trắng.}}
+ANS:Kiểm thử hộp đen là kiểm thử chức năng còn kiểm thử hộp trắng là kiểm thử cấu trúc.
+
+83. Báo cáo kiểm thử là đầu ra của giai đoạn nào?
+{{Thiết kế kiểm thử.. 
+Thực hiện kiểm thử.. 
+Đánh giá kiểm thử.. 
+Tự động hóa kiểm thử.}} 
+ANS:Đánh giá kiểm thử.
+
+84. Câu nào sau đây là đúng về kiểm thử tích hợp thành phần?
+{{Kiểm tra tương tác giữa các hệ thống và thực hiện trong khi kiểm thử thành phần. 
+Kiểm tra tương tác giữa các thành phần và thực hiện sau khi kiểm thử thành phần. 
+Kiểm tra tương tác giữa các thành phần và thực hiện trong khi kiểm thử thành phần. 
+Kiểm tra tương tác giữa các thành phần và thực hiện sau khi kiểm thử thành phần}} 
+ANS:Kiểm tra tương tác giữa các thành phần và thực hiện sau khi kiểm thử thành phần
+
+85. Đâu là hướng tiếp cận của kiểm thử thành phần?
+{{Kiểm thử hộp đen (Black Box Testing). 
+Test trước, Code sau. 
+Kiểm thử chức năng. 
+Kiểm thử hộp trắng ( White Box Testing)}}
+ANS:Test trước, Code sau
+
+86. Đâu là một kỹ thuật đánh giá để đánh giá chất lượng của các ca kiểm thử?
+{{Kiểm định.. 
+Thẩm định.. 
+Phân tích đột biến.. 
+Phân tích hiệu suất.}}
+ANS:Phân tích đột biến.
+
+87. Điền vào chỗ trống
+Để kiểm thử toàn diện hệ thống cần có 2 hoạt động: kiểm thử dựa trên {{}}() và kiểm thử dựa trên con người.
+ANS:tiêu chí
+
+88. Giao diện (Interface) được kiểm thử trong pha nào?
+{{Kiểm thử hệ thống. 
+Kiểm thử chấp nhận. 
+Kiểm thử tích hợp. 
+Kiểm thử thành phần}}
+ANS:Kiểm thử tích hợp
+
+89. Hai phương pháp tiếp cận cho kiểm thử tích hợp là?
+{{Big Bang & Incremental (Tập hợp & Tăng tiến). 
+Chức năng và phi chức năng. 
+Hộp Đen và Hộp Trắng (Black Box & White Box). 
+Từ trên xuống dưới và chức năng}}
+ANS:Big Bang & Incremental (Tập hợp & Tăng tiến)
+
+90. Kiểm thử đơn vị được thực hiện bởi ai?
+{{Người lập trình.. 
+Người kiểm thử.. 
+Khách hàng.. 
+Người dùng.}}
+ANS:Người lập trình.
+
+91. Kiểm thử hệ thống sẽ không phát hiện được lỗi nào?
+{{Cấu trúc giao tiếp không nhất quán. 
+Điều khiển \. 
+ Luồng dữ liệu không chính xác. 
+Không thực hiện được đầy đủ chức năng. 
+Chức năng hoạt động không chính xác}}
+ANS:Cấu trúc giao tiếp không nhất quán
+
+92. Kiểm thử phần mềm với dữ liệu thực trong môi trường thực được gọi là gì?
+{{Kiểm thử beta.. 
+Kiểm thử xich-ma.. 
+Kiểm thử hồi quy.. 
+Kiểm thử alpha.}}
+ANS:Kiểm thử beta.
+
+93. Kiểm thử tích hợp sẽ phát hiện được lỗi nào?
+{{Lỗi bảo mật. 
+Quy trình làm việc không chính xác. 
+Lỗi giao tiếp giữa các thành phần. 
+Chức năng thực hiện sai yêu cầu}}
+ANS:Lỗi giao tiếp giữa các thành phần
+
+94. Người thực hiện công đoạn thiết kế ca kiểm thử (Test Design) không cần tìm hiểu quá rõ miền kiến thức nào sau đây?
+{{Kiến thức về lập trình. 
+Kiến thức về văn hóa. 
+Kiến thức về kiểm thử. 
+Kiến thức về toán rời rạc}}
+ANS:Kiến thức về văn hóa
+
+95. Sự khác biệt giữa kiểm thử lại và kiểm thử hồi quy là?
+{{Kiểm thử lại được thực hiện bởi các nhà phát triển; kiểm thử hồi quy được thực hiện bởi những người kiểm thử độc lập.. 
+Kiểm thư lại đang chạy thử lại; Kiểm thử hồi quy sẽ tìm ra các kết quả phụ bất ngờ.. 
+Kiểm thử lại được thực hiện sau khi sửa lỗi; kiểm thử hồi quy được thực hiện sớm hơn.. 
+Kiểm thử lại sẽ tìm ra các kết quả bất ngờ; kiểm thử hồi quy là lặp lại những bài kiểm tra.}}
+ANS:Kiểm thư lại đang chạy thử lại; Kiểm thử hồi quy sẽ tìm ra các kết quả phụ bất ngờ.
+
+96. Thử nghiệm Beta được thực hiện bởi ai?
+{{Nhà phát triển.. 
+Người dùng.. 
+Người lập trình.. 
+Người kiểm tra.}}
+ANS:Nhà phát triển.
+
+97. _____ không phải là Giai đoạn Vòng đời Kiểm tra Phần mềm?
+{{Lập kế hoạch kiểm tra. 
+Đóng thử nghiệm. 
+Thu thập yêu cầu. 
+Thiết kế thử nghiệm}}
+ANS:Thu thập yêu cầu
+
+98. Điền vào chỗ trống
+{{}}() là kiểm thử để tìm ra giới hạn của phần mềm, bằng cách cho vào những giá trị cực lớn hay cực nhỏ, các giá trị không hợp lệ, hoặc những giá trị làm cho phần mềm không thể dự tính được trong các trường hợp bình thường. 
+ANS:Stress test
+
+99. Điền vào chỗ trống
+{{}}() là quá trình thiết kế các dữ liệu đầu vào sẽ có ảnh hưởng đến phần mềm. 
+ANS:Thiết kế kiểm thử
+
+100. Điền vào chỗ trống
+{{}}() là quá trình thiết kế các giá trị đầu vào để kiểm tra hiệu quả phần mềm.
+ANS:Thiết kế kiểm thử
+
+101. Các trường hợp kiểm thử được thiết kế trong giai đoạn nào sau đây?
+{{Đặc tả kiểm thử. 
+Ghi chép kiểm thử. 
+Cấu hình kiểm thử. 
+Lập kế hoạch kiểm thử}}
+ANS:Đặc tả kiểm thử
+
+102. Các trường hợp kiểm tra sẽ phát hiện ra các lỗi như:
+{{Toán tử logic không chính xác hoặc ưu tiên. 
+Tất cả những điều đã đề cập. 
+So sánh các kiểu dữ liệu khác nhau. 
+Kết thúc vòng lặp không tồn tại}}
+ANS:Kết thúc vòng lặp không tồn tại
+
+103. Giai đoạn nào ảnh hưởng nhất đến chất lượng của hệ thống?
+{{Pha kiểm thử. 
+Pha thiết kế. 
+Pha phân tích. 
+Pha lên kế hoạch}}
+ANS:Pha lên kế hoạch
+
+104. Kiểm tra hệ thống là?
+{{Kiểm thử hộp trắng (White box testing). 
+Kiểm thử tích hợp. 
+Kiểm thử hộp đen (Black box testing). 
+Kiểm thử hộp xám (Grey box testing)}}
+ANS:Kiểm thử hộp đen (Black box testing)
+
+105. Kỹ thuật được áp dụng để kiểm tra khả năng sử dụng là?
+{{Kết hợp tất cả. 
+Kiểm thử hộp trắng (White box testing). 
+Kiểm thử hộp đen (Black box testing). 
+Kiểm thử hộp xám (Grey box testing)}} 
+ANS:Kiểm thử hộp đen (Black box testing)
+
+106. Kỹ thuật Hộp trắng cũng được phân loại là?
+{{Kiểm thử thành phần. 
+Kỹ thuật đoán lỗi. 
+Kiểm thử dựa trên thiết kế. 
+Kiểm thử cấu trúc}}
+ANS:Kiểm thử cấu trúc
+
+107. Lỗi nào sau đây không nên được kiểm tra khi xử lý lỗi được đánh giá?
+{{Lỗi được ghi nhận không tương ứng với lỗi gặp phải. 
+Mô tả lỗi cung cấp đủ thông tin để hỗ trợ xác định vị trí của nguyên nhân gây ra lỗi. 
+Mô tả lỗi khó hiểu. 
+Tình trạng lỗi gây ra sự can thiệp của hệ thống trước khi xử lý lỗi}}
+ANS:Mô tả lỗi khó hiểu
+
+108. Mức độ chi tiết nào của thử nghiệm kiểm tra hành vi hợp tác của mô-đun?
+{{Kiểm thử chấp nhận.. 
+Kiểm thử đơn vị.. 
+Kiểm thử hồi quy.. 
+Kiểm thử tích hợp.}}
+ANS:Kiểm thử tích hợp.
+
+109. Điền vào chỗ trống
+Người kiểm tra phải có kiến thức về miền ứng dụng của phần mềm, kiểm tra và {{}}().
+ANS:giao diện người dùng
+
+110. Nội dung nào sau đây không phải là một phần của tài liệu thiết kế thử nghiệm?
+{{Kế hoạch kiểm thử. 
+Đặc tả ca kiểm thử. 
+Nhật ký kiểm thử. 
+Đặc tả thiết kế kiểm thử}}
+ANS:Nhật ký kiểm thử
+
+111. Phân tích tĩnh KHÔNG tìm thấy gì?
+{{Vi phạm liên kết mảng. 
+Bộ nhớ bị rò rỉ. 
+Mã không thể truy cập (chết). 
+Việc sử dụng một biến trước khi nó được định nghĩa}}
+ANS:Việc sử dụng một biến trước khi nó được định nghĩa
+
+112. Tại sao kiểm thử tự động không dễ để thực hiện?
+{{Bởi vì máy tính hạn chế trong việc so sánh đầu ra. 
+Bởi vì bảo trì hệ thống kiểm thử rất khó. 
+Bởi vì các công cụ kiểm thử tự động rất khó dùng. 
+Bởi vì máy tính cần có hệ thống quản lý kiểm thử tự động}}
+ANS:Bởi vì bảo trì hệ thống kiểm thử rất khó
+
+113. Điền vào chỗ trống
+Thiết kế các mẫu kiểm thử dựa trên phần kiến thức của chương trình và con người là {{}}().
+ANS:kiểm thử dựa trên suy nghĩ của con người
+
+114. Điền vào chỗ trống
+{{}}() là là quá trình nhúng các giá trị kiểm thử vào các tập lệnh thực thi.
+ANS:Tự động hóa kiểm thử
+
+115. Khả năng kiểm thử (Testability) của một ca kiểm thử bị chi phối bởi các vấn đề nào?
+{{Vấn đề chất lượng của bộ kiểm thử đó.. 
+Vấn đề quan sát hành vi và kết quả khi bộ kiểm thử được thực thi.. 
+Vấn đề chọn giá trị để đưa vào bộ kiểm thử, và vấn đề quan sát hành vi và kết quả khi bộ kiểm thử được thực thi.. 
+Vấn đề chọn giá trị để đưa vào bộ kiểm thử.}}
+ANS:Vấn đề chọn giá trị để đưa vào bộ kiểm thử, và vấn đề quan sát hành vi và kết quả khi bộ kiểm thử được thực thi.
+
+116. Kiểm thử đơn vị (Unit test) được thực hiện bởi
+{{Khách hàng. 
+Người dùng. 
+Người kiểm thử. 
+Người lập trình}}
+ANS:Người lập trình
+
+117. Kiểm thử nào đề cập đến việc kiểm thử lại một đơn vị, tích hợp và hệ thống sau khi sửa đổi, để chắc chắn rằng sự thay đổi đó không tạo ra các lỗi mới?
+{{Kiểm thử Alpha (Alpha Test).. 
+Kiểm thử quy hồi (Regression Test).. 
+Kiểm thử khói (Smoke Test).. 
+Kiểm thử Beta (Beta Test).}}
+ANS:Kiểm thử quy hồi (Regression Test).
+
+118. Mục đích nào sau đây của kiểm thử tự động là KHÔNG ĐÚNG?
+{{Có thể kiểm thử được giao diện và trải nghiệm người dùng (UI\. 
+UX).. 
+Giảm lỗi gây ra bởi kiểm thử viên.. 
+Giảm chi phí.. 
+Thống nhất chất lượng giữa các ca kiểm thử.}}
+ANS:Có thể kiểm thử được giao diện và trải nghiệm người dùng (UI\/UX).
+
+119. Hoạt động nào sau đây đòi hỏi các kỹ năng máy tính cơ bản và không yêu cầu cao về kiến thức kỹ thuật?
+{{Thiết kế kiểm thử (Test Design). 
+Tự động hóa kiểm thử (Test Automation). 
+Thực thi kiểm thử (Test Execution). 
+Đánh giá kiểm thử (Test Evaluation)}}
+ANS:Thực thi kiểm thử (Test Execution)
+
+120. Kiểm tra hành vi là?
+{{Kiểm thử thành phần. 
+Kiểm thử hộp đen. 
+Kiểm thử hộp trắng. 
+Kiểm thử hộp xám}}
+ANS:Kiểm thử hộp đen
+
+121. Loại kiểm thử nào sau đây không phải là một phần của kiểm thử hệ thống?
+{{Kiểm thử hộp xám. 
+Kiểm thử hệ thống. 
+Kiểm thử ngẫu nhiên. 
+Kiểm thử thành phần}}
+ANS:Kiểm thử ngẫu nhiên
+
+122. Phân tích giá trị biên thuộc về?
+{{Kiểm thử hộp đen (Black box testing). 
+Kiểm thử hộp trắng (White box testing). 
+Kiểm thử thành phần. 
+Kiểm thử hộp xám (Grey box testing)}}
+ANS:Kiểm thử hộp đen (Black box testing)
+
+123. Trong chiến lược kiểm thử nào sau đây, đơn vị nhỏ nhất có thể kiểm tra được là lớp hoặc đối tượng được đóng gói?
+{{Kiểm thử hệ thống. 
+Kiểm thử thành phần. 
+Kiểm thử hộp trắng. 
+Kiểm thử hệ thống}}
+ANS:Kiểm thử thành phần
+
+124. Điền vào chỗ trống
+{{}}() là quá trình đánh giá kết quả của thử nghiệm và báo cáo cho các nhà phát triển.
+ANS:Đánh giá thử nghiệm
+
+125. Cái nào không phải là một phần của Kiểm tra thông số kỹ thuật?
+{{Bảng Quyết định. 
+Kiểm tra ca sử dụng. 
+Kiểm tra Quyết định. 
+Phân vùng tương đương}}
+ANS:Phân vùng tương đương
+
+126. Fault Masking là gì?
+{{Tạo một trường hợp thử nghiệm không để lộ lỗi. 
+Điều kiện lỗi ẩn điều kiện lỗi khác. 
+Che dấu lỗi của người thử nghiệm. 
+Che dấu lỗi của nhà phát triển}}
+ANS:Tạo một trường hợp thử nghiệm không để lộ lỗi
+
+127. Khi thực hiện đánh giá kiểm thử, kiến thức nào sau đây là không cần thiết?
+{{Kiến thức về tâm lý học.. 
+Kiến thức về giao diện người dùng.. 
+Kiến thức về kiểm thử.. 
+Kiến thức về y học.}}
+ANS:Kiến thức về y học.
+
+128. Thử nghiệm khám phá là gì?
+{{Kỹ thuật thiết kế thử nghiệm hộp trắng. 
+Kỹ thuật thiết kế thử nghiệm dựa trên kinh nghiệm. 
+Kỹ thuật thiết kế kiểm tra hộp đen. 
+Kỹ thuật thiết kế kiểm tra hộp xám}}
+ANS:Kỹ thuật thiết kế thử nghiệm dựa trên kinh nghiệm
+
+129. Các trường hợp kiểm tra bắt nguồn từ các ca sử dụng
+{{Hữu ích nhất trong việc che phủ các khiếm khuyết trong các dòng quy trình trong quá trình sử dụng hệ thống trong thế giới thực. 
+Hữu ích nhất trong việc phát hiện ra các khiếm khuyết trong các luồng quy trình trong quá trình sử dụng hệ thống trong thế giới thực. 
+Hữu ích nhất trong việc phát hiện ra các khiếm khuyết trong các luồng quy trình trong quá trình sử dụng thử nghiệm hệ thống. 
+Hữu ích nhất trong việc che phủ các khiếm khuyết ở Cấp độ Tích hợp}}
+ANS:Hữu ích nhất trong việc phát hiện ra các khiếm khuyết trong các luồng quy trình trong quá trình sử dụng hệ thống trong thế giới thực
+
+----------------------------
+1. Bạn không nên tự động hóa trường hợp kiểm thử nào?
+{{Các bài kiểm tra yêu cầu kiểm tra liên tục.. 
+Các thử nghiệm cần nhiều thời gian hơn để thực hiện.. 
+Các thử nghiệm yêu cầu thử nghiệm đa nền tảng.. 
+Các thử nghiệm không yêu cầu thực hiện lại.}}
+ANS:Các thử nghiệm không yêu cầu thực hiện lại.
+
+2. Các trường hợp kiểm thử được thiết kế trong giai đoạn nào sau đây?
+{{Cấu hình kiểm thử.. 
+Đặc điểm kỹ thuật kiểm thử.. 
+Lập kế hoạch kiểm thử.. 
+Ghi âm kiểm thử.}}
+ANS:Đặc điểm kỹ thuật kiểm thử.
+
+3. Cách tiếp cận nào sau đây là tốt nhất cho tự động hóa trong dài hạn?
+{{Bắt buộc người kiểm tra thủ công bắt đầu tự động hóa.. 
+Liên kết với các nhà phát triển để bắt đầu tự động hóa.. 
+Gia công các tác vụ tự động hóa cho các nhà cung cấp bên ngoài.. 
+Xây dựng một đội với các thành viên có kỹ năng phát triển.}} 
+ANS:Xây dựng một đội với các thành viên có kỹ năng phát triển.
+
+4. Cách tiếp cận nào sau đây là tốt nhất cho tự động hóa trong dài hạn?
+{{Đào tạo người kiểm thử thủ công và bắt đầu tự động hóa. 
+Xây dựng một đội với các thành viên có kỹ năng phát triển. 
+Liên kết với các nhà phát triển để bắt đầu tự động hóa. 
+Gia công các tác vụ tự động hóa cho các nhà cung cấp bên ngoài}}
+ANS:Xây dựng một đội với các thành viên có kỹ năng phát triển
+
+5. Đặc điểm nào sau đây không phải là đặc điểm của công cụ tự động hóa tốt?
+{{Hỗ trợ kiểm tra cơ sở dữ liệu.. 
+Tích hợp dễ dàng với các công cụ CI.. 
+Khả năng gỡ lỗi tốt.. 
+Hỗ trợ thử nghiệm đa nền tảng.}}
+ANS:Tích hợp dễ dàng với các công cụ CI.
+
+6. Đâu không không phải là một loại kiểm thử?
+{{Kiểm thử bảo mật.. 
+Kiểm thử cơ sở dữ liệu.. 
+Kiểm thử xác nhận.. 
+Kiểm tra chức năng.}}
+ANS:Kiểm thử xác nhận.
+
+7. Đâu không phải là mục tiêu của kiểm thử tự động (Test Automation)?
+{{Giúp việc kiểm thử quy hồi dễ dàng hơn bằng cách cho phép thực hiện kiểm thử nhiều lần với chỉ một thao tác nhấn nút.. 
+Giảm chi phí và thời gian kiểm thử.. 
+Giảm thiểu lỗi từ người phát triển.. 
+Giúp chương trình được kiểm thử có nhiều tính năng hơn.}}
+ANS:Giúp chương trình được kiểm thử có nhiều tính năng hơn.
+
+8. Đâu không phải là ưu điểm của kiểm thử tự động?
+{{Khả năng lặp.. 
+Khả năng tái sử dụng.. 
+Hiểu hơn về hệ thống.. 
+Độ tin cậy cao.}}
+ANS:Hiểu hơn về hệ thống.
+
+9. Điều nào sau đây không phải là nhược điểm của kiểm thử tự động hóa?
+{{Kiểm thử tự động phù hợp để tự động hóa chức năng hiện có.. 
+Kiểm tra tự động có thể bị phá vỡ cho đến khi mã trở nên ổn định.. 
+Kiểm thử tự động không khả thi đối với chức năng mới.. 
+Các tập lệnh tự động có thể cần làm lại nếu chức năng được thực hiện lại.}}
+ANS:Kiểm thử tự động không khả thi đối với chức năng mới.
+
+10. Điều nào sau đây không phải là nhược điểm của kiểm thử tự động?
+{{Kiểm thử tự động phù hợp để tự động hóa chức năng hiện có. 
+Các câu lệnh tự động có thể cần làm lại nếu chức năng được thực hiện lại. 
+Kiểm thử tự động không khả thi đối với chức năng mới. 
+Kiểm thử tự động có thể bị phá vỡ cho đến khi mã nguồn ổn định}}
+ANS:Kiểm thử tự động không khả thi đối với chức năng mới
+
+11. Điều nào sau đây không phải là ưu điểm của kiểm thử tự động ?
+{{Nó hữu ích cho việc kiểm tra các luồng đầu cuối. 
+Nó có thể giúp xác định các trường hợp kiểm thử ưu tiên cao. 
+Nó có thể phát hiện mức độ nghiêm trọng cao hoặc hiển thị lỗi nút. 
+Nó rất tốt cho việc xác nhận các luồng chức năng}}
+ANS:Nó có thể giúp xác định các trường hợp kiểm thử ưu tiên cao
+
+12. Điều nào sau đây không phải là ưu điểm của kiểm thử tự động?
+{{Khả năng bao phủ cao (High coverage).. 
+Khả năng tái sử dụng (Reuseability).. 
+Độ tin cậy cao (Reliability).. 
+Khả năng lặp (Repeatability).}}
+ANS:Khả năng bao phủ cao (High coverage).
+
+13. Điều nào sau đây không phải là yêu cầu tiên quyết cho kiểm thử tự động hóa?
+{{Tất cả đều sai.. 
+Mã và ứng dụng ổn định.. 
+Kỹ năng và kinh nghiệm kiểm thử.. 
+Tập lệnh kiểm thử (Test Script) sẵn sàng.}}
+ANS:Tập lệnh kiểm thử (Test Script) sẵn sàng.
+
+14. Điều nào sau đây là ưu điểm của kiểm thử tự động?
+{{Khả năng bao phủ cao (High coverage).. 
+Khả năng lặp (Repeatability).. 
+Dễ mở rộng (Easy scalability).. 
+Chi phí cao.}}
+ANS:Khả năng lặp (Repeatability).
+
+15. JUnit có hỗ trợ cơ chế sinh các ca kiểm thử không?
+{{. 
+. 
+Có.. 
+Không.}}
+ANS:Không.
+
+16. JUnit là công cụ cho các đơn vị kiểm thử được viết bằng?
+{{Java.. 
+Python.. 
+HTML.. 
+C++.}}
+ANS:Java.
+
+17. Khả năng kiểm tra bị chi phối bởi mấy vấn đề thực tế?
+{{2. 
+4. 
+3. 
+5}}
+ANS:2
+
+18. Kiểm thử đơn vị (Unit test) được thực hiện bời ai?
+{{Người lập trình. 
+Người quản lý dự án. 
+Người kiểm thử. 
+Người phân tích nghiệp vụ}}
+ANS:Người lập trình
+
+19. Kiểm thử dựa trên danh sách kiểm tra có thể dừng nếu
+{{Hết thời gian. 
+Không có tài nguyên có sẵn. 
+Mỗi mục trên danh sách kiểm tra được kiểm thử. 
+Mỗi mục trên danh sách kiểm tra được kiểm tra và thông qua (pass)}}
+ANS:Mỗi mục trên danh sách kiểm tra được kiểm tra và thông qua (pass)
+
+20. Kiểm thử hoàn chỉnh là:
+{{Không thực tế nhưng có thể.. 
+Không thực tế và không thể.. 
+Luôn có thể.. 
+Thực tế và có thể.}}
+ANS:Không thực tế nhưng có thể.
+
+21. Lý do nào sau đây không phải là lý do hợp lệ để tự động hóa (automating) trường hợp kiểm thử (test case)?
+{{Kiểm thử sẽ giúp tiết kiệm thời gian để thực hiện kiểm thử thăm dò(exploratory testing).. 
+iểm thử sẽ cần được thực hiện một lần, nhưng với một tập dữ liệu lớn.. 
+Bài kiểm thử (test) cho kết quả không liên tục và không thể kiểm tra bằng tay.. 
+Tất cả đều sai.}}
+ANS:Bài kiểm thử (test) cho kết quả không liên tục và không thể kiểm tra bằng tay.
+
+22. Lý do nào sau đây không phải là lý do hợp lệ để tự động hóa trường hợp kiểm thử?
+{{Kiểm thử sẽ cần được thực hiện 1 lần, nhưng với bộ dữ liệu lớn. 
+Kiểm thử sẽ giúp tiết kiệm thời gian để thực hiện kiểm thử khám phá. 
+Kiểm thử cho kết quả không liên tục và không thể kiểm thử bằng tay. 
+Kiểm thử là quan trọng đối với doanh nghiệp và trường hợp sử dụng điển hình để kiểm thử}}
+ANS:Kiểm thử cho kết quả không liên tục và không thể kiểm thử bằng tay
+
+23. Mục đích của bộ mô phỏng trong kiểm thử tự động là gì?
+{{Mô phỏng quá trình thực hiện của chương trình cần kiểm thử.. 
+So sánh giá trị đầu ra thực tế và đầu ra mong muốn của mỗi ca kiểm thử.. 
+Sinh ra các ca kiểm thử.. 
+Kiểm tra việc thực hiện các câu lệnh của chương trình cần kiểm thử.}}
+ANS:Mô phỏng quá trình thực hiện của chương trình cần kiểm thử.
+
+24. Phương thức assertNotNull() thất bại khi nào?
+{{Đối tượng không phải Null.. 
+Biểu thức đúng.. 
+Tham chiếu đối tượng Null.. 
+Biểu thức sai.}}
+ANS:Tham chiếu đối tượng Null.
+
+25. Phương thức nào trong JUnit được sử dụng để giúp tránh được việc trùng mã khi nhiều test cùng chia sẻ nhau ở phần khởi tạo và dọn dẹp các biến?
+{{Boolean assertNotSame().. 
+Void fail().. 
+Setup() và TearDown().. 
+Boolean assertFalse().}}
+ANS:Setup() và TearDown().
+
+26. Điền vào chỗ trống
+Phương thức Void fail() trong JUnit thường được ưu tiên khi xử lý các {{}}().
+ANS:ngoại lệ
+
+27. Tại sao lại thực hiện kiểm thử tự động (Automation testing)?
+{{Cải thiện hiệu quả của kiểm thử. 
+Giảm chi phí kiểm thử. 
+Tăng tỷ lệ phát hiện lỗi. 
+Cải thiện chất lượng của mã nguồn}}
+ANS:Cải thiện hiệu quả của kiểm thử
+
+28. Trong một bộ công cụ kiểm thử tự động, công cụ nào cho phép quản lý việc thực hiện\/thực thi các ca kiểm thử?
+{{Quản lý kiểm thử.. 
+Sinh giá trị đầu ra mong muốn.. 
+Phân tích động.. 
+Bộ mô phỏng.}}
+ANS:Quản lý kiểm thử.
+
+29. _____—– không phải là Loại thử nghiệm?
+{{Kiểm tra chức năng. 
+Kiểm tra bảo mật. 
+Kiểm tra cơ sở dữ liệu. 
+Kiểm tra Tuyên bố}}
+ANS:Kiểm tra cơ sở dữ liệu
+
+30. Điền vào chỗ trống
+{{}}() là mức độ mà một hệ thống hay một thành phần tạo điều kiện thuận lợi cho việc thiết lập các tiêu chí kiểm thử và thực hiện các kiểm thử để xác định xem các tiêu chí đó đã được đáp ứng chưa.
+ANS:Khả năng kiểm thử phần mềm
+
+31. Điền vào chỗ trống
+{{}}() là mức độ mà hệ thống tạo điều kiện thuận lợi cho việc thiết lập các tiêu chí thử nghiệm và thực hiện các thử nghiệm đó.
+ANS:Khả năng kiểm tra
+
+32. Lý thuyết số Cyclomatic trong một đồ thị được định nghĩa bởi ________
+{{e - n + 1. 
+e - n + 2. 
+e - n - 2. 
+e - n - 1}}
+ANS:e - n + 2
+
+33. Điền vào chỗ trống
+Tính {{}}() của phần mềm thể hiện mức độ dễ dàng để chúng ta có thể cung cấp cho phần mềm những đầu vào cần thiết.
+ANS:điều khiển
+
+34. Điền vào chỗ trống
+Tính {{}}() của phần mềm thể hiện mức độ dễ dàng để chúng ta có thể theo dõi được trạng thái của phần mềm.
+ANS:quan sát
+
+35. Điền vào chỗ trống
+Tính dễ kiểm thử đánh giá bởi bởi tính dễ quan sát và {{}}().
+ANS:dễ điều khiển
+
+36. V&V trong kiểm thử phần mềm được hiểu là thế nào? (Vì đáp án không có nghĩa rõ ràng trong tiếng việt, nên sẽ để tiếng anh).
+{{Verified Version.. 
+Verified Version.. 
+Version Validation.. 
+Verification and Validation.}}
+ANS:Verification and Validation.
+
+37. Giá trị cần thiết để xem kết quả của giá trị trường hợp thử nghiệm (test case) là gì?
+{{Giá trị thoát (Exit Values). 
+Giá trị hậu tố (Postfix Values). 
+Giá trị xác minh (Verification Values). 
+Giá trị tiền tố (Prefix Values)}}
+ANS:Giá trị xác minh (Verification Values)
+
+38. Kết quả {{mong đợi}} là kết quả được tiến hành bởi các bài kiểm thử nếu như phần mềm có các hành vi giống với mong đợi.
+{{. 
+. 
+. 
+}}
+39. Khai niệm bộ kiểm thử là gì?
+{{Một kịch bản kiểm thử.. 
+Một tập các ca kiểm thử.. 
+Một tập các giá trị trị đầu vào.. 
+Một tập các ràng buộc của chương trình.}}
+ANS:Một tập các ca kiểm thử.
+
+40. Tiêu chuẩn nào sau đây là tiêu chuẩn kiểm thử thành phần?
+{{BS7925-2. 
+BS7925-1. 
+IEEE 829. 
+IEEE 610}}
+ANS:BS7925-2
+
+41. Điền vào chỗ trống
+{{}}() là một tập hợp các giả định, khái niệm và các công cụ hỗ trợ tự động hóa kiểm tra.
+ANS:Khung kiểm thử
+
+42. Đâu không phải là mô hình kiểm thử tự động (Test Automation Framework)?
+{{Hướng hành vi (Behavior-Driven Development Framework).. 
+Hướng dữ liệu (Data-Driven Testing Framework).. 
+Hướng từ khóa (Keyword-Driven Testing Framework).. 
+Hướng đối tượng (Object-Oriented Development Framework).}}
+ANS:Hướng đối tượng (Object-Oriented Development Framework).
+
+43. Khai niệm khung phần mềm kiểm thử tự động là gì?
+{{Một chương trình tự động hóa kiểm thử.. 
+Một công cụ chạy ca kiểm thử tự động.. 
+Một tập hợp các công cụ hỗ trợ tự động hóa kiểm thử?. 
+Một tập hợp các giả định, khái niệm và công cụ hỗ trợ tự động hóa kiểm thử.}}
+ANS:Một tập hợp các giả định, khái niệm và công cụ hỗ trợ tự động hóa kiểm thử.
+
+44. Loại trường hợp kiểm thử (test case) nào sau không nên tự động hóa (automation)?
+{{Các thử nghiệm cần nhiều thời gian hơn để thực hiện.. 
+Các thử nghiệm thuộc tiêu chuẩn thử nghiệm chấp nhận.. 
+Các thử nghiệm không yêu cầu thực hiện lại.. 
+Các thử nghiệm yêu cầu thử nghiệm đa nền tảng.}} 
+ANS:Các thử nghiệm không yêu cầu thực hiện lại.
+
+45. Câu nào là đúng về các phương thức của JUnit?
+{{Tất cả các phương thức đều trả về void.. 
+Các phương thức assume được sử dụng để kiểm tra các giá trị kết quả.. 
+JUnit 5 vẫn sử dụng chú thích (annotations) cho các ngoại lệ.. 
+Các phương thức assert được sử dụng để giới hạn các giá trị đầu vào.}} 
+ANS:Tất cả các phương thức đều trả về void.
+
+46. Câu nào sau đây là đúng về JUnit?
+{{JUnit có thể sử dụng hàm main() để chạy các ca kiểm thử.. 
+JUnit có thể sử dụng để viết các ca kiểm thử cho chương trình viết bằng JavaScript.. 
+JUnit không có giao diện đồ hoạ mà chỉ có giao diện dòng lệnh.. 
+JUnit không thể kiểm tra các ngoại lệ do người dùng cài đặt.}}
+ANS:JUnit có thể sử dụng hàm main() để chạy các ca kiểm thử.
+
+47. _____ không phải là Cấp độ Thử nghiệm?
+{{Kiểm tra hệ thống. 
+Kiểm tra tích hợp. 
+Kiểm tra chức năng. 
+Kiểm tra chấp nhận}}
+ANS:Kiểm tra hệ thống
+
+48. Chú thích (Annotation) nào sau đây để đánh dấu phương thức được gọi trước khi thực thi mỗi phương thức @Test được gọi?
+{{@After. 
+@Before. 
+@BeforeClass. 
+@AfterClass}}
+ANS:@Before
+
+49. Chú thích (Annotation) nào sau đây để đánh dấu phương thức được gọi trước khi thực thi tất cả phương thức @Test được gọi?
+{{@AfterClass. 
+@Before. 
+@BeforeClass. 
+@After}}
+ANS:@BeforeClass
+
+50. Chú thích nào định nghĩa một kiểm tra JUnit?
+{{@SuppressWarnings. 
+@Before. 
+@After. 
+@Test}}
+ANS:@Test
+
+51. Đâu là một vòng đời của một ca kiểm thử JUnit?
+{{@BeforeClass -> @Before -> @Test -> @After -> @AfterClass. 
+@Before -> @BeforeClass -> @Test -> @AfterClass -> @After. 
+@Test -> @BeforeClass -> @Before -> @After -> @AfterClass. 
+@BeforeClass -> @Before -> @After -> @Test-> @AfterClass}}
+ANS:@BeforeClass -> @Before -> @Test -> @After -> @AfterClass
+
+52. Hàm nào thuộc lớp Assert kiểm tra 2 đối tượng cùng trỏ tới một đối tượng?
+{{void assertEquals(expected, actual). 
+void assertChecks(Object expected, Object actual). 
+void assertSame(expected, actual). 
+void assert(expected, actual)}}
+ANS:void assertSame(expected, actual)
+
+53. Junit không được sử dụng để kiểm thử yếu tố nào?
+{{Một biến dữ liệu.. 
+Một phần của đối tượng. VD: một công thức hay nhiều công thức phối hợp lẫn nhau.. 
+Toàn bộ một đối tượng.. 
+Sự phối hợp giữa các đối tượng.}}
+ANS:Một biến dữ liệu.
+
+54. Điền vào chỗ trống
+JUnit là công cụ giúp kiểm thử {{}}().
+ANS:tự động
+
+55. JUnit là gì?
+{{Thuật toán tìm đường.. 
+Công cụ giúp kiểm thử tự động.. 
+Phần mềm giúp soạn thảo văn bản khoa học.. 
+Phần mềm hỗ trợ tính toán.}}
+ANS:Công cụ giúp kiểm thử tự động.
+
+56. Lớp Assert nào sẽ so sánh và kiểm tra 2 giá trị đầu vào?
+{{assertEquals(). 
+assertFalse(). 
+assertTrue(). 
+assertCheck()}}
+ANS:assertEquals()
+
+57. Một lớp kiểm thử không bao gồm những gì?
+{{Chương trình được kiểm thử. 
+Phương thức để thiết lập trạng thái của chương trình trước khi chạy kiểm thử. 
+Phương thức để cập nhật trạng thái chương trình sau kiểm thử. 
+Một tập hợp các phương thức kiểm thử}}
+ANS:Chương trình được kiểm thử
+
+58. Điền vào chỗ trống
+Phương thức {{}}() gọi mỗi lần trước mỗi ca kiểm thử.
+ANS:@Before
+
+59. Ý kiến nào sau đây sai về JUnit?
+{{JUnit tự động sửa lỗi trong mã nguồn, giúp tiết kiệm thời gian kiểm thử và phát triển phần mềm.. 
+JUnit giúp phát triển mã nguồn dễ đọc, đáng tin cậy và hạn chế lỗi hơn, từ đó tạo sự tự tin trong quá trình phát triển.. 
+JUnit giúp phát hiện được lỗi sớm trong mã nguồn.. 
+JUnit hữu ích cho các nhà phát triển làm việc trong môi trường phát triển hướng kiểm thử (Test Driven Development).}}
+ANS:JUnit tự động sửa lỗi trong mã nguồn, giúp tiết kiệm thời gian kiểm thử và phát triển phần mềm.
+
+60. Điền vào chỗ trống
+{{}}() là phương pháp viết kiểm thử một lần rồi sau đó cung cấp giá trị dữ liệu qua một bảng.
+ANS:Kiểm thử dựa trên dữ liệu
+
+61. Đâu là nhược điểm của mô hình kiểm thử hướng dữ liệu (Data-Driven Testing Framework)?
+{{Tập các bộ kiểm thử không tách biệt với mã kiểm thử.. 
+Dữ liệu kiểm thử không thể thay đổi độc lập với các kịch bản kiểm thử (test script).. 
+Không cho phép các kịch bản kiểm thử (test script) làm việc với nhiều bộ dữ liệu kiểm thử trong quá trình kiểm thử hồi quy.. 
+Người kiểm thử phải có kĩ năng lập trình nhất định.}} 
+ANS:Người kiểm thử phải có kĩ năng lập trình nhất định.
+
+----------------------------
+1. Điền vào chỗ trống
+{{}}() đảm bảo rằng phần mềm luôn được thỏa mãn các ca kiểm thử mỗi khi có cập nhật mới.  
+ANS:Tích hợp liên tục
+
+2. Đâu không phải là ưu điểm của tích hợp liên tục?
+{{Các sai lầm (mistakes) diễn ra muộn hơn.. 
+Tích hợp liên tục giúp giảm thiểu rủi ro.. 
+Các bước xây dựng lại và xác minh lại phải diễn ra càng sớm càng tốt. Do vậy, các ca kiểm thử cần được thực thi nhanh chóng.. 
+Những người phát triển khác biết về sự thay đổi sớm hơn (tăng độ nhất quán).}}
+ANS:Các sai lầm (mistakes) diễn ra muộn hơn.
+
+3. Hạn chế của kiểm thử dựa trên danh sách kiểm tra (checklist) là gì?
+{{Nó không có đủ thông tin để tái kiểm tra. 
+Nó bao gồm các cấp độ khác nhau của thử nghiệm. 
+Nó rất dễ dàng để chuẩn bị. 
+Nó có thể được sử dụng để hỗ trợ nhiều loại hình kiểm thử hộp trắng}}
+ANS:Nó không có đủ thông tin để tái kiểm tra
+
+4. Điền vào chỗ trống
+{{}}() là phương pháp giúp phần mềm bắt đầu từ nhỏ và tiến hóa theo thời gian thay vì chiến đấu với nó.
+ANS:Phương pháp linh hoạt (Agile)
+
+5. Điền vào chỗ trống
+Công nghệ phần mềm truyền thống tập trung chủ yếu vào mô hình hóa mở rộng và {{}}() với mục đích là để làm bộc lộ những vấn đề và những thay đổi tiềm ẩn càng sớm càng tốt.
+ANS:phân tích trả trước
+
+6. Trong những ngày đầu của kỹ thuật phần mềm, lĩnh vực này đã tạo ra hai các giả định để cho phép kỹ thuật phần mềm truyền thống chế ngự hiệu quả đường cong chi phí thay đổi, đó là những giả định nào?
+{{Cả 2 đáp án 1 và 2. 
+Không có phải cả 2 đáp án 1 và 2. 
+Kỹ thuật mô hình hóa và phân tích có thể xác định tiềm năng một cách hiệu quả các vấn đề và thay đổi sớm trong vòng đời.. 
+Khoản tiết kiệm được ngụ ý bởi đường cong chi phí thay đổi biện minh cho chi phí các kỹ thuật mô hình hóa và phân tích, khi được xem xét về vào tổng chi phí sở hữu trong suốt thời gian tồn tại của dự án.}}
+ANS:Cả 2 đáp án 1 và 2
+
+7. Đâu không phải là loại kiểm thử Test-Driven Development?
+{{Kiểm thử chấp nhận (Acceptance Testing).. 
+Kiểm thử tích hợp (Integration Testing).. 
+Kiểm thử đơn vị (Unit Testing).. 
+Kiểm thử hệ thống (System Testing).}}
+ANS:Kiểm thử hệ thống (System Testing).
+
+8. Đâu là nhược điểm của phát triển hướng kiểm thử (Test-Driven Development)?
+{{Việc tái cấu trúc lại mã nguồn mất nhiều thời gian.. 
+Việc tái cấu trúc khiến việc thiết kế các đoạn mã khó khăn hơn.. 
+Phải cập nhật lại các ca kiểm thử khi yêu cầu thay đổi.. 
+Chi phí của các lỗi khi được phát hiện sớm cao.}}
+ANS:Phải cập nhật lại các ca kiểm thử khi yêu cầu thay đổi.
+
+9. Ở cấp độ rộng nhất, các phương pháp nhanh (agile methods) bao gồm đạt được kết quả cuối cùng chính (achieving key end results) là những gì?
+{{working software, responsiveness to change (phần mềm hoạt động, khả năng đáp ứng với sự thay đổi). 
+nhóm phát triển hiệu quả và khách hàng hài lòng. Trong khi điều này rộng (effective development teams, and happy customers). 
+Cả 2 đáp án 1 và 2. 
+Không có phải cả 2 đáp án 1 và 2}}
+ANS:Cả 2 đáp án 1 và 2
+
+10. Tại sao chi phí phát triển ngày càng tăng?
+{{Không phải cả 2 đáp án 1 và 2. 
+Một vấn đề thứ hai là phần mềm phát triển càng khó tìm ra nguyên nhân gốc rễ của lỗi. 
+Cả 2 đáp án 1 và 2. 
+Các lý do chính cho chi phí ngày càng tăng là công việc bổ sung là được đầu tư phụ thuộc vào quyết định ban đầu và công việc này cũng phải sửa đổi nếu quyết định ban đầu được sửa đổi}}
+ANS:Cả 2 đáp án 1 và 2
+
+11. Kiểm thử mô hình Agile yêu cầu phần mềm bắt đầu đơn giản và {{tiến hóa}} theo thời gian.
+{{. 
+. 
+. 
+}}
+12. Điền vào chỗ trống
+Kiểm thử trong mô hình {{}}() chỉ kiểm thử một số giá trị đại diện của phần mềm.
+ANS:Agile
+
+13. Điền vào chỗ trống
+Trong phương thức Agile, {{}}() là đặc tả thực tế cho hệ thống.
+ANS:các trường hợp thử nghiệm
+
+14. _____ có phải là Người kiểm tra Kiểm thử Hệ thống không?
+{{Người kiểm tra độc lập. 
+Nhà phân tích kinh doanh. 
+Khách hàng. 
+Nhà phát triển}}
+ANS:Nhà phát triển
+
+15. Một máy chủ tích hợp liên tục thực hiện những công việc nào khi có cập nhật mới trong kho lưu trữ?
+{{Xây dựng lại hệ thống, trả về và xác minh lại những ca kiểm thử.. 
+Kiểm tra hệ thống, xây dựng lại và thực thi lại những ca kiểm thử.. 
+Kiểm tra lại yêu cầu, xây dựng lại và thực thi lại những ca kiểm thử.. 
+Xây dựng lại, trả về và thực thi những ca kiểm thử.}} 
+ANS:Xây dựng lại hệ thống, trả về và xác minh lại những ca kiểm thử.
+
+16. Điền vào chỗ trống
+Tích hợp {{}}() đảm bảo rằng phần mềm luôn được thỏa mãn các ca kiểm thử mỗi khi có cập nhật mới. 
+ANS:liên tục
+
+17. Điền vào chỗ trống
+Trong tích hợp liên tục (Continuos Integration), mỗi sự tích hợp sẽ được kiểm định lại bởi một build tự động để phát hiện ra {{}}() càng sớm càng tốt.
+ANS:lỗi tích hợp
+
+18. Điền vào chỗ trống
+{{}}() là quá trình hệ thống sẽ được tái xây dựng và tái kiểm thử mỗi khi có một thay đổi nào được đẩy (commit) vào mã nguồn.
+ANS:Tích hợp liên tục
+
+19. Các phương pháp Agile mong đợi phần mềm ____
+{{bắt đầu lớn và phát triền đều. 
+bắt đầu nhỏ và phát triển theo thời gian. 
+bắt đầu nhỏ và phát triển đều. 
+bắt đầu lớn và phát triền đều}}
+ANS:bắt đầu nhỏ và phát triển theo thời gian
+
+20. Chiến lược nào sau đây là một chiến lược của kiểm thử hộp đen?
+{{Điều khiển cấu trúc bao phủ.. 
+Bao phủ tất cả đường đi.. 
+Xây dựng đồ thị nhân-quả.. 
+Bao phủ tất cả các câu lệnh.}} 
+ANS:Xây dựng đồ thị nhân-quả.
+
+21. Đặc điểm nào sau đây không phải của câu chuyện người dùng (user stories)?
+{{Không được lưu trữ.. 
+Hướng đến ngôn ngữ của người dùng cuối (end user).. 
+Chi tiết và mô tả rõ các yêu cầu bằng ngôn ngữ kỹ thuật.. 
+Quy mô nhỏ và ít chi tiết.}}
+ANS:Chi tiết và mô tả rõ các yêu cầu bằng ngôn ngữ kỹ thuật.
+
+22. Hoạt động nào không phải là hoạt động SQA?
+{{Kiểm thử hộp đen.. 
+Kiểm thử đơn vị.. 
+Kiểm thử hội nhập.. 
+Kiểm thử hộp trắng.}}
+ANS:Kiểm thử hộp trắng.
+
+23. Hộp nào xác định hành vi của một hệ thống hoặc một phần của hệ thống?
+{{Hộp rõ ràng (Clear box).. 
+Không có ý nào đúng.. 
+Hộp đen (Black box).. 
+Hộp trạng thái (State box).}}
+ANS:Hộp đen (Black box).
+
+24. Khái niệm hộp đen dựa trên (các) giả định rằng:
+{{Hệ thống siêu ổn định.. 
+Tất cả các ý trên.. 
+Hộp đen phụ thuộc vào môi trường.. 
+Mối quan hệ giữa đầu vào và đầu ra ổn định.}}
+ANS:Hệ thống siêu ổn định.
+
+25. Kiểm thử hệ thống là một:
+{{Kiểm thử hộp trắng.. 
+Kiểm thử hộp đen.. 
+Kiểm thử hộp xám.. 
+Kiểm thử hộp đen và kiểm thử hộp trắng.}}
+ANS:Kiểm thử hộp đen.
+
+26. Kiểm thử hộp trắng có thể được bắt đầu:
+{{Sau khi thiết kế.. 
+Sau khi cài đặt.. 
+Sau khi tạo SRS.. 
+Sau khi lập trình.}}
+ANS:Sau khi lập trình.
+
+27. Kỹ thuật kiểm thử hộp đen nào phù hợp với mọi cấp độ kiểm thử?
+{{Đảm bảo chất lượng.. 
+Kiểm tra hồi quy.. 
+Phân vùng tương đương.. 
+Kiểm tra chấp nhận.}}
+ANS:Phân vùng tương đương.
+
+28. Kỹ thuật nào sau đây được áp dụng để kiểm thử khả năng sử dụng (usability testing) của phần mềm?
+{{Kiểm thử hộp đen.. 
+Tất cả các kỹ thuật trên.. 
+Kiểm thử hộp xám.. 
+Kiểm thử hộp trắng.}}
+ANS:Kiểm thử hộp đen.
+
+29. Một nhược điểm của kiểm thử nhanh (Agile Testing) là gì?
+{{Kiểm thử nhanh sẽ khiến nhóm phát triển tin tưởng vào hệ thống mà họ phát triển.. 
+Kiểm thử nhanh bao phủ tất cả các trường hợp có thể xảy ra của hệ thống.. 
+Kiểm thử nhanh chỉ tập trung vào kiểm thử hệ thống trong điều kiện sử dụng bình thường, không tập trung vào các trường hợp đặc biệt.. 
+Kiểm thử nhanh tìm được tất cả các lỗi của chương trình.}}
+ANS:Kiểm thử nhanh chỉ tập trung vào kiểm thử hệ thống trong điều kiện sử dụng bình thường, không tập trung vào các trường hợp đặc biệt.
+
+30. Những điều sau đây là một phần của kiểm thử hệ thống?
+{{Kiểm thử khả năng sử dụng.. 
+Kiểm thử dựa vào yêu cầu.. 
+Tất cả những điều trên là đúng.. 
+Kiểm thử hiệu năng, kiểm thử tốc độ tải và kiểm thử khả năng chịu tải.}}
+ANS:Kiểm thử hiệu năng, kiểm thử tốc độ tải và kiểm thử khả năng chịu tải.
+
+31. Phân tích giá trị biên thuộc về loại kiểm thử nào?
+{{Kiểm thử hộp đen.. 
+Không thuộc loại nào cả.. 
+Kiểm thử hộp trắng.. 
+Kiểm thử hộp trắng và hộp đen.}}
+ANS:Kiểm thử hộp đen.
+
+32. Phát triển phần mềm dựa trên kiểm thử (Test-driven Development) là gì?
+{{Là quá trình mà mình viết chức năng cho hệ thống mà không quan tâm tới kiểm thử.. 
+Là quá trình mà mình phải viết đoạn mã chức năng rồi kiểm thử đoạn mã đó.. 
+Là quá trình mà mình viết bộ kiểm thử mà không quan tâm tới chức năng.. 
+Là quá trình mà trước tiên mình phải viết một bộ kiểm thử mà chương trình chạy không đúng trước khi viết chức năng phù hợp với bộ kiểm thử đấy.}}
+ANS:Là quá trình mà trước tiên mình phải viết một bộ kiểm thử mà chương trình chạy không đúng trước khi viết chức năng phù hợp với bộ kiểm thử đấy.
+
+33. Quá trình hệ thống sẽ được tái xây dựng và tái kiểm thử mỗi khi có một thay đổi nào được đẩy (push) vào mã nguồn là gì?
+{{Kiểm thử chấp nhận (Acceptance testing).. 
+Tích hợp liên tục (Continuous Integration).. 
+Kiểm thử tự động (Automation testing).. 
+Chuyển giao liên tục (Continuous Delivery).}}
+ANS:Tích hợp liên tục (Continuous Integration).
+
+34. Sự khác biệt chính giữa kiểm thử chương trình và kiểm thử hệ thống là gì?
+{{Kiểm thử chương trình toàn diện hơn kiểm thử hệ thống.. 
+Kiểm thử hệ thống rất khó còn kiểm thử chương trình rất dễ.. 
+Không có đáp án nào ở trên.. 
+Kiểm thử hệ thống tập trung vào kiểm tra giao diện giữa các chương trình, kiểm thử chương trình tập trung vào các chương trình riêng lẻ.}}
+ANS:Kiểm thử hệ thống tập trung vào kiểm tra giao diện giữa các chương trình, kiểm thử chương trình tập trung vào các chương trình riêng lẻ.
+
+35. Thứ tự các Cấp độ Kiểm tra được thực hiện là?
+{{Nó phụ thuộc vào bản chất của một dự án. 
+Đơn vị, Tích hợp, Hệ thống, Chấp nhận. 
+Đơn vị, Hệ thống, Tích hợp, Chấp nhận. 
+Đơn vị, Tích hợp, Chấp nhận, Hệ thống}}
+ANS:Đơn vị, Tích hợp, Chấp nhận, Hệ thống
+
+36. Tích hợp liên tục (Continuous Integration) là gì?
+{{Là quá trình mà người lập trình phải tự tay xây dựng lại hệ thống mỗi khi có thay đổi được đẩy vào mã nguồn.. 
+Là quá trình hệ thống được tái kiểm thử mỗi khi có một thay đổi được đẩy vào mã nguồn.. 
+Là quá trình hệ thống được tái xây dựng mỗi khi có một thay đổi được đẩy vào mã nguồn.. 
+Là quá trình hệ thống sẽ được tái xây dựng và tái kiểm thử mỗi khi có một thay đổi nào được đẩy (commit) vào mã nguồn.}}
+ANS:Là quá trình hệ thống sẽ được tái xây dựng và tái kiểm thử mỗi khi có một thay đổi nào được đẩy (commit) vào mã nguồn.
+
+37. Điền vào chỗ trống
+{{}}() là quá trình cải tiến code có thể kiểm soát được mà không tạo ra chức năng mới.
+ANS:Cải tiến
+
+38. Điền vào chỗ trống
+{{}}() là một cách để sửa đổi (và hi vọng sẽ cải thiện) cấu trúc của mã hiện có mà không thay đổi hành vi của mã đó.
+ANS:Tái cấu trúc
+
+39. Trong thiết kế hướng kiểm thử, khi một thay đổi được thực hiện, kiểm thử viên sẽ làm gì?
+{{Hủy dự án.. 
+Không làm gì.. 
+Thêm một ca kiểm thử ứng với thay đổi đó. 
+Xóa phần mềm.}} 
+ANS:Thêm một ca kiểm thử ứng với thay đổi đó
+
+40. Đâu không phải là nhược điểm của quá trình kiểm thử trong mô hình Agile ?
+{{Có khó khăn ban đầu trong quá trình chuyển đổi.. 
+Công việc kiểm thử tay nhàm chán, độ đồng hóa không cao.. 
+Không giúp cải tiến mã nguồn.. 
+Khó kiểm soát sai sót của chương trình nếu chương trình được chạy theo cách không bình thường.}}
+ANS:Công việc kiểm thử tay nhàm chán, độ đồng hóa không cao.
+
+41. Phát triển theo hướng kiểm thử có khả năng nào?
+{{Khiến cho lập trình viên thấy yên tâm là phần mềm ổn định. 
+Tìm được nhiều lỗi nhất. 
+Dễ dàng thêm kiểm thử TDD cho mỗi lần cải tiến. 
+Bao hàm toàn bộ mã nguồn}}
+ANS:Dễ dàng thêm kiểm thử TDD cho mỗi lần cải tiến
+
+----------------------------
+1. Câu nào sau đây đúng khi nói về kiểm thử truyền thống (traditional testing)?
+{{Kiểm thử truyền thống được thực hiện khá nhanh.. 
+Kiểm thử truyền thống tiết kiệm chi phí. 
+Kiểm thử truyền thống tiết kiệm nhân lực. 
+Nhược điểm chính của kiểm thử truyền thống là tốn nhân lực và tốn thời gian}}
+ANS:Nhược điểm chính của kiểm thử truyền thống là tốn nhân lực và tốn thời gian
+
+2. Chiến lược kiểm thử hộp trắng sử dụng phương pháp kiểm thử nào sau đây?
+{{Kiểm thử dòng dữ liệu.. 
+Kiểm thử dòng điều khiển.. 
+Kiểm thử tự động.. 
+Kiểm thử dựa trên mô hình.}}
+ANS:Kiểm thử dòng điều khiển.
+
+3. Kỹ thuật kiểm thử nào sau đây thuộc kiểm thử hộp đen?
+{{Kỹ thuật phân lớp tương đương.. 
+Kiểm thử dựa trên luồng điều khiển.. 
+Kiểm thử đột biến.. 
+Kiểm thử đường cơ bản - Đồ thị dòng.}}
+ANS:Kỹ thuật phân lớp tương đương.
+
+4. Kỹ thuật kiểm thử nào sau đây thuộc kiểm thử hộp trắng?
+{{Kỹ thuật phân tích các giá trị biên.. 
+Kỹ thật phân tích vùng miền.. 
+Kỹ thuật phân tích các giá trị biên.. 
+Kiểm thử đường cơ bản - Đồ thị dòng.}}
+ANS:Kiểm thử đường cơ bản - Đồ thị dòng.
+
+5. Điền vào chỗ trống
+{{}}() được đo bằng tỉ lệ giữa số các yêu cầu kiểm thử được thỏa mãn bởi tập kiểm thử T và kích thước của tập yêu cầu kiểm thử TR.
+ANS:Mức độ bao phủ
+
+6. Điền vào chỗ trống
+Các điều kiện bao phủ (Coverage Criterion) thường có liên hệ với nhau, và được so sánh trên phương diện {{}}().
+ANS:quan hệ bao hàm
+
+7. Cho một bộ yêu cầu kiểm thử TR và một bộ kiểm thử T thỏa mãn mọi yêu cầu, T là nhỏ nhất khi:
+{{Nếu không có một bộ kiểm thử nào bao hàm nó.. 
+Nếu không có bộ kiểm thử nào nhỏ hơn mà cũng thỏa mãn toàn bộ yêu cầu kiểm thử.. 
+Nó chỉ có một bộ kiểm thử thỏa mãn yêu cầu.. 
+Nếu loại bỏ bất cứ kiểm thử nào trong T sẽ khiến cho T không còn thỏa mãn mọi yêu cầu.}}
+ANS:Nếu không có bộ kiểm thử nào nhỏ hơn mà cũng thỏa mãn toàn bộ yêu cầu kiểm thử.
+
+8. Đâu là thước đo để đánh giá mã nguồn sau khi đã thực hiện các ca kiểm thử?
+{{Bao phủ thay đổi. 
+Bao phủ mã nguồn. 
+Bao phủ quy tắc. 
+Thay đổi dư thừa}}
+ANS:Bao phủ mã nguồn
+
+9. Đâu là tiêu chuẩn phủ tốt nhất theo chuẩn công nghiệp?
+{{MCCD.. 
+MMDC.. 
+MCDC.. 
+MCPD.}}
+ANS:MCDC.
+
+10. Độ bao phủ dòng lệnh (Statement Coverage) sẽ không kiểm tra yếu tố nào sau đây?
+{{Các nhánh chưa được sử dụng.. 
+Các câu lệnh chưa được sử dụng.. 
+Mã chết (Dead Code).. 
+Các câu lệnh bị thiếu.}}
+ANS:Các câu lệnh bị thiếu.
+
+11. Đối tượng nào sau đây thường ưu tiên việc tạo các giá trị thử nghiệm bên ngoài và đo lường dựa trên tiêu chí?
+{{Các tập đoàn và doanh nghiệp.. 
+Các hộ gia đình.. 
+Các sinh viên công nghệ. 
+Các nhà nghiên cứu cộng đồng.}}
+ANS:Các tập đoàn và doanh nghiệp.
+
+12. Đối tượng nào sau đây thường ưu tiên việc trực tiếp tạo các giá trị thử nghiệm để đáp ứng tiêu chí?
+{{Các nhà quản lý dự án.. 
+Các tập đoàn, doanh nghiệp.. 
+Các bên nghiên cứu trong cộng đồng.. 
+Các điều tra viên.}}
+ANS:Các bên nghiên cứu trong cộng đồng.
+
+13. Điền vào chỗ trống
+Mã nguồn {{}}() được coi là một mô hình.
+ANS:không
+
+14. Mức độ bao phủ (Coverage level) là gì?
+{{Là số lượng yêu cầu thử nghiệm được thỏa mãn.. 
+Là tỷ lệ giữa kích thước của TR so với số lượng yêu cầu thử nghiệm được thỏa mãn.. 
+Là kích thước của TR.. 
+Là tỷ lệ giữa số lượng yêu cầu thử nghiệm được thỏa mãn so với kích thước của TR.}}
+ANS:Là tỷ lệ giữa số lượng yêu cầu thử nghiệm được thỏa mãn so với kích thước của TR.
+
+15. Tại sao ta sử dụng tiêu chuẩn bao phủ?
+{{Vì chúng ta không thể kiểm thử với mọi đầu vào.. 
+Tiêu chuẩn bao phủ có thể giảm tối đa rủi ro.. 
+Vì chúng ta sẽ kiểm thử được mọi trường hợp.. 
+Vì có thể đếm được hết các tiêu chuẩn bao phủ.}}
+ANS:Vì chúng ta không thể kiểm thử với mọi đầu vào.
+
+16. Trong các đặc điểm trên đâu là đặc điểm của một tiêu chí bao phủ tốt?
+{{Hiệu quả để tạo các giá trị thử nghiệm.. 
+Dễ dàng để tính toán các yêu cầu kiểm tra một cách tự động.. 
+Các bài kiểm tra kết quả phải tiết lộ càng nhiều lỗi càng tốt.. 
+Cả 3 đặc điểm trên.}}
+ANS:Cả 3 đặc điểm trên.
+
+17. Điền vào chỗ trống
+{{}}() là một quy tắc hoặc một tập hợp các quy tắc áp đặt các yêu cầu kiểm thử lên các bộ kiểm thử.
+ANS:Tiêu chí bao phủ
+
+18. Cho 3 điều kiện bao phủ C1 nằm trong C2 nằm trong C3. Biết rằng bộ kiểm thử T1, T2, T3 lần lượt thoả mãn C1, C2, C3 trên cùng một chương trình P. Điều kiện nào sau đây sai?
+{{T2 cần thoả mãn C3. 
+T1 cần thoả mãn C3. 
+T2 cần thoả mãn C1. 
+T1 cần thoả mãn C2}}
+ANS:T2 cần thoả mãn C1
+
+19. Đâu không phải là lợi ích từ việc sử dụng các tiêu chuẩn bao phủ?
+{{Xây dựng nên các chương trình tốt hơn.. 
+Tiết kiệm chi phí phát triển phần mềm.. 
+Tìm ra nhiều hơn các lỗi trong phần mềm.. 
+Phát triển phần mềm nhanh hơn để đưa đến cho khách hàng.}}
+ANS:Phát triển phần mềm nhanh hơn để đưa đến cho khách hàng.
+
+20. Đâu không phải là mục đích của việc sử dụng tiêu chuẩn bao phủ?
+{{Kiểm thử phần mềm theo phương pháp truyền thống tốn nhiều tài nguyên.. 
+Tiêu chuẩn bao phủ tăng khả năng phát hiện lỗi cho nhân viên kiểm thử.. 
+Đảm bảo phần mềm đạt chất lượng tốt, đáng tin cậy hơn.. 
+Để sinh ra được càng nhiều ca kiểm thử có thể, nhằm bao phủ được toàn bộ chương trình.}}
+ANS:Để sinh ra được càng nhiều ca kiểm thử có thể, nhằm bao phủ được toàn bộ chương trình.
+
+21. Đâu không phải là rào cản để áp dụng kiểm thử dựa trên tiêu chí?
+{{Am hiểu sâu rộng về kiểm thử.. 
+Thiếu khả năng sử dụng công cụ.. 
+Thiếu kiến thức về kiểm thử.. 
+Các công cụ yếu kém và không hiệu quả.}}
+ANS:Am hiểu sâu rộng về kiểm thử.
+
+22. Đâu không phải ưu điểm của việc áp dụng kiểm thử tự động và kiểm thử dựa theo tiêu chí?
+{{Kiểm thử viên cần làm việc thủ công.. 
+Tiết kiệm chi phí.. 
+Xây dựng phần mềm chất lượng hơn.. 
+Tìm được nhiều lỗi hơn.}}
+ANS:Kiểm thử viên cần làm việc thủ công.
+
+23. Điền vào chỗ trống
+Khi lựa chọn tiêu chí kiểm thử, kiểm thử viên cần cân bằng giữa {{}}() và {{}}() của các tiêu chí dựa trên phần mềm được kiểm thử.
+ANS:chi phí,hiệu quả
+
+24. Khi lựa chọn tiêu chí kiểm thử, kiểm thử viên cần cân bằng giữa các tiêu chí nào?
+{{Thời gian.. 
+Chi phí.. 
+Độ hiệu quả.. 
+Chi phí và độ hiệu quả.}}
+ANS:Chi phí và độ hiệu quả.
+
+25. Điền vào chỗ trống
+Một trong những ưu điểm của thiết kế ca kiểm thử dựa trên {{}}() là thuận tiền hơn để tự động hóa.
+ANS:tiêu chí
+
+26. Yếu tố nào sau đây có thể được sử dụng để đánh giá các tiêu chí về độ bao phủ?
+{{Số ca kiểm thử được sinh ra.. 
+Kết quả đầu ra khi kiểm thử.. 
+Thời gian thực thi kiểm thử.. 
+Mức độ hiệu quả khi đưa vào kiểm thử.}}
+ANS:Mức độ hiệu quả khi đưa vào kiểm thử.
+
+----------------------------
+1. Điền vào chỗ trống
+{{}}() là tất cả các đầu vào có thể có của một chương trình.
+ANS:Không gian đầu vào
+
+2. Điền vào chỗ trống
+{{}}() là tất cả đầu vào có thể có cho một chương trình. 
+ANS:Miền đầu vào
+
+3. Bước thứ năm của mô hình hóa miền đầu vào (IDM) là?
+{{Làm mịn tổ hợp các khối thành các đầu vào kiểm thử.. 
+Áp dụng tiêu chí kiểm thử để lựa chọn các tổ hợp giá trị.. 
+Mô hình hóa miền đầu vào.. 
+Tìm tất cả các tham số.}}
+ANS:Làm mịn tổ hợp các khối thành các đầu vào kiểm thử.
+
+4. D720=
+{{3. 
+4. 
+5. 
+2}}
+ANS:2
+
+5. Đâu không là lợi ích của phân vùng không gian đầu vào?
+{{Tiện tích trong kiểm thử.. 
+Không cần kiến thức triển khai.. 
+Dễ dàng áp dụng mà không cần tự động hóa.. 
+Ở một số cấp độ thử nghiệm có thể áp dụng như nhau.}} 
+ANS:Tiện tích trong kiểm thử.
+
+6. Đâu không phải là lợi ích của kiểm thử phân hoạch không gian đầu vào?
+{{Có thể áp dụng đối với nhiều mức độ trong kiểm thử.. 
+Không yêu cầu kiến thức cài đặt.. 
+Luôn sinh ra ít ca kiểm thử hơn các mô hình kiểm thử khác.. 
+Có thể dễ dàng áp dụng mà không cần tự động hóa.}}
+ANS:Luôn sinh ra ít ca kiểm thử hơn các mô hình kiểm thử khác.
+
+7. Đâu không phải là lợi ích của kiểm thử phân hoạch?
+{{Bao phủ tốt hơn. 
+Giải quyết một số vấn đề cụ thể. 
+Giảm số lượng các ca kiểm thử. 
+Đảm bảo độ tin cậy sản phẩm}}
+ANS:Đảm bảo độ tin cậy sản phẩm
+
+8. Đâu KHÔNG PHẢI là ý đúng khi nói về phân hoạch giá trị đầu vào (Input Space Partitioning)?
+{{Phân hoạch giá trị đầu vào chỉ áp dụng cho các phương pháp kiểm thử đã lỗi thời (như kiểm thử truyền thống).. 
+Dễ dàng áp dụng mà không cần tự động hóa kiểm thử.. 
+Dễ dàng áp dụng ở mọi tầng lớp kiểm thử: từ đơn vị, đến tích hợp và hệ thống.. 
+Chỉ cần có miền không gian đầu vào là có thể phân hoạch được, không cần kinh nghiệm tích hợp khác.}}
+ANS:Phân hoạch giá trị đầu vào chỉ áp dụng cho các phương pháp kiểm thử đã lỗi thời (như kiểm thử truyền thống).
+
+9. Đâu không phải mối quan hệ trong kiểm thử phân hoạch (partition-based testing)?
+{{Cân đối. 
+Phản xạ. 
+Bao phủ. 
+Bắc cầu}} 
+ANS:Bao phủ
+
+10. Đâu không phải một trong các bước của mô hình hóa miền đầu vào?
+{{Tìm tất cả các tham số.. 
+Làm mịn tổ hợp các khối thành các đầu vào kiểm thử.. 
+Nhận biết các lỗi hiện có trong phần mềm.. 
+Áp dụng tiêu chí kiểm thử để lựa chọn các tổ hợp giá trị.}}
+ANS:Nhận biết các lỗi hiện có trong phần mềm.
+
+11. Kĩ thuật kiểm thử phân hoạch theo không gian đầu vào không được áp dụng ở mức độ kiểm thử nào?
+{{Kiểm thử hệ thống.. 
+Kiểm thử chấp nhận.. 
+Kiểm thử kết hợp.. 
+Kiểm thử đơn vị.}}
+ANS:Kiểm thử chấp nhận.
+
+12. Kiểm thử giá trị biên là gì?
+{{Kiểm thử dữ liệu hợp lệ. 
+Kiểm thử ranh giới mà phân biệt điều kiện hợp lệ và không hợp lệ. 
+Kiểm thử tất cả các dữ liệu. 
+Kiểm thử dữ liệu không hợp lệ}}
+ANS:Kiểm thử ranh giới mà phân biệt điều kiện hợp lệ và không hợp lệ
+
+13. Một biến đầu nhận giá trị năm sinh có khoảng từ năm 1900 và 2010. Các giá trị biên để kiểm thử biến này là?
+{{1900, 2010, 2011. 
+1899, 1900, 2010, 2010. 
+1900, 2010. 
+1899, 1900, 1901, 2009, 2010, 2011}}
+ANS:1899, 1900, 1901, 2009, 2010, 2011
+
+14. Một chương trình xác nhận một khoảng như sau: giá trị nhỏ hơn 20 hoặc lớn hơn 30 không được chấp thuận, giá trị từ 20 đến 30 được chấp nhận. Các giá trị đầu vào nào sau đây nằm cùng trong một phân vùng tương đương?
+{{11256. 
+20, 21, 31. 
+20, 30, 31. 
+20, 25, 30}} 
+ANS:20, 25, 30
+
+15. Một trường dữ liệu nhận giá trị năm sinh trong khoảng [1000, 2000]. Các giá trị biên để kiểm thử cho trường dữ liệu này là?
+{{1000, 2000. 
+999, 1000, 2000, 2001, 2002. 
+0, 1900, 1990, 2000. 
+1000, 1001, 1090, 1999, 2000}}
+ANS:1000, 1001, 1090, 1999, 2000
+
+16. Phương pháp phân hoạch miền giá trị đầu vào dựa trên giao diện (Interface-based approach) là gì?
+{{Phát triển các đặc tính dựa trên tính chất của hệ thống đang kiểm thử.. 
+Phát triển các đặc tính (characteristic) dựa trên các giá trị đầu vào đã được tách riêng biệt.. 
+Phát triển các đặc tính dựa trên các hành vi (behaviour) của hệ thống đang kiểm thử. 
+Phát triển các đặc tính dựa trên các tính năng (functionality) của hệ thống đang kiểm thử.}}
+ANS:Phát triển các đặc tính (characteristic) dựa trên các giá trị đầu vào đã được tách riêng biệt.
+
+17. Phương pháp phân hoạch miền giá trị đầu vào dựa trên tính năng (Functionality-based approach) là gì?
+{{Phát triển các đặc tính dựa trên các tính năng (functionality) của hệ thống đang kiểm thử. 
+Phát triển các đặc tính dựa trên các hành vi (behaviour) của hệ thống đang kiểm thử. 
+Phát triển các đặc tính (characteristic) dựa trên các giá trị đầu vào đã được tách riêng biệt.. 
+Phát triển các đặc tính dựa trên tính chất của hệ thống đang kiểm thử.}}
+ANS:Phát triển các đặc tính dựa trên các tính năng (functionality) của hệ thống đang kiểm thử
+
+18. Ý nào sau đây thỏa mãn điều kiện khi phân mảnh?
+{{Các khối (block) có thể trùng nhau và không thể bao phủ hết các ca kiểm thử.. 
+Các khối (block) không được giao nhau.. 
+Các khối (block) giao nhau phải bao phủ hoàn toàn các ca kiểm thử.. 
+Các khối (block) phải giao nhau.}}
+ANS:Các khối (block) không được giao nhau.
+
+19. Bước đầu tiên của thiết kế theo miền đầu vào là gì?
+{{Thiết lập tiêu chuẩn để lựa chon giá trị.. 
+Tìm tất cả tham số ảnh hưởng đến chức năng kiểm thử được.. 
+Chọn giá trị thích hợp cho từng miền đầu vào.. 
+Xác định những chức năng kiểm thử được.}}
+ANS:Xác định những chức năng kiểm thử được.
+
+20. Bước đầu tiên trong 5 bước của quá trình mô hình hóa miền đầu vào (IDM) là?
+{{Mô hình hóa miền đầu vào.. 
+Làm mịn tổ hợp các khối thành các đầu vào kiểm thử.. 
+Nhận biết các chức năng có thể kiểm thử được.. 
+Tìm tất cả tham số.}}
+ANS:Nhận biết các chức năng có thể kiểm thử được.
+
+21. Bước đầu tiên trong việc mô hình hóa miền đầu vào là gì?
+{{Lọc các khối kết hợp thành đầu vào kiểm tra.. 
+Xác định các chức năng có thể kiểm tra.. 
+Lập mô hình miền đầu vào.. 
+Tìm tất cả các thông số.}}
+ANS:Xác định các chức năng có thể kiểm tra.
+
+22. Bước số 2 của việc mô hình hóa miền không gian đầu vào là gì?
+{{Xác định các chức năng có thể kiểm tra.. 
+Áp dụng tiêu chí kiểm tra để chọn những giá trị kết hợp với nhau.. 
+Tìm tất cả thông số.. 
+Lập mô hình miền đầu vào.}}
+ANS:Tìm tất cả thông số.
+
+23. Điền vào chỗ trống
+các hệ thống lớn chắc chắn có thể phù hợp với cách tiếp cận phân vùng không gian đầu vào và các hệ thống như vậy thường cung cấp chức năng {{}}()
+ANS:phức tạp
+
+24. Cách tiếp cận thiết kế theo miền đầu vào nào thường dẫn đến những ca kiểm thử chất lượng hơn?
+{{Do cách tiếp cận tùy theo dự án nên không thể nói cách nào tốt hơn.. 
+Tiếp cận theo giao diện.. 
+Cả hai cách đều chất lượng như nhau.. 
+Tiếp cận theo chức năng.}}
+ANS:Tiếp cận theo chức năng.
+
+25. Chiến lược nào không được sử dụng để xác định giá trị cho miền đầu vào?
+{{Phân vùng phụ cho một số khối.. 
+Kiểm tra tính đầy đủ và không giao nhau.. 
+Thêm các giá trị hợp lệ, không hợp lệ và giá trị đặc biệt.. 
+Cố gắng tối thiểu số khối trong từng đặc tính.}}
+ANS:Cố gắng tối thiểu số khối trong từng đặc tính.
+
+26. Đâu không phải là phân hoạch miền đầu vào các số nguyên?
+{{Số dương, số âm, số 0.. 
+Số nguyên tố, số không nguyên tố.. 
+Số không dương, số không âm, số 0.. 
+Số chẵn, số lẻ.}}
+ANS:Số không dương, số không âm, số 0.
+
+27. Điền vào chỗ trống
+Hai phương pháp tiếp cận trong việc mô hình hóa miền đầu vào là phương pháp {{}}() và phương pháp {{}}().
+ANS:dựa trên giao diện,dựa trên chức năng
+
+28. Khẳng định nào sau đây không đúng khi nói về về mô hình hóa miền đầu vào (IDM) theo hướng tiếp cận dựa trên chức năng?
+{{Có thể tạo ra các bài kiểm tra tốt hơn hoặc ít bài kiểm tra hiệu quả hơn.. 
+Phát triển các đặc tính (characteristics) từ hành vi của chương trình đang thử nghiệm.. 
+Khó phát triển hơn vì đòi hỏi nhiều nỗ lực thiết kế.. 
+Phát triển các đặc tính (characteristics) trực tiếp từ các tham số đầu vào riêng lẻ.}}
+ANS:Phát triển các đặc tính (characteristics) trực tiếp từ các tham số đầu vào riêng lẻ.
+
+29. Điền vào chỗ trống
+Miền đầu vào là {{}}() có thể mà tham số đầu vào có thể có.
+ANS:các giá trị
+
+30. Điền vào chỗ trống
+Mỗi phương pháp công khai thường là một chức năng có thể kiểm tra được cần được {{}}()
+ANS:kiểm tra riêng lẻ
+
+31. Điền vào chỗ trống
+Phân mảnh phải thỏa mãn hai điều kiện {{}}().
+ANS:đầy đủ, rời rạc
+
+32. Theo định nghĩa, đầu vào kiểm tra sử dụng gì?
+{{RTM (Ma trận xác định nguồn gốc yêu cầu). 
+Chính xác một khối từ mỗi đặc tính. 
+Hàm. 
+Toán tử}}
+ANS:Chính xác một khối từ mỗi đặc tính
+
+33. Điền vào chỗ trống
+Từ quan điểm của đặc tính cụ thể, tất cả các giá trị trong mỗi khối được coi là {{}}().
+ANS:tương đương
+
+34. Điền vào chỗ trống
+Cách tiếp cận theo giao diện bỏ qua {{}}().
+ANS:mối quan hệ giữa các tham số
+
+35. Đâu là điểm mạnh của phương pháp dựa theo giao diện với mẫu miền đầu vào?
+{{Xác định các đặc tính.. 
+Một vài thông tin không được sử dụng.. 
+Kết hợp ngữ nghĩa.. 
+Bỏ qua mối quan hệ giữa các tham số.}}
+ANS:Xác định các đặc tính.
+
+36. Điền vào chỗ trống
+Kĩ thuật kiểm thử phân vùng không gian đầu vào có thể được áp dụng dễ dàng mà không cần {{}}().
+ANS:tự động hóa
+
+37. Phương pháp phát triển các đặc tính trực tiếp từ các tham số đầu vào cho chương trình đang thử nghiệm với mẫu miền đầu vào là gì?
+{{Phương pháp dựa trên kiến trúc.. 
+Phương pháp dựa trên giao diện.. 
+Phương pháp dựa trên chức năng.. 
+Phương pháp dựa trên đặc tính.}}
+ANS:Phương pháp dựa trên giao diện.
+
+38. Điền vào chỗ trống
+Tiếp cận theo hướng {{}}() phát triển các đặc tính từ các tham số đầu vào độc lập. 
+ANS:giao diện
+
+39. Ý nào sau đây thỏa mãn khi tiếp cận hướng giao diện (Interface-Based Approach)?
+{{Kỹ thuật mô hình đơn giản và phụ thuộc chủ yếu trên chức năng (function).. 
+Coi mỗi tham số độc lập nhau.. 
+Sử dụng tất cả miền và thông tin ngữ nghĩa.. 
+Thỏa mãn mọi quan hệ giữa các tham số.}}
+ANS:Coi mỗi tham số độc lập nhau.
+
+40. Đâu không phải đặc điểm của cách tiếp cận dựa trên chức năng đối với việc mô hình hóa nguồn dữ liệu đầu vào?
+{{Có thể cho ra các ca kiểm thử chất lượng hơn cách tiếp cận dựa trên lớp giao tiếp.. 
+Khó khăn hơn trong việc phát triển vì cần thêm công sức thiết kế.. 
+Phát triển các đặc tính từ góc nhìn hành vi của chương trình đang được kiểm thử.. 
+Phát triển các đặc tính trực tiếp từ các tham số đầu vào riêng lẻ.}}
+ANS:Phát triển các đặc tính trực tiếp từ các tham số đầu vào riêng lẻ.
+
+41. Điền vào chỗ trống
+Tiếp cận theo hướng {{}}() phát triển các đặc tính từ các hành vi hệ thống khi kiểm thử.
+ANS:chức năng
+
+42. Điền vào chỗ trống
+Trong việc thiết kế miền đầu vào, ta có thể chấp nhận các mô hình miền đầu vào khác nhau mà có sự {{}}().
+ANS:trùng lặp
+
+43. Điền vào chỗ trống
+Mọi {{}}() phải chấp nhận toàn bộ giá trị, dù giá trị đó hợp lệ hay không hợp lệ.
+ANS:phân hoạch
+
+44. Phân vùng của một tập hợp các giá trị trong miền của một đặc tính được gọi là gì?
+{{Khối.. 
+Miền đầu vào.. 
+Tham số.. 
+Đầu vào.}}
+ANS:Khối.
+
+45. Điền vào chỗ trống
+Việc mọi phân vùng đều phải tiếp nhận tất cả các giá trị, kể cả giá trị không hợp lệ thể hiện tính {{}}() của phương pháp không gian phân vùng đầu vào.
+ANS:đầy đủ
+
+46. Điền vào chỗ trống
+Kiểm tra tính {{}}() là xác định các khối trong từng đặc tính đã che phủ toàn bộ miền đặc tính.
+ANS:đầy đủ
+
+47. Điền vào chỗ trống
+Kiểm tra tính {{}}() là xác định không có giá trị nào nằm trong nhiều hơn một khối.
+ANS:không giao nhau
+
+48. Đâu không phải cách chọn tổ hợp giá trị sinh ra từ cách chọn bao phủ t-Wise (t-Wise Coverage: TWC)?
+{{Bao phủ lựa chọn cơ sở (Base Choice Coverage).. 
+Bao phủ cặp đôi (Pair-Wise Coverage).. 
+Bao phủ mỗi lựa chọn (Each Choice Coverage).. 
+Bao phủ tất cả (All Combinations Coverage).}}
+ANS:Bao phủ lựa chọn cơ sở (Base Choice Coverage).
+
+49. Đâu không phải đặc điểm của lựa chọn cơ sở (Base Choice)
+{{Phức tạp.. 
+Nhỏ nhất. 
+Đến từ quan điểm của người dùng cuối.. 
+Đơn giản.}}
+ANS:Phức tạp.
+
+50. Khẳng định nào đúng khi nói về tiêu chí lựa chọn miền bao phủ?
+{{Là chọn một giá trị từ một khối của mỗi đặc điểm cần được sử dụng ít nhất trong một ca kiểm thử.. 
+Tất cả đều sai.. 
+Là một giá trị từ mỗi khối của từng đặc điểm cần được kết hợp với với giá trị từ các khối của các đặc điểm khác.. 
+Là chọn một giá trị từ một khối của mỗi đặc điểm cần được sử dụng nhiều nhất trong một ca kiểm thử.}}
+ANS:Là chọn một giá trị từ một khối của mỗi đặc điểm cần được sử dụng ít nhất trong một ca kiểm thử.
+
+51. Điền vào chỗ trống
+Kiểm thử cặp đôi (pair-wise) là một cách tiếp cận kiểm thử được sử dụng để kiểm thử phần mềm bằng cách sử dụng {{}}().
+ANS:phương pháp tổ hợp
+
+52. Mục đích của kỹ thuật kiểm thử cặp đôi (pair-wise) là:
+{{Tạo ra bộ dữ liệu có kích thước nhỏ, có thể bao phủ được nhiều lỗi nhất có thể.. 
+Tạo ra bộ dữ liệu có kích thước lớn, có thể bao phủ được nhiều lỗi nhất có thể.. 
+Tạo ra bộ dữ liệu có kích thước nhỏ, có thể bao phủ 1 phần ít các lỗi.. 
+Tạo ra bộ dữ liệu có kích thước để cho việc kiểm thử dễ dàng.}}
+ANS:Tạo ra bộ dữ liệu có kích thước nhỏ, có thể bao phủ được nhiều lỗi nhất có thể.
+
+53. Điền vào chỗ trống
+Tiêu chí {{}}() là một giá trị từ mỗi khối của từng đặc điểm cần được kết hợp với với giá trị từ các khối của các đặc điểm khác.
+ANS:bao phủ thông minh theo cặp
+
+54. Điền vào chỗ trống
+Cách các ràng buộc được xử lí khi lựa chọn các giá trị phụ thuộc vào {{}}() được lựa chọn, và quyết định thường được đưa ra khi lựa chọn các giá trị.
+ANS:tiêu chí bao phủ
+
+55. Điền vào chỗ trống
+Nếu mô hình miền đầu vào có quá nhiều ràng buộc, có khả năng nó có vấn đề về cấu trúc và phải được {{}}().
+ANS:thiết kế lại
+
+56. Phương pháp nào kết hợp ngữ nghĩa với mẫu miền đầu vào?
+{{Dựa vào giao diện.. 
+Dựa vào thiết kế.. 
+Dựa vào tiêu chí.. 
+Dựa vào chức năng.}}
+ANS:Dựa vào chức năng.
+
+57. Tiêu chí bao phủ nào dưới đây không loại bỏ các cặp không khả thi?
+{{BCC.. 
+ACC.. 
+TWC.. 
+PWC.}}
+ANS:BCC.
+
+----------------------------
+1. Biểu thức (p ^ q) ^ r tương đương với biểu thức nào sau đây?
+{{p ^ q ^ r.. 
+p ^ q v r.. 
+p v (q v r).. 
+p ^ (q ^ r).}}
+ANS:p ^ (q ^ r).
+
+2. Đâu là luật trội trong logic mệnh đề?
+{{p v F <=> p.. 
+p v F <=> F.. 
+p v p <=> p.. 
+p v T <=> T.}}
+ANS:p v T <=> T.
+
+3. Đồ thị dòng điều khiển là gì?
+{{Là một đồ thị thể hiện sự tăng giảm chương trình. 
+Là một đồ thị báo cáo tính tiện dụng của chương trình. 
+Là một đồ thị có hướng gồm các đỉnh tương ứng với câu lệnh\. 
+nhóm câu lệnh và các cạnh là các dòng điều khiển giữa các câu lệnh\. 
+nhóm câu lệnh.. 
+Là một đồ thị thể hiện danh sách chức năng của chương trình}}
+ANS:Là một đồ thị có hướng gồm các đỉnh tương ứng với câu lệnh\/nhóm câu lệnh và các cạnh là các dòng điều khiển giữa các câu lệnh\/nhóm câu lệnh.
+
+4. Máy hữu hạn trạng thái được áp dụng chủ yếu cho loại kiểm thử nào sau đây?
+{{Kiểm thử theo mô hình. 
+Kiểm thử tự động. 
+Kiểm thử dòng điều khiển. 
+Kiểm thử dòng dữ liệu}}
+ANS:Kiểm thử theo mô hình
+
+5. Mô hình V là gì?
+{{Loại thử nghiệm.. 
+Mức độ kiểm thử.. 
+Mô hình SDLC.. 
+Kỹ thuật thiết kế thử nghiệm.}}
+ANS:Mô hình SDLC.
+
+6. Một nút nhánh (branching node) là
+{{Một nút là điểm đi của nhiều đường dẫn (outlink). 
+Một nút nhập (entry node). 
+Một nút là điểm đến của nhiều đường dẫn (inlink). 
+Một nút thoát (exit node)}}
+ANS:Một nút là điểm đi của nhiều đường dẫn (outlink)
+
+7. Phát biểu Toán học là khó có được xem là một mệnh đề không?
+{{Tùy quan điểm.. 
+Có.. 
+Cả hai đều đúng.. 
+Không.}}
+ANS:Có.
+
+8. Yêu tố nào mà một đường đi (path) không bắt buộc phải có?
+{{Nút đầu (entry node). 
+Đường dẫn (link). 
+Phân đoạn (segment). 
+Nút cuối (exit node)}}
+ANS:Phân đoạn (segment)
+
+9. Điền vào chỗ trống
+Cạnh của đồ thị đi từ nút ni sang nút nj và được viết là (ni, nj). ni được gọi là {{}}(), còn nj được gọi là {{}}().
+ANS:nút tiền nhiệm,nút thừa kế
+
+10. Chiều dài của đường dẫn có một nút là bao nhiêu?
+{{1. 
+0. 
+2. 
+3}}
+ANS:0
+
+11. Chiều dài của một đường dẫn được định nghĩa là số {{cạnh}} mà nó chứa.
+{{. 
+. 
+. 
+}}
+12. Cho tập đường dẫn sau: Path [1, 2,4, 5, 7]. Hỏi các tập nào sau đây chứa các cạnh được thăm (edge visted) đầy đủ nhất của đường dẫn trên?
+{{[1,2], [5,7].. 
+[1,2], [2,4], [4,5], [5,7].. 
+[2,4], [4,5], [5,7].. 
+[1,2], [2,4], [5,7].}}
+ANS:[1,2], [2,4], [4,5], [5,7].
+
+13. Cho tập đường dẫn sau: Path [1, 2,4, 5, 7]. Hỏi các tập nào sau đây chứa các điểm được thăm (node visted) đầy đủ nhất của đường dẫn trên?
+{{1, 2, 3.. 
+1, 4, 7.. 
+2. 4. 5. 7.. 
+1, 2, 4, 5, 7.}}
+ANS:1, 2, 4, 5, 7.
+
+14. Có những mối quan hệ gì giữa các đường đi kiểm thử con được trích trong đường đi kiểm thử (Test Paths)?
+{{Nhiều-cho-nhiều (many-to-many).. 
+Một-cho-một (one-to-one).. 
+Nhiều-cho-một (many-to-one).. 
+Nhiều-cho-một (many-to-one): nhiều đường đi kiểm thử con được trích trong đường đi kiểm thử, nhiều-cho-nhiều (Many-to-many): các đường đi kiểm thử con được trích từ một hoặc nhiều các đường đi kiểm thử.}}
+ANS:Nhiều-cho-một (many-to-one): nhiều đường đi kiểm thử con được trích trong đường đi kiểm thử, nhiều-cho-nhiều (Many-to-many): các đường đi kiểm thử con được trích từ một hoặc nhiều các đường đi kiểm thử.
+
+15. Đâu là định nghĩa đúng về cặp DU(x,y) (DU Pairs)?
+{{Là một cặp vị trí x, y sao cho biến v được định nghĩa (cấp phát bộ nhớ) tại x và được sử dụng tại y. 
+Là một cặp vị trí x, y sao cho biến v được cấp phát bộ nhớ tại x và được xoá khỏi bộ nhớ tại y. 
+Là một cặp vị trí x, y sao cho biến v được xoá tại x và được tái cấp phát tại y. 
+Là một cặp vị trí x, y sao cho biến v được sử dụng tại x và được định nghĩa (cấp phát bộ nhớ) tại y}}
+ANS:Là một cặp vị trí x, y sao cho biến v được định nghĩa (cấp phát bộ nhớ) tại x và được sử dụng tại y
+
+16. Điền vào chỗ trống
+Đồ thị {{}}() là đồ thị mà tất cả đường kiểm thử bắt đầu tại một nút duy nhất và kết thúc tại một nút khác cũng duy nhất.
+ANS:Một vào, một ra (SESE)
+
+17. Đường dẫn nào dưới đây là một chu kì (cycle)?
+{{[2,5,2,9,6]. 
+[2,5,3,4,4]. 
+[2,3,4,5,6]. 
+[2,5,9,6,2]}}
+ANS:[2,5,9,6,2]
+
+18. Mỗi ca kiểm thử thực thi bao nhiêu đường thi hành?
+{{3. 
+1. 
+2. 
+Nhiều hơn 2.}}
+ANS:1
+
+19. Một đồ thị được mô tả như sau: N = {1, 2, 3, 4, 5, 6}; N0 = {1, 2}; Nf = {5, 6}; E = {(1, 3), (2, 3), (3, 5), (5, 4), (4, 2), (3, 6)}. Đâu là một đường dẫn khả thi đối với đồ thị trên?
+{{[3, 5]. 
+[1, 2, 3, 4, 5, 6]. 
+[2, 4]. 
+[1, 3, 6]}}
+ANS:[1, 3, 6]
+
+20. Một đồ thị được mô tả như sau: N = {1, 2, 3, 4, 5, 6}; N0 = {1, 2}; Nf = {5, 6}; E = {(1, 3), (2, 3), (3, 5), (5, 4), (4, 2), (3, 6)}. Có bao nhiêu test path (đường dẫn kiểm thử) cho đồ thị trên?
+{{Có 2 đường dẫn: [1, 3, 6] và [1, 3, 5].. 
+Có 1 đường dẫn: [1, 3, 6].. 
+Không có đường dẫn nào khả thi.. 
+Vô số vì bất kì đường dẫn nào đi qua vòng lặp [2, 3, 5, 4] đều kéo dài vô hạn.}}
+ANS:Vô số vì bất kì đường dẫn nào đi qua vòng lặp [2, 3, 5, 4] đều kéo dài vô hạn.
+
+21. Điền vào chỗ trống
+{{}}() là một đường đi chính bắt đầu và kết thúc cùng một nút.
+ANS:Đường đi vòng
+
+22. Điền vào chỗ trống
+Các {{}}() mô tả các thuộc tính của các đường kiểm thử.
+ANS:yêu cầu kiểm thử
+
+23. Các quy tắc xác định yêu cầu kiểm tra gọi là gì?
+{{Tiêu chí về độ phù hợp của cấu trúc. 
+Yêu cầu kiểm thử. 
+Tiêu chí kiểm thử. 
+Tiêu chí về độ phù hợp của luồng dữ liệu}}
+ANS:Tiêu chí kiểm thử
+
+24. Cái gì được xác định trên biểu đồ chỉ theo các nút và cạnh?
+{{Tiêu chí về độ phù hợp của luồng dữ liệu. 
+Tiêu chí kiểm thử. 
+Yêu cầu kiểm thử. 
+Tiêu chí về độ phù hợp của cấu trúc}}
+ANS:Tiêu chí về độ phù hợp của cấu trúc
+
+25. Cái gì yêu cầu đồ thị được ghi chú với các tham chiếu đến các biến?
+{{Tiêu chí về độ phù hợp của luồng dữ liệu. 
+Tiêu chí kiểm thử. 
+Yêu cầu kiểm thử. 
+Tiêu chí về độ phù hợp của cấu trúc}}
+ANS:Tiêu chí về độ phù hợp của luồng dữ liệu
+
+26. Định nghĩa thế nào là gặp gỡ (visit) trong đồ thị?
+{{1 đường dẫn kiểm tra (test path) p được gọi là gặp (visit) nút n nếu n là điểm bắt đầu.. 
+1 đường dẫn kiểm tra (test path) p được gọi là gặp (visit) nút n nếu n là bất kỳ.. 
+1 đường dẫn kiểm tra (test path) p được gọi là gặp (visit) nút n nếu n ở trên p.. 
+1 đường dẫn kiểm tra (test path) p được gọi là gặp (visit) nút n nếu n là điểm kết thúc (final nodes).}}
+ANS:1 đường dẫn kiểm tra (test path) p được gọi là gặp (visit) nút n nếu n ở trên p.
+
+27. Mô tả thuộc tính của đường kiểm thử gọi là gì?
+{{Tiêu chí về độ phù hợp của luồng dữ liệu. 
+Tiêu chí về độ phù hợp của cấu trúc. 
+Yêu cầu kiểm thử. 
+Tiêu chí kiểm thử}}
+ANS:Yêu cầu kiểm thử
+
+28. Một đồ thị được mô tả như sau:N = {1, 2, 3, 4}; N0 = {1}; Nf = {4}; E = {(1, 2), (2, 3), (3, 2), (2, 4)}. Liệt kê các đường dẫn đạt được Độ phủ cạnh, nhưng không đạt được Độ phủ cặp cạnh.
+{{Không có đường dẫn nào khả thi.. 
+[1, 2, 3, 4].. 
+[1, 3, 4].. 
+[1, 2, 3, 2, 4].}}
+ANS:[1, 2, 3, 2, 4].
+
+29. Một đồ thị được mô tả như sau:N = {1, 2, 3, 4}; N0 = {1}; Nf = {4}; E = {(1, 2), (2, 3), (3, 2), (2, 4)}. Liệt kê các đường dẫn thử nghiệm đạt được Độ phủ nút, nhưng không đạt được Độ phủ cạnh.
+{{Không thể, vì bất kì đường dẫn nào truy cập nút 3 cũng truy cập cạnh (2, 3) và cạnh (3, 2).. 
+[1, 3, 4].. 
+[1, 2, 3, 4].. 
+[1, 2, 3, 4], [1, 3, 4].}}
+ANS:Không thể, vì bất kì đường dẫn nào truy cập nút 3 cũng truy cập cạnh (2, 3) và cạnh (3, 2).
+
+30. Một đồ thị được mô tả như sau:N = {1, 2, 3, 4}; N0 = {1}; Nf = {4}; E = {(1, 2), (2, 3), (3, 2), (2, 4)}. Liệt kê tất cả các đường dẫn thử nghiệm đạt được Độ phủ cặp cạnh.
+{{Không có đường dẫn nào khả thi.. 
+[1, 2, 4].. 
+[1, 2, 4], [1, 2, 3, 2, 3, 2, 4].. 
+[1, 2, 3, 2, 3, 2, 4].}}
+ANS:[1, 2, 4], [1, 2, 3, 2, 3, 2, 4].
+
+31. Số đường đi nếu một đồ thị chứa vòng lặp?
+{{2. 
+3. 
+1. 
+Vô số}}
+ANS:Vô số
+
+32. Số tiêu chí cho đường đi du lịch DU (Touring DU-Paths)?
+{{1. 
+4. 
+2. 
+3}}
+ANS:3
+
+33. Thế nào là đường dẫn (path) ở trong đồ thị?
+{{Đường dẫn bắt buộc phải có 3 nút (nodes) trở lên.. 
+Đường dẫn là liên kết các cạnh với nhau.. 
+Đường dẫn là các nút (nodes).. 
+Đường dẫn là chuỗi các nút (node).}}
+ANS:Đường dẫn là chuỗi các nút (node).
+
+34. Thế nào là đường dẫn kiểm tra (test path)?
+{{Bắt đầu ở nút bắt đầu (initial node).. 
+Kết thúc ở nút kết thúc (final node).. 
+Phải là 1 đường dẫn và phải bắt đầu ở nút bắt đầu (initial node) và kết thúc ở nút kết thúc (final node).. 
+Phải bắt đầu ở nút bắt đâu (initial node) và kết thúc ở nút kết thúc (final nodes).}}
+ANS:Phải là 1 đường dẫn và phải bắt đầu ở nút bắt đầu (initial node) và kết thúc ở nút kết thúc (final node).
+
+35. Từ viết tắt TR biểu thị cho gì? Và định nghĩa TR là gì?
+{{TR miêu tả các thuộc tính của đường dẫn kiểm tra (test path).. 
+TR là test requirements. TR miêu tả các thuộc tính của đường dẫn kiểm tra (test path).. 
+TR là test requirements. TR định nghĩa các đường dẫn kiểm tra (test path).. 
+TR là test requirements.}} 
+ANS:TR là test requirements. TR miêu tả các thuộc tính của đường dẫn kiểm tra (test path).
+
+36. Bao phủ nào mà yêu cầu kiểm thử chứa mỗi đường đi có thể tới được với độ dài lên tới hai trong đồ thị?
+{{Bao phủ đa cạnh.. 
+Bao phủ tất cả đường đi.. 
+Bao phủ nút.. 
+Bao phủ cặp cạnh.}}
+ANS:Bao phủ cặp cạnh.
+
+37. Bao phủ nào mà yêu cầu kiểm thử chứa tất cả các đường đi trong đồ thị?
+{{Bao phủ cạnh.. 
+Bao phủ nút.. 
+Bao phủ tất cả đường đi.. 
+Bao phủ đường đi chính.}}
+ANS:Bao phủ tất cả đường đi.
+
+38. Đâu không phải là tên khác của kiểm thử kiến trúc?
+{{Không có điều nào đúng.. 
+Kiểm thử hành vi.. 
+Kiểm thử hộp trắng.. 
+Kiểm thử hộp kính.}}
+ANS:Kiểm thử hành vi.
+
+39. Đâu là một đường đi đơn giản?
+{{[1,4,2,6,3,1,5]. 
+[1,4,2,6,3,1]. 
+[1,4,2,6,2,3]. 
+[1,4,2,6,3,4]}}
+ANS:[1,4,2,6,3,1]
+
+40. Đồ thị chỉ có một nút thì có mấy cạnh?
+{{0. 
+3. 
+2. 
+1}}
+ANS:0
+
+41. Một đồ thị có một vòng lặp thì có bao nhiêu đường đi?
+{{1. 
+Vô hạn.. 
+0. 
+2}} 
+ANS:Vô hạn.
+
+42. Ta có đường kiểm thử sau: [1, 2, 4, 5, 7]. Hỏi trong các tập sau đây, tập nào là thăm quan đường dẫn phụ đầy đủ nhất?
+{{[1,2,4], [2,4,5], [4,5,7], [1,2,4,5], [2,4,5,7], [1,2,4,5,7]. 
+(1,2), (2,4), (4, 5), (5, 7). 
+[1,2,4], [2,4,5], [4,5,7]. 
+1, 2, 4, 5 , 7}}
+ANS:[1,2,4], [2,4,5], [4,5,7], [1,2,4,5], [2,4,5,7], [1,2,4,5,7]
+
+43. Tiêu chí bao phủ dòng dữ liệu (Data Flow Coverage Criteria) yêu cầu đồ thị có tính chất gì?
+{{Đồ thị được chú thích với các biến. 
+Đồ thị được chú thích với các tham chiếu đến các biến. 
+Đồ thị không được chú thích với các tham chiếu đến các biến. 
+Đồ thị được chú thích bởi các tham chiếu đến đồ thị khác}}
+ANS:Đồ thị được chú thích với các tham chiếu đến các biến
+
+44. Tiêu chí kết cấu độ bao phủ (Structural coverage criteria) được định nghĩa với loại đồ thị nào?
+{{Đồ thị chỉ có các cạnh (edges). 
+Đồ thị chỉ có các nút (nodes). 
+Đồ thị chỉ có các cạnh và nút. 
+Đồ thị có các cạnh, nút và trọng số}}
+ANS:Đồ thị chỉ có các cạnh và nút
+
+45. Tổ chức có thể có kiểm tra nội bộ, sự tham gia trực tiếp của người dùng và phát hành phiên bản beta rất ít và nó cũng bao gồm khả năng sử dụng, khả năng tương thích, sự chấp nhận của người dùng, v.v. được gọi là
+{{Thiết kế và triển khai GUI.. 
+Phân tích công việc.. 
+Kiểm thử.. 
+Thu thập yêu cầu GUI.}}
+ANS:Kiểm thử.
+
+46. Điền vào chỗ trống
+{{}}(): là một đường kiểm thử p đi qua đường con q nếu q là đường con của p.
+ANS:Đi qua (Tour)
+
+47. Điền vào chỗ trống
+{{}}(): là một đường đi chính bắt đầu và kết thúc tại cùng một nút.
+ANS:Đường đi khứ hồi
+
+48. Đâu không phải là một trường hợp của đường p đi qua đường con q?
+{{Đi qua trực tiếp (Tour).. 
+Đi đường vòng (Detour).. 
+Đi qua với đường phụ (Tour with sidetrips).. 
+Đi qua theo vòng lặp (Tour with loops).}}
+ANS:Đi qua theo vòng lặp (Tour with loops).
+
+49. Đường dẫn đơn giản mà không xuất hiện như một đường dẫn con thích hợp của bất kì đường dẫn đơn giản nào khác là gì
+{{Đi theo đường vòng. 
+Chuyến đi (tour). 
+Đường dẫn chính. 
+Đi với chuyến đi phụ (sidetrips)}}
+ANS:Đường dẫn chính
+
+50. Đường dẫn kiểm thử p đi qua đường dẫn con q nếu q là một đường dẫn con của p là gì?
+{{Đi với chuyến đi phụ (sidetrips). 
+Đường dẫn chính. 
+Chuyến đi (tour). 
+Đi theo đường vòng}}
+ANS:Chuyến đi (tour)
+
+51. Đường dẫn kiểm thử p đi qua đường dẫn con q với các đường phụ nếu và chỉ nếu mọi nút trong q cũng theo thứ tự p là gì?
+{{Đường dẫn chính. 
+Đi theo đường vòng. 
+Chuyến đi (tour). 
+Đi với chuyến đi phụ (sidetrips)}}
+ANS:Đi theo đường vòng
+
+52. Đường đi khứ hồi (Round-trip path) là gì?
+{{Là một đường đi chính bắt đầu và kết thúc ở cùng một nút. 
+Là đường đi bắt đầu ở nút đầu tiên. 
+Là đường đi bắt đầu ở nút cuối cùng. 
+Là đường đi giữa hai nút liền kề}}
+ANS:Là một đường đi chính bắt đầu và kết thúc ở cùng một nút
+
+53. Điền vào chỗ trống
+Khái niệm {{}}() là một vị trí mà ở đó giá trị một biến được lưu vào bộ nhớ. 
+ANS:def
+
+54. Điền vào chỗ trống
+Khái niệm {{}}() là một vị trí mà giá trị của biến được truy cập. 
+ANS:use
+
+55. Sự định nghĩa (definition - def) là gì?
+{{Là địa chỉ mà giá trị của một biến được lưu trữ trong bộ nhớ. 
+Là địa chỉ của một biến. 
+Là địa chỉ mà giá trị của một biến được lưu trữ trong mã nguồn. 
+Là địa chỉ mà giá trị của một nút được lưu trữ trong bộ nhớ}}
+ANS:Là địa chỉ mà giá trị của một biến được lưu trữ trong bộ nhớ
+
+56. Sự sử dụng (use) là gì?
+{{Là vị trí mà giá trị của một biến bị thay đổi. 
+Là vị trí mà giá trị của một biến được truy cập (được gọi). 
+Là địa chỉ của một biến. 
+Là vị trí mà giá trị của một nút được truy cập (được gọi)}}
+ANS:Là vị trí mà giá trị của một biến được truy cập (được gọi)
+
+57. Ý nào sau đây không đúng khi nói về tiêu chuẩn bao phủ luồng dữ liệu phổ biến nhất?
+{{Bao phủ đường đi.. 
+Bao phủ tất cả sử dụng.. 
+Bao phủ tất cả định nghĩa.. 
+Bao phủ tất cả đường định nghĩa-sử dụng.}}
+ANS:Bao phủ đường đi.
+
+58. Đâu là định nghĩa đúng về (use)?
+{{Là vị trí mà biến được sử dụng. 
+Là vị trí mà biến được cấp phát bộ nhớ. 
+Là vị trí mà giá trị của một biến được truy cập (hoặc là sử dụng). 
+Là vị trí mà giá trị của một biến được lưu vào bộ nhớ}}
+ANS:Là vị trí mà giá trị của một biến được truy cập (hoặc là sử dụng)
+
+59. Bao phủ dòng lệnh được xác định như thế nào?
+{{Số kết quả quyết định chia cho tổng số dòng lệnh khả thi.. 
+Số kết quả các ca kiểm thử có thể xảy ra chia cho tổng số điểm chức năng.. 
+Số điểm quyết định chia cho số ca kiểm thử.. 
+Số dòng lệnh khả thi trong ca kiểm thử chia cho tổng số dòng lệnh.}}
+ANS:Số dòng lệnh khả thi trong ca kiểm thử chia cho tổng số dòng lệnh.
+
+60. Nếu bạn đang kiểm thử 1 module code, làm thế nào để biết được mức độ bao phủ quyết định đã đạt được?
+{{Bằng cách lấy số đường quyết định đã kiểm thử chia cho tổng số đường quyết định trong module.. 
+Bằng cách lấy số đường quyết định đã kiểm thử chia cho tổng số lệnh thực thi trong module.. 
+Bằng cách lấy số đầu ra đã kiểm thử chia cho tổng số đầu ra quyết định trong module.. 
+Bằng cách lấy số đường quyết định đã kiểm thử chia cho tổng số dòng lệnh trong module.}} 
+ANS:Bằng cách lấy số đầu ra đã kiểm thử chia cho tổng số đầu ra quyết định trong module.
+
+61. \/\/if (x < y){ y = 0; x = x + 1;} \/\/ Cần bao nhiêu đỉnh để mô hình đoạn chương trình trên bằng đồ thị luồng điều khiển (Control Flow Graph)?
+{{3. 
+2. 
+4. 
+1}} 
+ANS:3
+
+62. Điền vào chỗ trống
+\. 
+\. 
+if (x < y){ y = 0; x = x + 1;} \. 
+\. 
+ Không thể mô hình đoạn mã trên thành khối {{}}() vì đồ thị luồng điều khiển có chứa nhánh (branch).
+ANS:cơ bản
+
+63. Đâu không phải là trường hợp của việc định nghĩa (def) cho một biến x?
+{{Biến x là tham số chính thức (formal parameter) của một phương thức.. 
+Biến x là đầu vào của chương trình.. 
+Biến x xuất hiện bên trái phép gán (assignment).. 
+Biến x xuất hiện bên phải phép gán (assignment).}}
+ANS:Biến x xuất hiện bên phải phép gán (assignment).
+
+64. Đâu là đồ thị được sử dụng phổ biến nhất cho việc kiểm thử thiết kế kiến trúc.
+{{Đồ thị dòng dữ liệu (Data flow graph).. 
+Đồ thị gọi (Call graph).. 
+Đồ thị dòng điều khiển (Control flow graph).. 
+Đồ thị kế thừa (Inheritance graph).}}
+ANS:Đồ thị gọi (Call graph).
+
+65. Trong đồ thị luồng điều khiển (call graph), một cạnh (edge) mô tả điều gì?
+{{Cách khai báo biến.. 
+Cách khởi động phần mềm.. 
+Cách gọi tới một đơn vị (unit).. 
+Cách kết nối các mô-đun.}}
+ANS:Cách gọi tới một đơn vị (unit).
+
+66. Trong đồ thị luồng điều khiển (call graph), một nút (node) tượng trưng cho yếu tố nào?
+{{Một phần mềm.. 
+Một đơn vị (Unit).. 
+Một mô-đun (module).. 
+Một tập tin.}}
+ANS:Một đơn vị (Unit).
+
+67. Điền vào chỗ trống
+Kiểm tra tĩnh (không được coi là kiểm tra truyền thống) tiến hành bằng cách {{}}().
+ANS:kiểm tra từng ràng buộc
+
+68. Máy hữu hạn trạng thái (FSM - Finite State Machine) có thể được chú thích với nhiều kiểu hành động khác nhau. Nhưng không là hành động nào trong số các hành động sau:
+{{Vị trí của các nút (Position of nodes).. 
+Thao tác đầu vào tới các nút (Entry actions to nodes).. 
+Thao tác đầu ra tới các nút (Exit actions to nodes).. 
+Các thao tác khi chuyển tiếp (Actions on Transitions).}}
+ANS:Vị trí của các nút (Position of nodes).
+
+69. Điền vào chỗ trống
+Ràng buộc tuần tự (Sequencing Constraints) là {{}}() áp đặt các ràng buộc về thứ tự mà các phương thức có thể gọi được.
+ANS:các quy tắc || rules
+
+----------------------------
+1. Điền vào chỗ trống
+{{}}() là một mệnh đề đơn, hoặc là phủ định của một mệnh đề đơn. 
+ANS:Đơn từ || (literal)
+
+2. Điền vào chỗ trống
+{{}}()thích hợp là một hạn từ (term) trong đó có một hoặc nhiều mệnh đề bị loại bỏ. 
+ANS:Một hạn từ con || subterm
+
+3. Điền vào chỗ trống
+{{}}() sử dụng cùng một tên cho các hàm tạo hoặc phương thức khác nhau trong cùng một lớp.
+ANS:Quá tải || Overloading
+
+4. Có bao nhiêu mệnh đề đúng cho vị ngữ dưới đây? (G ∨ ((m > a) ∨ (s <= o + n)) ∧ U)
+{{2. 
+1. 
+4. 
+3}}
+ANS:4
+
+5. Đâu không phải là 1 trong các nguồn của vị từ?
+{{Yêu cầu, cả chính thức và không chính thức.. 
+Truy vấn SQL.. 
+Các quyết định trong biểu đồ hoạt động UML.. 
+Quyết định bên ngoài các chương trình.}}
+ANS:Quyết định bên ngoài các chương trình.
+
+6. Đâu không phải là một dạng của bao phủ logic?
+{{Bao phủ quãng đường (Path Coverage). 
+Bao phủ cực (Pole Coverage). 
+Bao phủ điều kiện (Condition Coverage). 
+Bao phủ mệnh đề (Statement Coverage)}}
+ANS:Bao phủ cực (Pole Coverage)
+
+7. Đâu không phải là một phương pháp kiểm thử?
+{{Kiểm thử hộp xám (Grey box testing). 
+Kiểm thử hộp bạc (Silver box testing). 
+Kiểm thử hộp đen (Black box testing). 
+Kiểm thử hộp trắng (White box testing)}}
+ANS:Kiểm thử hộp bạc (Silver box testing)
+
+8. Đâu là các mệnh đề trong vị từ sau đây: ((A V B) ∧ (C V D)) → E?
+{{(A V B) ∧ (C V D). 
+C V D. 
+A, B, C, D, E. 
+A V B}}
+ANS:A, B, C, D, E
+
+9. Loại Kiểm tra nào sau đây giả định rằng một đường dẫn logic trong một đơn vị hoặc chương trình đã được biết trước?
+{{Kiểm thử hộp đen. 
+Kiểm thử hồi quy. 
+Kiểm thử hộp trắng. 
+Kiểm thử gia tăng}}
+ANS:Kiểm thử hộp trắng
+
+10. Một dự đoán không thể chứa loại nào sau đây?
+{{Biến luận lý (Boolean). 
+Hàm gọi biến luận lý. 
+Biến phi luận lý có chứa dấu >, <, ==, >=, <=, !=. 
+Biến phi luận lý có chứa giá trị nguyên}}
+ANS:Biến phi luận lý có chứa giá trị nguyên
+
+11. Điền vào chỗ trống
+Một dự đoán thường có {{}}() mệnh đề
+ANS:3
+
+12. Trong một phần mềm, biểu thức logic không đến từ nguồn nào trong các nguồn sau đây?
+{{Các cách đặt tên biến.. 
+Các yêu cầu phần mềm.. 
+Máy trạng thái hữu hạn và biểu đồ trạng thái.. 
+Các quyết định (decisions) trong các chương trình.}}
+ANS:Các cách đặt tên biến.
+
+13. Ý nào sau đây đúng về định nghĩa hạng thức (term)?
+{{Hạng thức (term): là một tập hợp các vị từ được kết nối với nhau bằng logic hoặc (or).. 
+Hạng thức (term): là một tập hợp các vị từ (predicate) được kết nối với nhau bằng logic và (and).. 
+Hạng thức (term): là một tập hợp các đơn tử được kết nối với nhau bằng logic hoặc (or).. 
+Hạng thức (term): là một tập hợp các đơn tử được kết nối với nhau bằng logic và (and).}}
+ANS:Hạng thức (term): là một tập hợp các đơn tử được kết nối với nhau bằng logic và (and).
+
+14. Bao phủ kết hợp (Combination coverage) trở nên không thực tế khi bao gồm bao nhiêu mệnh đề?
+{{1. 
+Nhiều hơn 3 hoặc 4.. 
+3. 
+2}}
+ANS:Nhiều hơn 3 hoặc 4.
+
+15. Điền vào chỗ trống
+Bao phủ mệnh đề (Clause coverage) không phụ thuộc vào bao phủ {{}}().
+ANS:dự đoán
+
+16. Biểu thức logic không đến từ nguồn nào sau đây?
+{{Hệ điều hành. 
+Quyết định trong chương trình. 
+Các máy hữu hạn trạng thái. 
+Các yêu cầu}}
+ANS:Hệ điều hành
+
+17. Cách đơn giản nhất để có được bao hàm thuộc tính và mệnh đề là gì?
+{{Hai yếu tố là riêng biệt nhau nên không thể có được cả hai.. 
+Tìm PC vì nó luôn cho ra CC trong nó.. 
+Kiểm thử mọi kết hợp của hai loại bao hàm.. 
+Tìm CC vì nó luôn dẫn đến PC mà nó tạo thành.}}
+ANS:Kiểm thử mọi kết hợp của hai loại bao hàm.
+
+18. Cho vị ngữ ((f <= g) ∧ (X > 0)) ∨ (M ∧ (e < d + c)). Có bao nhiêu mệnh đề trong vị ngữ trên?
+{{6. 
+4. 
+5. 
+3}}
+ANS:4
+
+19. Cho vị ngữ ((f <= g) ∧ (X > 0)) ∨ (M ∧ (e < d + c)). Đâu không phải mệnh đề của vị ngữ trên?
+{{X > 0. 
+X. 
+e < d + c. 
+f <= g}}
+ANS:X
+
+20. Đâu không phải là một trong bốn cấu trúc của chương trình tạo mẫu?
+{{Logic.. 
+Không gian đầu vào.. 
+Không gian đầu ra.. 
+Cú pháp.}}
+ANS:Không gian đầu ra.
+
+21. Hầu hết các vị ngữ thường có bao nhiêu mệnh đề?
+{{3. 
+2. 
+Nhiều hơn 4. 
+1}}
+ANS:1
+
+22. Nếu chỉ có một mệnh đề thì nên sử dụng bao phủ nào?
+{{CoC. 
+ACC. 
+ICC. 
+PC}} 
+ANS:PC
+
+23. Ta có phép toán sau: ((a < b) ∨ D) ∧ (m >= n*o). Với các giá trị cho trước: m = 1, n = 1, o =1, các giá trị nào của a, b, D thì cho phép vị từ trên là đúng?
+{{a = 12, b = 2, D = false. 
+a = 5, b =10, D = true. 
+a = 10, b = 5, D = false. 
+a = 10, b = 5, D = true}}
+ANS:a = 5, b =10, D = true
+
+24. Bao phủ vị từ (Predicate Coverage) tương đương với loại bao phủ nào?
+{{Bao phủ cạnh (Edge Coverage).. 
+Bao phủ điểm nút (Node Coverage).. 
+Bao phủ đường đi chính (Prime Path Coverage).. 
+Bao phủ đường đi đơn (Simple Path Coverage).}}
+ANS:Bao phủ cạnh (Edge Coverage).
+
+25. Biểu thức đánh giá giá trị nhị phân (đúng\/sai) gọi là gì?
+{{Thuật toán. 
+Toán tử. 
+Hàm. 
+Vị từ}}
+ANS:Vị từ
+
+26. Ta có các phép toán tử sau: ¬, ∧ , ∨, ↔, đâu là phép toán tử tương đương?
+{{∨. 
+↔. 
+∧. 
+¬}}
+ANS:↔
+
+27. Tiêu chuẩn mà xét các trường hợp từng mệnh đề với hai giá trị True và False là tiêu chuẩn nào?
+{{Bao phủ hàm ý.. 
+Bao phủ tổ hợp.. 
+Bao phủ vị từ.. 
+Bao phủ mệnh đề.}}
+ANS:Bao phủ mệnh đề.
+
+28. Điền vào chỗ trống
+Toán tử A {{}}() B cho kết quả 1 (true) nếu A và B khác chân trị, 0 (false) nếu A và B cùng chân trị. 
+ANS:XOR
+
+29. Bao phủ nào bắt buộc cj(ci = true) != cj(ci = false)?
+{{CACC. 
+GACC. 
+GICC. 
+RACC}} 
+ANS:RACC
+
+30. Bao phủ nào bắt buộc p(ci = true) != p(ci = false)?
+{{GICC. 
+RACC. 
+CACC. 
+GACC}} 
+ANS:CACC
+
+31. Bao phủ nào mà các giá trị được chọn cho các mệnh đề phụ cj không cần phải giống nhau khi ci = true hay ci = false?
+{{CoC. 
+CACC. 
+RACC. 
+GACC}} 
+ANS:GACC
+
+32. Có thể thỏa mãn loại bao phủ nào mà không cần thỏa mãn bao phủ vị từ?
+{{RACC. 
+GICC. 
+CACC. 
+GACC}}
+ANS:GACC
+
+33. Điền vào chỗ trống
+{{}}() là bao phủ mà các mệnh đề chính không ảnh hưởng đến các vị ngữ.
+ANS:Bao phủ mệnh đề không hoạt động || Inactive Clause Coverage
+
+34. Bao phủ mệnh đề hoạt động có giới hạn (Restricted Active Clause Coverage) không bao hàm (subsume) bao phủ nào sau đây?
+{{Bao phủ mệnh đề (Clause Coverage).. 
+Bao phủ mệnh đề không hoạt động có giới hạn (Restricted Inactive Clause Coverage).. 
+Bao phủ vị từ (Predicate Coverage).. 
+Bao phủ mệnh đề hoạt động chung (General Active Clause Coverage).}} 
+ANS:Bao phủ mệnh đề không hoạt động có giới hạn (Restricted Inactive Clause Coverage).
+
+35. Ta có phép vị từ sau: (a > b ∧ b > c) ∨ c > a. Với các cặp giá trị nào sau đây thì phép vị từ trên là bất khả thi?
+{{(a > b) = false, (b > c) = true, (c > a) = true. 
+(a > b) = true, (b > c) = false, (c > a) = true. 
+(a > b) = true, (b > c) = true, (c > a) = false. 
+(a > b) = true, (b > c) = true, (c > a) = true}}
+ANS:(a > b) = true, (b > c) = true, (c > a) = true
+
+36. Biểu thức nào sau đây là dạng chuẩn tắc tuyển?
+{{abc + de. 
+abc. 
+(a + b + c) (d + e). 
+de}}
+ANS:abc + de
+
+37. Một biểu thức (term) là gì?
+{{Là phép logic and. 
+Là một tập các giá trị (literal) được liên kết với nhau bởi phép or. 
+Là một tập các giá trị (literal) được liên kết với nhau bởi phép and. 
+Là một tập các toán tử logic}}
+ANS:Là một tập các giá trị (literal) được liên kết với nhau bởi phép and
+
+38. Một biểu thức chuẩn tắc tuyển (predicate) là gì?
+{{Là một tập các toán tử logic. 
+Là một tập các giá trị (literal) được liên kết với nhau bởi phép and. 
+Là một tập các giá trị (literal) được liên kết với nhau bởi phép or. 
+Là phép logic or}}
+ANS:Là một tập các giá trị (literal) được liên kết với nhau bởi phép or
+
+39. Một giá trị (literal) là gì?
+{{Là phủ định của một mệnh dề.. 
+Là một tập các toán tử logic. 
+Là một mệnh đề hoặc phủ định của một mệnh đề. Vd: a, not a. 
+Là một mệnh đề. Vd: a}}
+ANS:Là một mệnh đề hoặc phủ định của một mệnh đề. Vd: a, not a
+
+40. Điền vào chỗ trống
+{{}}() là một hàm ý mà các phần con trong nó không phải là hàm ý.
+ANS:Hàm ý nguyên tố
+
+41. Một điểm đúng độc nhất tương ứng với một hàm ý cho trước là sự gán giá trị thực sao cho:
+{{Giá trị của tất cả hàm ý là false.. 
+Giá trị của tất cả các hàm ý là true.. 
+Giá trị của hàm ý đã cho là true và các hàm ý khác là false.. 
+Giá trị của các hàm ý khác ngoài hàm ý đã cho là true.}} 
+ANS:Giá trị của hàm ý đã cho là true và các hàm ý khác là false.
+
+42. Điền vào chỗ trống
+{{}}() là một hàm ý sao cho không có thuật ngữ phụ thích hợp cũng là một hàm ý.  
+ANS:Hàm ý chính
+
+43. Điền vào chỗ trống
+{{}}() là hàm ý có thể được loại bỏ mà không làm thay đổi giá trị của vị từ. 
+ANS:Hàm ý thừa
+
+44. Điền vào chỗ trống
+{{}}() là một thuật ngữ có một hoặc nhiều mệnh đề bị loại bỏ.
+ANS:Thuật ngữ con thích hợp
+
+45. Đại diện chỉ có hàm ý nguyên tố, không dư thừa là gì?
+{{Hàm ý thừa. 
+Đại diện DNF tối thiểu. 
+Hàm ý chính. 
+Hàm ý chính}}
+ANS:Đại diện DNF tối thiểu
+
+46. Đâu không phải thuật ngữ con thích hợp của abc?
+{{abc. 
+ab. 
+bc. 
+a}}
+ANS:abc
+
+47. Hàm ý có thể được loại bỏ mà không làm thay đổi giá trị của vị từ là gì?
+{{Hàm ý chính. 
+Hàm ý chính. 
+Đại diện DNF tối thiểu. 
+Hàm ý thừa}}
+ANS:Hàm ý thừa
+
+48. Hàm ý mà không có thuật ngữ con thích hợp cũng là một hàm ý là gì?
+{{Đại diện DNF tối thiểu. 
+Hàm ý chính. 
+Hàm ý chính. 
+Hàm ý thừa}}
+ANS:Hàm ý chính
+
+49. Hàm ý nào có thể được loại bỏ mà không làm thay đổi giá trị của vị từ?
+{{Hàm ý con.. 
+Hàm ý đúng.. 
+Hàm ý chính (Prime implicant).. 
+Hàm ý dư thừa (Redundant Implicant).}}
+ANS:Hàm ý dư thừa (Redundant Implicant).
+
+50. Một thể hiện DNF tối giản là một thể hiện với các yếu tố nào?
+{{Hàm ý thừa thãi. 
+Hàm ý nguyên tố không thừa thãi. 
+Hàm ý nói chung. 
+Hàm ý kiêm phần con riêng biệt}}
+ANS:Hàm ý nguyên tố không thừa thãi
+
+51. Thuật ngữ có một hoặc nhiều mệnh đề bị loại bỏ là gì?
+{{Hàm ý chính. 
+Hàm ý chính. 
+Đại diện DNF tối thiểu. 
+Hàm ý thừa}}
+ANS:Hàm ý chính
+
+52. Trong tiêu chuẩn bao phủ MUMCUT ta không áp dụng tiêu chuẩn nào sau đây?
+{{Bao phủ điểm gần sai.. 
+Bao phủ cặp điểm đúng độc nhất và điểm gần sai.. 
+Bao phủ điểm đúng độc nhất.. 
+Bao phủ tổ hợp.}}
+ANS:Bao phủ tổ hợp.
+
+53. Bao phủ ACC chỉ có tác dụng với vị ngữ gồm bao nhiêu mệnh đề?
+{{2. 
+1. 
+Ít hơn 3.. 
+3 hoặc nhiều hơn.}}
+ANS:3 hoặc nhiều hơn.
+
+54. Các biến vị ngữ không phải là đầu vào được gọi là gì?
+{{Biến tham chiếu.. 
+Biến nội hàm.. 
+Biến thực thể.. 
+Biến toàn cục.}}
+ANS:Biến nội hàm.
+
+55. Đâu là định nghĩa đúng khi nói về biến nội bộ (internal variable)?
+{{Là những biến tự khai báo, không nằm trong các câu lệnh quyết định trong chương trình.. 
+Là những biến nằm trong vị từ không thuộc giá trị đầu vào.. 
+Là những biến nằm trong vị từ thuộc giá trị đầu vào.. 
+Là những biến nằm trong các câu lệnh quyết định trong chương trình.}}
+ANS:Là những biến nằm trong vị từ không thuộc giá trị đầu vào.
+
+56. Mệnh đề sau liên quan đến kiểm thử quyết định: Khi code chỉ chứa 1 lệnh if và không có vòng lặp hay lệnh CASE, mọi test case đơn lẻ sẽ cho kết quả 50% độ bao phủ quyết định. Câu nào dưới đây là đúng?
+{{Câu trên sai. Một ca kiểm thử chỉ có thể đảm bảo 25% bao phủ quyết định trong trường hợp này.. 
+Câu trên sai. Mệnh đề quá rộng. Nó có thể đúng hoặc sai dựa trên phần mềm test.. 
+Câu trên đúng. Mọi test case riêng lẻ cho 100% bao phủ dòng lệnh và vì thế cho 50% bao phủ quyết định .. 
+Câu trên đúng. Mọi ca kiểm thử riêng lẻ có thể cho đầu ra của lệnh `if` là cả true hoặc false.}}
+ANS:Câu trên đúng. Mọi ca kiểm thử riêng lẻ có thể cho đầu ra của lệnh `if` là cả true hoặc false.
+
+57. Điền vào chỗ trống
+Nếu một biến đầu vào được thay đổi trong một phương thức, thì sau đó nó được coi là {{}}().
+ANS:một biến nội bộ
+
+58. Việc tạo văn phạm (grammar) từ không gian đầu vào có thể phát hiện lỗi được không?
+{{Không đáp án nào đúng.. 
+Không vì văn phạm không liên quan đến việc thực thi.. 
+Có.. 
+Tuỳ thuộc vào không gian đầu vào.}}
+ANS:Có.
+
+59. Biến vị từ (predicate) không thể được sinh ra từ lệnh (statement) nào?
+{{return. 
+for. 
+while. 
+if}}
+ANS:return
+
+60. Nếu mà một thuộc tính chỉ có một mệnh đề thì bao hàm nào không chuyển thành PC?
+{{CC. 
+ICC. 
+COC. 
+ACC}}
+ANS:ICC
+
+61. Bao phủ logic không mô tả hành vi ở mức độ (level) nào?
+{{Hành vi mức hệ thống (System-level behavior).. 
+Các phép toán (Operators).. 
+Các phương thức (Methods) và các lớp (Classes).. 
+Liên kết giữa các lớp (Classes) và các thành phần (Components).}}
+ANS:Các phép toán (Operators).
+
+62. Các tiền điều kiện (preconditions) nên được đặt ở đâu?
+{{Ở trong các bình luận nằm trong phương thức.. 
+Trong một tập tin riêng.. 
+Ở trong các bình luận phần cuối phương thức.. 
+Ở trong các bình luận trên đầu phương thức.}}
+ANS:Ở trong các bình luận trên đầu phương thức.
+
+63. Chọn câu trả lời đúng nhất về tính trang trọng (formal) của đặc tả.
+{{Trang trọng là điều kiện tiên quyết phải có của đặc tả.. 
+Đặc tả không được trang trọng.. 
+Đặc tả có thể trang trọng (formal) hoặc không trang trọng (informal).. 
+Đặc tả phải trang trọng.}}
+ANS:Đặc tả có thể trang trọng (formal) hoặc không trang trọng (informal).
+
+64. Đặc tả chính thức được viết dưới dạng gì?
+{{Tiếng Pháp. 
+Ngôn ngữ tự nhiên. 
+Tiếng Anh. 
+Biểu diễn toán học}}
+ANS:Biểu diễn toán học
+
+65. Đặc tả được viết bằng ngôn ngữ tự nhiên cần phải làm gì trước khi thiết kế ca kiểm thử?
+{{Cần người phân tích ngữ nghĩa.. 
+Loại bỏ.. 
+Chuyển về tiếng Anh.. 
+Chuyển về dạng biểu thức logic.}}
+ANS:Chuyển về dạng biểu thức logic.
+
+66. Đặc tả không chính thức được viết dưới dạng gì?
+{{Đồ thị.. 
+Biểu diễn toán học.. 
+Ngôn ngữ tự nhiên.. 
+Biểu thức logic.}}
+ANS:Ngôn ngữ tự nhiên.
+
+67. Một vị từ ở dạng chuẩn tắc tuyển (DNF) nếu nó bao gồm các mệnh đề hoặc liên từ được nối bởi toán tử gì?
+{{Phủ định (Not).. 
+Và (And).. 
+Tương đương.. 
+Hoặc (Or).}}
+ANS:Hoặc (Or).
+
+68. Một vị từ ở dạng hội chuẩn CNF nếu nó bao gồm các mệnh đề hoặc liên từ được nối bởi toán tử gì?
+{{Phủ định (Not).. 
+Và (And).. 
+Hoặc (Or).. 
+Tương đương.}}
+ANS:Và (And).
+
+69. Chọn câu trả lời đúng nhất về đồ thị FSMs.
+{{Đồ thị FSMs được sử dụng rộng rãi trong tất cả các cấp (level) của trừu tượng (abstraction). 
+Đồ thị FSMs được sử dụng rộng rãi trong tất cả các cấp của giao diện (interface). 
+Đồ thị FSMs chỉ được sử dụng ở một số cấp của trừu tượng. 
+Đồ thị FSMs không được sử dụng trong bất kỳ cấp nào của trừu tượng}}
+ANS:Đồ thị FSMs được sử dụng rộng rãi trong tất cả các cấp (level) của trừu tượng (abstraction)
+
+70. Đâu không là cách tốt nhất để kiểm thử máy hữu hạn trạng thái (FSM)?
+{{Xây dựng bảng trạng thái với các ca kiểm thử. 
+Xây dựng sơ đồ biến đối trạng thái. 
+Xây dựng các trạng thái độc lập. 
+Xây dựng biểu đồ trạng thái từ yêu cầu}}
+ANS:Xây dựng các trạng thái độc lập
+
+71. Đồ thị FSMs là đồ thị mà.
+{{Nút và cạnh đều không biểu diễn trạng thái. 
+Nút và cạnh đều biểu diễn trạng thái. 
+Nút biểu diễn trạng thái (state), cạnh biểu diễn sự thay đổi giữa các trạng thái. 
+Nút biểu thị sự thay đổi giữa các trạng thái, cạnh biểu thị trạng thái}}
+ANS:Nút biểu diễn trạng thái (state), cạnh biểu diễn sự thay đổi giữa các trạng thái
+
+72. Khẳng định nào đúng nhất về đồ thị SESE?
+{{Là đồ thị có điểm vào với điểm ra trùng nhau.. 
+Là đồ thị có một điểm vào.. 
+Là đồ thị có tất cả các đường đi đều bắt đầu tại một điểm đơn và cũng kết thúc tại điểm đơn.. 
+Là đồ thị có một điểm ra.}}
+ANS:Là đồ thị có tất cả các đường đi đều bắt đầu tại một điểm đơn và cũng kết thúc tại điểm đơn.
+
+73. Khẳng định nào sau đây là sai về Máy trạng thái hữu hạn?
+{{Máy trạng thái hữu hạn là một đồ thị. 
+Một cạnh trong Máy trạng thái hữu hạn thể hiện sự chuyển tiếp giữa các trạng thái. 
+Một đỉnh trong máy trạng thái hữu hạn thể hiện một trạng thái. 
+Chỉ có thể dùng biểu đồ trạng thái để thể hiện Máy trạng thái hữu hạn}}
+ANS:Chỉ có thể dùng biểu đồ trạng thái để thể hiện Máy trạng thái hữu hạn
+
+74. Máy hữu hạn trạng thái (Finite State Machine - FSM) có thể được phân loại bởi?
+{{Đầu vào\. 
+Đầu ra hoặc Trạng thái. 
+Đầu vào\. 
+Đầu ra. 
+Trạng thái. 
+Đầu vào\. 
+Đầu ra và Trạng thái}}
+ANS:Đầu vào\/Đầu ra hoặc Trạng thái
+
+75. Máy hữu hạn trạng thái (Finite State Machine - FSM) là một mô hình về hành vi bao gồm một số hữu hạn các?
+{{Phân vùng (partition). 
+Chuỗi (chain). 
+Trạng thái (state), sự chuyển tiếp (transition) và hành động (action). 
+Danh sách kiểm tra (checklist)}}
+ANS:Trạng thái (state), sự chuyển tiếp (transition) và hành động (action)
+
+76. Máy trạng thái hữu hạn là đồ thị, trong đó các nút (Nodes) biểu diễn gì?
+{{Điều kiện chuyển đổi trạng thái.. 
+Các Guards hoặc Triggers.. 
+Sự chuyển đổi giữa các trạng thái.. 
+Các trạng thái (States).}}
+ANS:Các trạng thái (States).
+
+77. Một hành động của máy hữu hạn trạng thái là gì?
+{{Nó là hoạt động lặp vô hạn. 
+Nó chỉ ra một sự thay đổi trạng thái. 
+Đây là một hoạt động mà được thực hiện tại một thời điểm nhất định. 
+Nó lưu trữ thông tin về quá khứ}} 
+ANS:Đây là một hoạt động mà được thực hiện tại một thời điểm nhất định
+
+----------------------------

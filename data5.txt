@@ -1,0 +1,3334 @@
+1. Kỹ thuật được áp dụng để kiểm tra khả năng sử dụng là?
+<div class="gdoc-paragraph">{{Hộp màu xám. 
+Hộp đen. 
+Sự kết hợp của tất cả. 
+Hộp trắng}}
+<. 
+div>
+ANS:Hộp đen
+
+2. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là quá trình đánh giá phần mềm có đáp ứng các yêu cầu được thiết lập trong giai đoạn trước hay không.
+<. 
+div>
+ANS:Thảm tra
+
+3. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là quá trình đánh giá phần mềm có đảm bảo tuân thủ với mục đích sử dụng hay không.
+<. 
+div>
+ANS:Xác nhận
+
+4. Bằng cách thu thập ________ trong quá trình kiểm thử phần mềm, có thể phát triển các hướng dẫn có ý nghĩa để tạm dừng quá trình kiểm thử.
+<div class="gdoc-paragraph">{{Cường độ thất bại. 
+Thời gian thử nghiệm. 
+Tất cả những điều đã đề cập. 
+Số liệu}}
+<. 
+div>
+ANS:Số liệu
+
+5. Bắt đầu kiểm thử sớm hay muộn tốt hơn?
+<div class="gdoc-paragraph">{{Sớm. 
+Tuỳ dự án phần mềm. 
+Muộn. 
+Như nhau}}
+<. 
+div>
+ANS:Sớm
+
+6. Các ca kiểm thử trong phương pháp kiểm thử hộp trắng được sinh ra từ đâu?
+<div class="gdoc-paragraph">{{Mô hình.. 
+Ngẫu nhiên.. 
+Mã nguồn.. 
+Đặc tả yêu cầu.}}
+<. 
+div>
+ANS:Mã nguồn.
+
+7. Các dev và tester cùng nhau hợp tác để tìm ra các nguy cơ là ở mức độ (level) nào?
+<div class="gdoc-paragraph">{{Mức độ 3.. 
+Mức độ 1.. 
+Mức độ 2.. 
+Mức độ 4.}}
+<. 
+div>
+ANS:Mức độ 3.
+
+8. Các hoạt động kiểm thử phần mềm nên bắt đầu khi nào?
+<div class="gdoc-paragraph">{{Trong giai đoạn thiết kế.. 
+Ngay sau khi mã được viết.. 
+Khi các yêu cầu đã được chính thức lập thành văn bản.. 
+Càng sớm càng tốt trong vòng đời phát triển.}}
+<. 
+div>
+ANS:Càng sớm càng tốt trong vòng đời phát triển.
+
+9. Điền vào chỗ trống
+<div class="gdoc-paragraph">Chất lượng của một phần mềm được thể hiện bằng những đặc trưng phù hợp với {{}}() của nó.
+<. 
+div>
+ANS:đặc tả
+
+10. Chi phí sửa lỗi ít nhất khi chú trọng kiểm thử từ giao đoạn nào?
+<div class="gdoc-paragraph">{{Giai đoạn kết thúc.. 
+Giai đoạn phân tích thiết kế yêu cầu.. 
+Giai đoạn thiết kế giao diện.. 
+Giai đoạn phát triển.}}
+<. 
+div>
+ANS:Giai đoạn phân tích thiết kế yêu cầu.
+
+11. Chọn đáp án không phải là một hành vi của phần mềm?
+<div class="gdoc-paragraph">{{Tài chính. 
+Bộ định tuyến mạng. 
+Chuyển đổi mạng. 
+Tạo cấu trúc}}
+<. 
+div>
+ANS:Tạo cấu trúc
+
+12. Điền vào chỗ trống
+<div class="gdoc-paragraph">Chúng ta {{}}() giảm lỗi của sản phẩm phần mềm về mức 0.
+<. 
+div>
+ANS:không thể
+
+13. Danh sách các mục để kiểm thử được gọi là
+<div class="gdoc-paragraph">{{Bảng kiểm tra (Checksheet). 
+Danh sách kiểm tra (Checklist). 
+Thủ tục (Procedure). 
+Quy trình (Process)}}
+<. 
+div>
+ANS:Danh sách kiểm tra (Checklist)
+
+14. Đâu không là lý do cho việc kiểm thử phần mềm?
+Để đảm bảo phần mềm là chính xác và đáng tin cậy. 
+Để kiểm tra hiệu suất của các nhà phát triển. 
+Để đảm bảo tất cả các yêu cầu được thỏa mãn. 
+Để sản xuất một sản phẩm chất lượng, không có lỗi}}
+<. 
+div>
+ANS:Để kiểm tra hiệu suất của các nhà phát triển
+
+15. Đâu không phải là một sai lầm về dữ liệu?
+<div class="gdoc-paragraph">{{Đơn vị hoặc thang chia sai.. 
+Khởi tạo sai.. 
+Sử dụng sai biến.. 
+Thuật toán sai.}}
+<. 
+div>
+ANS:Thuật toán sai.
+
+16. Đâu không phải là một sai lầm về giao diện?
+<div class="gdoc-paragraph">{{Xử lý gián đoạn sai (trong các hệ thống nhúng). 
+Hàm đi kèm sai. 
+Gọi sai thủ tục. 
+Thời gian vào ra (time out)}}
+<. 
+div>
+ANS:Hàm đi kèm sai
+
+17. Đâu không phải là một sai lầm về logic khi thực hiện một bài kiểm thử?
+<div class="gdoc-paragraph">{{Kết quả tính toán đúng nhưng không đúng thời điểm. 
+Điều kiện ngoại lai. 
+Thể hiện sai. 
+Thiếu trường hợp}}
+<. 
+div>
+ANS:Kết quả tính toán đúng nhưng không đúng thời điểm
+
+18. Đâu không phải là tiêu chí đánh giá chất lượng phần mềm?
+<div class="gdoc-paragraph">{{Khả năng bảo trì. 
+Chức năng. 
+Tính cụ thể hóa. 
+Khả năng di chuyển}}
+<. 
+div>
+ANS:Tính cụ thể hóa
+
+19. Đâu không phải lý do kiểm thử với danh sách kiểm tra (checklist) không hiệu quả
+<div class="gdoc-paragraph">{{Rất khó có thể bao phủ tất cả các chức năng. 
+Nó theo dõi những gì đã được thực hiện. 
+Các hệ thống phức tạp không được mô tả chi tiết. 
+Nó lãng phí công sức để kiểm thử các mục chồng chéo nhau}}
+<. 
+div>
+ANS:Nó theo dõi những gì đã được thực hiện
+
+20. Điều nào sau đây là đúng đối với Khiếm khuyết Thảm khốc?
+<div class="gdoc-paragraph">{{Phần mềm bị lỗi và dữ liệu có thể khôi phục được. 
+Sự cố ứng dụng và không thể khôi phục dữ liệu.. 
+Che giấu các khuyết tật khác.. 
+Đưa ra những khiếm khuyết khác.}}
+<. 
+div>
+ANS:Che giấu các khuyết tật khác.
+
+21. Điều nào sau đây là mục tiêu quan trọng của các hoạt động kiểm thử trong vòng tròn phát triển phần mềm?
+<div class="gdoc-paragraph">{{Gỡ lỗi. 
+Cung cấp thông tin ra quyết định. 
+Kiểm tra toàn diện. 
+Khiếm khuyết cụm}}
+<. 
+div>
+ANS:Gỡ lỗi
+
+22. Điền vào chỗ trống
+<div class="gdoc-paragraph">Định nghĩa {{}}() là kiểm tra xem lỗi đã được báo cáo trước đó đã được sửa.
+<. 
+div>
+ANS:gỡ lỗi
+
+23. Định nghĩa của gỡ lỗi là gì?
+<div class="gdoc-paragraph">{{Kiểm tra rằng không có hậu quả ngoài ý muốn xảy ra do sửa chữa.. 
+Xác định quá trình lỗi, sửa mã và kiểm tra sửa lỗi là đúng.. 
+Kiểm tra hoạt động chính xác không.. 
+Kiểm tra xem lỗi đã được báo cáo trước đó đã được sửa.}}
+<. 
+div>
+ANS:Kiểm tra xem lỗi đã được báo cáo trước đó đã được sửa.
+
+24. Định nghĩa của xác minh (verification)?
+<div class="gdoc-paragraph">{{Là quá trình xác định xem các sản phẩm của một giai đoạn nhất định của quá trình phát triển phần mềm có đáp ứng được các yêu cầu được thiết lập ở các pha sau không.. 
+Là quá trình xác định xem các sản phẩm của tất cả giai đoạn của quá trình phát triển phần mềm có đáp ứng được các yêu cầu được thiết lập ở các pha trước không.. 
+Là quá trình đánh giá lại sản phẩm.. 
+Là quá trình xác định xem các sản phẩm của một giai đoạn nhất định của quá trình phát triển phần mềm có đáp ứng được các yêu cầu được thiết lập ở các pha trước không.}}
+<. 
+div>
+ANS:Là quá trình xác định xem các sản phẩm của một giai đoạn nhất định của quá trình phát triển phần mềm có đáp ứng được các yêu cầu được thiết lập ở các pha trước không.
+
+25. Đoán lỗi (Error) là:
+<div class="gdoc-paragraph">{{Kỹ thuật thực hiện kiểm thử.. 
+Các kỹ thuật xác minh kiểm thử.. 
+Kỹ thuật quản lý dữ liệu kiểm thử.. 
+Các kỹ thuật quản lý kiểm soát kiểm thử.}}
+<. 
+div>
+ANS:Kỹ thuật quản lý dữ liệu kiểm thử.
+
+26. Hoạt động nào dưới đây không là Kiểm định (Verification)?
+<div class="gdoc-paragraph">{{Kiểm thử hệ thống. 
+Đánh giá hình thức (formal review). 
+Bình duyệt (peer review). 
+Kiểm duyệt (Inspection)}}
+<. 
+div>
+ANS:Kiểm thử hệ thống
+
+27. Hoạt động nào dưới đây là Thẩm định (Validation)?
+<div class="gdoc-paragraph">{{Đánh giá thiết kế. 
+Duyệt mã nguồn (code review). 
+Kiểm duyệt (Inspection). 
+Kiểm thử chấp nhận}}
+<. 
+div>
+ANS:Duyệt mã nguồn (code review)
+
+28. Khi nào thì quá trình kiểm thử kết thúc?
+<div class="gdoc-paragraph">{{Khi tài nguyên (thời gian và ngân sách) hết.. 
+Khi chất lượng phần mềm đã đạt được tiêu chí.. 
+Thử nghiệm không bao giờ kết thúc.. 
+Khi đạt đến một số phạm vi bao phủ.}}
+<. 
+div>
+ANS:Khi chất lượng phần mềm đã đạt được tiêu chí.
+
+29. Điền vào chỗ trống
+<div class="gdoc-paragraph">Khiếm khuyết (fault) và các thất bại (failure) đều có thể được gọi chung là {{}}().
+<. 
+div>
+ANS:lỗi
+
+30. Điền vào chỗ trống
+<div class="gdoc-paragraph">Khóa học này tập trung vào kiếm thức kiểm thử cho {{}}().
+<. 
+div>
+ANS:người lập trình viên
+
+31. Kiểm chứng (verification) là quá trình để đảm bảo rằng một sản phẩm phần mềm thỏa mãn?
+<div class="gdoc-paragraph">{{Đặc tả của nó. 
+Yêu cầu người dùng. 
+Yêu cầu khách hàng. 
+Yêu cầu của chủ đầu tư}}
+<. 
+div>
+ANS:Đặc tả của nó
+
+32. Điền vào chỗ trống
+<div class="gdoc-paragraph">Kiểm thử {{}}() là kỹ thuật để kiểm tra khả năng sử dụng.
+<. 
+div>
+ANS:hộp trắng
+
+33. Điền vào chỗ trống
+<div class="gdoc-paragraph">Kiểm thử bậc {{}}() được xem là tương đương với việc gỡ lỗi (debugging).
+<. 
+div>
+ANS:0
+
+34. Kiểm thử bậc nào được xem là tương đương với việc gỡ lỗi (debugging)?
+<div class="gdoc-paragraph">{{Bậc 3.. 
+Bậc 4.. 
+Bậc 1.. 
+Bậc 0.}}
+<. 
+div>
+ANS:Bậc 0.
+
+35. Kiểm thử giúp __________ của sản phẩm bằng cách tìm ra các khuyết tật trong sản phẩm.
+<div class="gdoc-paragraph">{{Sửa chữa khuyết điểm. 
+Tất cả những điều trên.. 
+Nâng cao chất lượng. 
+Đo lường chất lượng}}
+<. 
+div>
+ANS:Đo lường chất lượng
+
+36. Điền vào chỗ trống
+<div class="gdoc-paragraph">Kiểm thử giúp {{}}() của sản phẩm bằng cách tìm ra các khuyết tật trong sản phẩm.
+<. 
+div>
+ANS:đo lường chất lượng
+
+37. Điền vào chỗ trống
+<div class="gdoc-paragraph">Kiểm thử mức {{}}() không phân biệt được hành vi không chính xác của chương trình và lỗi trong chương trình.
+<. 
+div>
+ANS:0
+
+38. Điền vào chỗ trống
+<div class="gdoc-paragraph">Kiểm thử mức {{}}() đặt lập trình viên và kiểm thử viên vào trạng thái đối đầu.
+<. 
+div>
+ANS:2
+
+39. Điền vào chỗ trống
+<div class="gdoc-paragraph">Kiểm tra hệ thống là một kiểm thử hộp {{}}().
+<. 
+div>
+ANS:đen
+
+40. Loại kiểm thử nào dựa trên quan niệm rằng bất kì chương trình nào cũng là một hàm ánh xạ từ miền dữ liệu đầu vào đến miền dữ liệu đầu ra của nó?
+<div class="gdoc-paragraph">{{Kiểm thử hệ thống. 
+Kiểm thử chức năng. 
+Kiểm thử cấu trúc. 
+Kiểm thử chấp nhận}}
+<. 
+div>
+ANS:Kiểm thử chức năng
+
+41. Lỗi do lỗi tĩnh trong chương trình tạo nên, gây ra kết quả chạy không đúng với ước tính được gọi là gì?
+<div class="gdoc-paragraph">{{Software error.. 
+Software fault.. 
+Software bug.. 
+Software failure.}} 
+<. 
+div>
+ANS:Software error.
+
+42. Lỗi phần mềm (Software errors) là gì?
+<div class="gdoc-paragraph">{{Là lỗi tĩnh ở trong chương trình. Có thể hiểu là sai sót ở trong mã nguồn hoặc mã biên dịch của chương trình.. 
+Là lỗi khi chạy chương trình tạo nên.. 
+Là lỗi xảy ra ở bên ngoài. Có thể hiểu là hành động sai với mô tả ban đầu.. 
+Là lỗi do lỗi tĩnh trong chương trình tạo nên, gây ra kết quả chạy không đúng với ước tính.}}
+<. 
+div>
+ANS:Là lỗi do lỗi tĩnh trong chương trình tạo nên, gây ra kết quả chạy không đúng với ước tính.
+
+43. Lỗi phần mềm (Software fault) xuất hiện khi nào?
+<div class="gdoc-paragraph">{{Lúc người dùng sử dụng.. 
+Lúc triển khai dự án phần mềm.. 
+Lúc phát triển phần mềm.. 
+Lúc kiểm thử phần mềm.}}
+<. 
+div>
+ANS:Lúc triển khai dự án phần mềm.
+
+44. Lỗi tồn tại trong phần mềm càng lâu thì ___.
+<div class="gdoc-paragraph">{{Việc loại bỏ càng nhàm chán hơn.. 
+Chi phí sửa chữa và phát hiện tốn kém hơn.. 
+Ít có khả năng được sửa chữa đúng cách.. 
+Tất cả các đáp án trên.}}
+<. 
+div>
+ANS:Tất cả các đáp án trên.
+
+45. Mối quan hệ giữa kiểm thử (testing) và đảm bảo chất lượng (quality assurance - QA) là gì?
+<div class="gdoc-paragraph">{{Bảo đảm chất lượng là một phần của quá trình kiểm thử hoàn chỉnh. 
+Kiểm thử là một phần của quá trình bảo đảm chất lượng hoàn chỉnh. 
+Bảo đảm chất lương và kiểm thử độc lập với nhau. 
+Kiểm tra và bảo đảm chất lượng là hai phạm trù tương đương}}
+<. 
+div>
+ANS:Kiểm thử là một phần của quá trình bảo đảm chất lượng hoàn chỉnh
+
+46. Một khái niệm quan trọng của đảm bảo chất lượng là tất cả các sản phẩm?
+<div class="gdoc-paragraph">{{Được kiểm tra kỹ lưỡng \. 
+ xem xét trước khi giao cho khách hàng. 
+Có tài liệu đầy đủ. 
+Có thông số kỹ thuật đo lường cho kết quả đầu ra. 
+Được giao đúng thời hạn và sử dụng nguồn ngân sách cho phép}}
+<. 
+div>
+ANS:Được kiểm tra kỹ lưỡng \/ xem xét trước khi giao cho khách hàng
+
+47. Một lỗi (error) là?
+<div class="gdoc-paragraph">{{Một bước, quy trình hoặc dữ liệu định nghĩa sai trong một chương trình máy tính. 
+Một điểm yếu trong quy trình. 
+Một hành động của con người mà tạo ra một kết quả không chính xác. 
+Bắt nguồn từ hành vi cụ thể}}
+<. 
+div>
+ANS:Một hành động của con người mà tạo ra một kết quả không chính xác
+
+48. Mức độ kiểm thử nào sau đây thuộc quá trình xác nhận (Validation)?
+<div class="gdoc-paragraph">{{Kiểm thử đơn vị (Unit Testing).. 
+Kiểm thử chấp nhận (Acceptance Testing).. 
+Kiểm thử tích hợp (Integration Testing).. 
+Kiểm thử hệ thống (System Testing).}}
+<. 
+div>
+ANS:Kiểm thử chấp nhận (Acceptance Testing).
+
+49. Điền vào chỗ trống
+<div class="gdoc-paragraph">Mục tiêu của người kiểm thử là {{}}() lỗi càng sớm càng tốt
+<. 
+div>
+ANS:loại bỏ
+
+50. Ở mức độ (level) nào thì mọi người bắt đầu nhận ra rằng thử nghiệm (testing) chỉ là 1 cách để cái tiến được chương trình?
+<div class="gdoc-paragraph">{{Mức độ 2.. 
+Mức độ 4.. 
+Mức độ 1.. 
+Mức độ 3.}}
+<. 
+div>
+ANS:Mức độ 4.
+
+51. Pha nào phát hiện lỗi trước trong số các pha sau?
+<div class="gdoc-paragraph">{{Kiểm thử hệ thống. 
+Kiểm định (Verification). 
+Thẩm định (Validation). 
+Kiểm thử tích hợp}}
+<. 
+div>
+ANS:Kiểm định (Verification)
+
+52. Phát biểu nào sau đây là đúng về mô hình chữ V?
+<div class="gdoc-paragraph">{{Nó bao gồm việc kiểm định và thẩm định. 
+Nó xác định các kỹ thuật kiểm thử được sử dụng. 
+Nó chỉ mô hình hóa pha kiểm thử. 
+Nó khẳng định rằng mô-đun được thử nghiệm mâu thuẫn với yêu cầu người dùng.}}
+<. 
+div>
+ANS:Nó bao gồm việc kiểm định và thẩm định
+
+53. Quá trình kiểm thử dựa trên phân tích động không tồn tại bước nào sau đây?
+<div class="gdoc-paragraph">{{Lập kế hoạch kiểm thử. 
+Nghiên cứu khả thi. 
+Chạy các ca kiểm thử. 
+Phát triển ca kiểm thử}}
+<. 
+div>
+ANS:Nghiên cứu khả thi
+
+54. Tại sao phải bắt đầu kiểm thử sớm?
+<div class="gdoc-paragraph">{{Vì kiểm thử do riêng một nhóm thực hiện.. 
+Vì bắt đầu kiểm thử sớm dễ hơn là muộn.. 
+Vì bắt đầu kiểm thử muộn sẽ không phát hiện được lỗi.. 
+Vì bắt đầu kiểm thử muộn sẽ tiêu tốn nhiều nguồn lực.}}
+<. 
+div>
+ANS:Vì bắt đầu kiểm thử muộn sẽ tiêu tốn nhiều nguồn lực.
+
+55. Thẩm định (validation) là quá trình để đảm bảo rằng sản phẩm đáp ứng được yêu cầu của?
+<div class="gdoc-paragraph">{{Giám đốc công ty. 
+Đặc tả yêu cầu. 
+Nhà đầu tư. 
+Khách hàng}}
+<. 
+div>
+ANS:Khách hàng
+
+56. Thẩm định (validation) là quá trình kiểm tra xem sản phẩm theo đúng với thử nào sau đây?
+<div class="gdoc-paragraph">{{Yêu cầu của khách hàng.. 
+Thiết kế.. 
+Bàn giao.. 
+Lập trình.}}
+<. 
+div>
+ANS:Yêu cầu của khách hàng.
+
+57. Thế nào là kiểm thử mức độ (level) 0?
+<div class="gdoc-paragraph">{{Kiểm thử mức độ (level) 0 thì có sự khác nhau rõ ràng giữa kiểm thử và tìm lỗi.. 
+Kiểm thử mức độ (level) 0 là tìm lỗi trong phần mềm.. 
+-. 
+Không có kiểm thử mức độ (level) 0.}}
+<. 
+div>
+ANS:-
+
+58. Điền vào chỗ trống
+<div class="gdoc-paragraph">Trong các mức kiểm thử của Beizer, hiện nay đa số các công ty phần mềm đang dừng kiểm thử ở mức thứ {{}}().
+<. 
+div>
+ANS:2
+
+59. Trong các quy trình phát triển phần mềm, đặc biệt là quy trình Agile, lập trình viên cần có kỹ năng kiểm thử tối thiểu ở mức độ nào để sản phẩm có chất lượng tốt nhất?
+<div class="gdoc-paragraph">{{Kiểm thử tích hợp (Integration Testing).. 
+Kiểm thử đơn vị (Unit Testing).. 
+Kiểm thử chấp nhận (Acceptance Testing).. 
+Kiểm thử hệ thống (System Testing).}}
+<. 
+div>
+ANS:Kiểm thử đơn vị (Unit Testing).
+
+60. Điền vào chỗ trống
+<div class="gdoc-paragraph">Trong kiểm thử bậc {{}}(), kiểm thử viên làm việc với lập trình viên để giảm thiểu rủi ro.
+<. 
+div>
+ANS:3
+
+61. Điền vào chỗ trống
+<div class="gdoc-paragraph">Trong kiểm thử bậc 3, {{}}() làm việc cùng nhà phát triển phần mềm để giảm thiểu rủi ro.
+<. 
+div>
+ANS:kiểm thử viên
+
+62. Trong kiểm thử bậc 3, người kiểm thử làm việc cùng ai để giảm thiểu rủi ro?
+<div class="gdoc-paragraph">{{Người phát triển phần mềm.. 
+Quản lý dự án.. 
+Khách hàng.. 
+Nhà tài trợ dự án.}}
+<. 
+div>
+ANS:Người phát triển phần mềm.
+
+63. Trong quá trình phát triển phần mềm, thường thì đâu là giai đoạn tiêu tốn nhiều thời gian và chi phí nhất?
+<div class="gdoc-paragraph">{{Triển khai.. 
+Thiết kế kiến trúc.. 
+Thu thập yêu cầu đặc tả.. 
+Kiểm thử.}}
+<. 
+div>
+ANS:Kiểm thử.
+
+64. Trường hợp nào là ví dụ cho xác minh (Verification)?
+<div class="gdoc-paragraph">{{Phỏng vấn, tìm hiểu yêu cầu của khách hàng xem có phù hợp với mong đợi của họ hay không.. 
+Người phát triển làm một tính năng theo thiết kế.. 
+Các bài kiểm tra đơn vị ánh xạ các yêu cầu với hành vi của lớp.. 
+Thiết kế nguyên mẫu cho người dùng.}}
+<. 
+div>
+ANS:Các bài kiểm tra đơn vị ánh xạ các yêu cầu với hành vi của lớp.
+
+65. Vấn đề nào sau đây phải được giải quyết nếu một chiến lược kiểm thử phần mềm thành công được thực hiện?
+<div class="gdoc-paragraph">{{Phát triển một kế hoạch thử nghiệm nhấn mạnh thử nghiệm chu kỳ nhanh. 
+Sử dụng các đánh giá kỹ thuật chính thức hiệu quả làm bộ lọc trước khi thử nghiệm. 
+Tất cả những điều đã đề cập. 
+Mục tiêu thử nghiệm của nhà nước một cách rõ ràng}}
+<. 
+div>
+ANS:Tất cả những điều đã đề cập
+
+66. Việc phân tích nào được thực hiện dựa trên việc khảo sát các tài liệu được xây dựng trong quá trình phát triển sản phẩm phần mềm?
+<div class="gdoc-paragraph">{{Phân tích thiết kế. 
+Phân tích tĩnh. 
+Phân tích động. 
+Phân tích rủi ro}}
+<. 
+div>
+ANS:Phân tích tĩnh
+
+67. Việc tăng chất lượng của phần mềm, bằng các phương pháp phát triển tốt hơn, sẽ ảnh hưởng đến thời gian cần thiết để kiểm thử (các giai đoạn kiểm thử) như thế nào?
+<div class="gdoc-paragraph">{{Tăng thời gian kiểm thử.. 
+Giảm thời gian kiểm thử.. 
+Tất cả đều đúng.. 
+Không có tác động gì.}}
+<. 
+div>
+ANS:Giảm thời gian kiểm thử.
+
+68. Xác minh (Verification) là quá trình:
+<div class="gdoc-paragraph">{{Được thực hiện bởi một nhóm kiểm thử viên độc lập.. 
+Đảm bảo rằng hệ thống hiện tại đáp ứng những gì mà khách hàng muốn.. 
+Xây dựng và phát triển hệ thống.. 
+Kiểm tra xem hệ thống có đang được phát triển theo đúng như thiết kế ban đầu.}}
+<. 
+div>
+ANS:Kiểm tra xem hệ thống có đang được phát triển theo đúng như thiết kế ban đầu.
+
+69. Các khiếm khuyết (Faults) thường được phát hiện nhiều nhất ở pha nào?
+<div class="gdoc-paragraph">{{Kiểm thử hệ thống.. 
+Triển khai.. 
+Kiểm thử tích hợp.. 
+Thực hiện và kiểm thử đơn vị.}}
+<. 
+div>
+ANS:Kiểm thử hệ thống.
+
+70. Chi phí sửa chữa các khiếm khuyết (Faults) được phát hiện sẽ nhiều nhất ở pha nào?
+<div class="gdoc-paragraph">{{Thực hiện và kiểm thử đơn vị.. 
+Kiểm thử hệ thống.. 
+Triển khai.. 
+Thiết kế.}}
+<. 
+div>
+ANS:Triển khai.
+
+71. Có ý kiến cho rằng: Rủi ro (risk) khi sử dụng phần mềm là luôn tồn tại, bất kể dù rủi ro lớn gây hỏng phần mềm đến rủi ro nhỏ gây trải nghiệm thất thường. Dựa vào bậc 3 của thang kiểm thử Beizer, ý kiến trên có đúng không?
+<div class="gdoc-paragraph">{{Ý kiến trên đúng về rủi ro khi sử dụng phần mềm.. 
+Ý kiến sai khi nói về rủi ro phần mềm: rủi ro là một khái niệm đã lỗi thời và không áp dụng vào những phần mềm hiện nay.. 
+Ý kiến sai khi nói về rủi ro phần mềm: rủi ro là điều có thể tránh khỏi và chữa được.. 
+Ý kiến sai khi nói về rủi ro phần mềm: rủi ro tuy là điều không thể tránh khỏi, nhưng nó luôn là những rủi ro nhỏ, không phải rủi ro quá to tát.}}
+<. 
+div>
+ANS:Ý kiến trên đúng về rủi ro khi sử dụng phần mềm.
+
+72. Lỗi do sự khác biệt giữa kết quả thực thi chương trình với kết quả mong đợi của một thành phần, hệ thống hoặc dịch vụ nào đó gọi là lỗi gì?
+<div class="gdoc-paragraph">{{Thất bại (Failure). 
+Lỗi do mã (Error). 
+Lỗi (Defect). 
+Lỗi khuyết điểm (Fault)}}
+<. 
+div>
+ANS:Thất bại (Failure)
+
+73. Lỗi sai (fault) được người dùng tìm thấy là do ý nào sau đây?
+<div class="gdoc-paragraph">{{Phần mềm chất lượng kém.. 
+Không đủ thời gian để kiểm thử.. 
+Phần mềm chưa đáp ứng được và kiểm thử chưa tìm ra hết lỗi.. 
+Tất cả đều sai.}}
+<. 
+div>
+ANS:Phần mềm chưa đáp ứng được và kiểm thử chưa tìm ra hết lỗi.
+
+74. Một lỗi được phát hiện càng muộn, thì việc sửa chữa càng tốn kém. Tại sao?
+<div class="gdoc-paragraph">{{Tài liệu nghèo nàn, vì vậy sẽ mất nhiều thời gian hơn để tìm hiểu.. 
+Tất cả đều sai.. 
+Tốn lương trả công.. 
+Lỗi đã được tích hợp vào nhiều tài liệu, mã,...}}
+<. 
+div>
+ANS:Lỗi đã được tích hợp vào nhiều tài liệu, mã,...
+
+75. Những gì thường được coi là phụ trợ cho bước mã hóa?
+<div class="gdoc-paragraph">{{Kiểm tra tích hợp. 
+Kiểm tra hồi quy. 
+Kiểm tra đơn vị. 
+Hoàn thành kiểm tra}}
+<. 
+div>
+ANS:Kiểm tra đơn vị
+
+76. Chi phí dành cho việc kiểm thử là lớn nhất ở giai đoạn nào?
+<div class="gdoc-paragraph">{{Giai đoạn thiết kế.. 
+Giai đoạn tích hợp.. 
+Giai đoạn thực thi.. 
+Giai đoạn sau khi triển khai.}}
+<. 
+div>
+ANS:Giai đoạn sau khi triển khai.
+
+77. Đặc điểm nào sau đây không phải là đặc điểm chung của kiểm thử phần mềm?
+<div class="gdoc-paragraph">{{Thử nghiệm được thực hiện bởi nhà phát triển phần mềm hoặc một nhóm thử nghiệm độc lập.. 
+Không có điều nào được đề cập.. 
+Các kỹ thuật kiểm tra khác nhau phù hợp tại các thời điểm khác nhau.. 
+Kiểm tra và gỡ lỗi là các hoạt động khác nhau, nhưng gỡ lỗi phải được thực hiện trong bất kỳ chiến lược kiểm tra nào.}}
+<. 
+div>
+ANS:Các kỹ thuật kiểm tra khác nhau phù hợp tại các thời điểm khác nhau.
+
+78. Đâu không phải là mục đích chung của kiểm thử?
+<div class="gdoc-paragraph">{{Đánh giá trình độ của đội ngũ phát triển. 
+Duy trì sự hài lòng của khách hàng. 
+Nâng cao chất lượng sản phẩm. 
+Giảm chi phí phát triển}} 
+<. 
+div>
+ANS:Đánh giá trình độ của đội ngũ phát triển
+
+79. Đâu không phải là mục đích của việc kiểm thử?
+<div class="gdoc-paragraph">{{Nâng cao chất lượng phần mềm. 
+Duy trì sự hài lòng của khách hàng.. 
+Đa dạng hóa công dụng của phần mềm.. 
+Giảm thiểu chi phí.}}
+<. 
+div>
+ANS:Đa dạng hóa công dụng của phần mềm.
+
+80. Điều nào sau đây không phải là trường hợp kiểm thử hồi quy?
+<div class="gdoc-paragraph">{{Kiểm tra tập trung vào các thành phần phần mềm đã được thay đổi. 
+Các bài kiểm tra bổ sung tập trung vào các chức năng phần mềm có khả năng bị ảnh hưởng bởi sự thay đổi. 
+Một mẫu thử nghiệm đại diện sẽ thực hiện tất cả các chức năng phần mềm. 
+Các thành phần cấp thấp được kết hợp thành các cụm thực hiện một chức năng con phần mềm cụ thể}}
+<. 
+div>
+ANS:Các thành phần cấp thấp được kết hợp thành các cụm thực hiện một chức năng con phần mềm cụ thể
+
+81. Kiểm thử nên được thực hiện lúc nào?
+<div class="gdoc-paragraph">{{Thực hiện sau khi phần mềm đã hoàn thiện giai đoạn phát triển. 
+Thực hiện lúc phần mềm đang được tích hợp vào hệ thống. 
+Càng sớm càng tốt trong vòng đời phát triển phần mềm. 
+Thực hiện lúc phần mềm đã được bàn giao cho đối tác}}
+<. 
+div>
+ANS:Càng sớm càng tốt trong vòng đời phát triển phần mềm
+
+82. Mục đích của kiểm thử cấp độ 3 là gì?
+<div class="gdoc-paragraph">{{Kiểm thử và gỡ lỗi. 
+Thể hiện rằng phần mềm không họat động. 
+Thể hiện sự đúng đắn. 
+Giảm thiểu rủi ro}}
+<. 
+div>
+ANS:Giảm thiểu rủi ro
+
+83. Nâng cao chất lượng trở thành kỷ luật từ trong tinh thần là đặc điểm của mức độ trưởng thành nào trong kiểm thử?
+<div class="gdoc-paragraph">{{Mức độ 4.. 
+Mức độ 1.. 
+Mức độ 2.. 
+Mức độ 3.}}
+<. 
+div>
+ANS:Mức độ 4.
+
+84. Ở cấp độ thử nghiệm nào, trọng tâm là mức độ sử dụng của khách hàng?
+<div class="gdoc-paragraph">{{Kiểm thử alpha. 
+Cả Alpha và Beta. 
+Kiểm thử Beta. 
+Kiểm thử xác thực}}
+<. 
+div>
+ANS:Cả Alpha và Beta
+
+85. Trường hợp nào khả thi nhất nếu đoạn chương trình hoàn thành hết tất cả các ca kiểm thử và không sai một ca nào?
+<div class="gdoc-paragraph">{{Chương trình đã hoàn thiện.. 
+Các ca kiểm thử đó không phát hiện được lỗi.. 
+Tất cả các đáp án đều sai.. 
+Chương trình đã hoàn thiện hoặc các ca kiểm thử đó không phát hiện được lỗi.}}
+<. 
+div>
+ANS:Chương trình đã hoàn thiện hoặc các ca kiểm thử đó không phát hiện được lỗi.
+
+----------------------------
+1. Cơ sở kiểm thử (Test Basis) của kiểm thử thành phần không bao gồm ý nào trong các ý dưới đây?
+<div class="gdoc-paragraph">{{Biểu đồ tuần tự (Sequence diagrams). 
+Mã nguồn (Code). 
+Thiết kế chi tiết (Detailed Design). 
+Mô hình dữ liệu (Data Model)}}
+<. 
+div>
+ANS:Biểu đồ tuần tự (Sequence diagrams)
+
+2. Cơ sở kiểm thử (Test Basis) của kiểm thử tích hợp không bao gồm ý nào trong các ý dưới đây?
+<div class="gdoc-paragraph">{{Tài liệu đặc tả phần mềm (SRS). 
+Biểu đồ tuần tự (Sequence Diagrams). 
+Đặc tả sử dụng (Use case). 
+Quy trình làm việc (Workflows)}}
+<. 
+div>
+ANS:Tài liệu đặc tả phần mềm (SRS)
+
+3. Đâu là một đặc tính tốt của bất kì mô hình kiểm thử nào?
+<div class="gdoc-paragraph">{{Thêm một vài hoạt động kiểm thử trong quá trình phát triển. 
+Bắt đầu phân tích và thiết kế ca kiểm thử ngay sau khi phát triển xong. 
+Mỗi giai đoạn kiểm thử đều có mục tiêu cụ thể. 
+Tất cả đối tượng đều tham gia quá trình kiểm thử}}
+<. 
+div>
+ANS:Mỗi giai đoạn kiểm thử đều có mục tiêu cụ thể
+
+4. Điều nào sau đây là một hình thức kiểm tra chức năng?
+<div class="gdoc-paragraph">{{Phân tích giá trị biên. 
+Kiểm thử hiệu năng. 
+Kiểm thử thành phần. 
+Kiểm tra khả năng sử dụng}}
+<. 
+div>
+ANS:Phân tích giá trị biên
+
+5. Điều nào sau đây là thử nghiệm phi chức năng?
+<div class="gdoc-paragraph">{{Kiểm thử hiệu năng. 
+Kiểm thử thành phần. 
+Kiểm thử hộp đen (Black box testing). 
+Kiểm thử hộp trắng (White box testing)}}
+<. 
+div>
+ANS:Kiểm thử hiệu năng
+
+6. Kiểm tra hệ thống phi chức năng bao gồm?
+<div class="gdoc-paragraph">{{Kiểm thử các thuộc tính của hệ thống bao gồm hiệu năng và khả năng sử dụng.. 
+Kiểm thử để xem nơi hệ thống không hoạt động đúng chức năng.. 
+Kiểm tra tính năng hệ thống chỉ sử dụng phần mềm cần thiết cho chức năng đó.. 
+Kiểm thử các chức năng có thể không tồn tại.}}
+<. 
+div>
+ANS:Kiểm thử để xem nơi hệ thống không hoạt động đúng chức năng.
+
+7. Mô hình V là gì?
+<div class="gdoc-paragraph">{{Kỹ thuật thiết kế thử nghiệm. 
+Mức độ kiểm tra. 
+Loại thử nghiệm. 
+Mô hình SDLC}}
+<. 
+div>
+ANS:Mức độ kiểm tra
+
+8. Một tập các yếu tố đầu vào, bao gồm điều kiện ràng buộc và kết quả mong đợi được gọi là gì?
+<div class="gdoc-paragraph">{{Kế hoạch kiểm thử.. 
+Trường hợp kiểm thử.. 
+Bộ kiểm thử.. 
+Tài liệu kiểm thử.}}
+<. 
+div>
+ANS:Trường hợp kiểm thử.
+
+9. Nếu một ứng dụng cho phép thực thi nhiều phiên bản của chính nó, chúng sẽ xuất hiện trên màn hình dưới dạng các cửa sổ riêng biệt được gọi là
+<div class="gdoc-paragraph">{{Thực đơn. 
+Con trỏ. 
+Các tab. 
+Cửa sổ}}
+<. 
+div>
+ANS:Cửa sổ
+
+10. Phương pháp kiểm thử giá trị biên được thường xuyên sử dụng trong loại kiểm thử nào sau đây?
+<div class="gdoc-paragraph">{{Kiểm thử tự động. 
+Kiểm thử chức năng. 
+Kiểm thử dựa trên mô hình. 
+Kiểm thử hộp trắng}}
+<. 
+div>
+ANS:Kiểm thử chức năng
+
+11. Phương pháp kiểm thử mà trong đó các ca kiểm thử được sinh ra từ mô hình đặc tả hành vi của hệ thống đang được kiểm thử là?
+<div class="gdoc-paragraph">{{Kiểm thử tích hợp. 
+Kiểm thử dựa trên mô hình. 
+Kiểm thử dòng dữ liệu. 
+Kiểm thử dòng điều khiển}}
+<. 
+div>
+ANS:Kiểm thử dựa trên mô hình
+
+12. Sự khác nhau giữa kiểm thử hộp đen và kiểm thử hộp trắng là gì?
+<div class="gdoc-paragraph">{{Hộp đen là chức năng, hộp trắng là phi chức năng.. 
+Hộp đen có chiều rộng lớn hơn hộp trắng.. 
+Hộp đen là chức năng, hộp trắng là cấu trúc.. 
+Hộp đen chỉ có thể thực hiện sau hộp trắng.}}
+<. 
+div>
+ANS:Hộp đen là chức năng, hộp trắng là cấu trúc.
+
+13. Thử nghiệm Sanity là gì?
+<div class="gdoc-paragraph">{{Loại thử nghiệm. 
+Kỹ thuật thiết kế thử nghiệm. 
+Mức độ thực thi kiểm tra. 
+Mức độ kiểm tra}}
+<. 
+div>
+ANS:Mức độ thực thi kiểm tra
+
+14. Điền vào chỗ trống
+<div class="gdoc-paragraph">Trong kĩ thuật {{}}(), hành vi và hiệu suất của chương trình được chú ý xem xét.
+<. 
+div>
+ANS:kiểm thử tĩnh
+
+15. Điền vào chỗ trống
+<div class="gdoc-paragraph">Trong kỹ thuật {{}}(), các thuộc tính hành vi và hiệu suất của chương trình được chú ý xem xét.
+<. 
+div>
+ANS:Kiểm thử tĩnh
+
+16. Trong kỹ thuật nào các thuộc tính hành vi và hiệu suất của chương trình được chú ý xem xét?
+<div class="gdoc-paragraph">{{Kiểm thử chấp nhận.. 
+Kiểm thử đơn vị. 
+Kiểm thử tĩnh.. 
+Không có đáp án đúng.}} 
+<. 
+div>
+ANS:Kiểm thử tĩnh.
+
+17. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là quá trình sinh ra các giá trị đầu vào để đáp ứng điểu kiện bao phủ hoặc các mục đích kỹ thuật khác.
+<. 
+div>
+ANS:Thiết kế kiểm thử
+
+18. _____ không phải là Tài liệu Thử nghiệm?
+<div class="gdoc-paragraph">{{Trường hợp thử nghiệm. 
+Mã PIN (Ghi chú Khởi động Dự án). 
+Chính sách kiểm tra. 
+RTM (Ma trận xác định nguồn gốc yêu cầu)}}
+<. 
+div>
+ANS:Chính sách kiểm tra
+
+19. _____ có phải là Người kiểm tra Đơn vị Kiểm thử không?
+<div class="gdoc-paragraph">{{Khách hàng. 
+Nhà phân tích kinh doanh. 
+Người kiểm tra độc lập. 
+Nhà phát triển}} 
+<. 
+div>
+ANS:Người kiểm tra độc lập
+
+20. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là quá trình tìm ra chỗ sai trong mã nguồn. 
+<. 
+div>
+ANS:Gỡ lỗi
+
+21. Điền vào chỗ trống
+<div class="gdoc-paragraph">Các mức kiểm thử hệ thống bao gồm {{}}(), kiểm thử mô đun, kiểm thử tích hợp và kiểm thử hệ thống.
+<. 
+div>
+ANS:kiểm thử đơn vị
+
+22. Đâu không phải là lợi ích của điều kiện bao phủ (Coverage Criteria)?
+<div class="gdoc-paragraph">{{Tạo điều kiện cho kiểm thử hồi quy diễn ra dễ dàng hơn.. 
+Tránh việc lặp lại khi chạy các ca kiểm thử.. 
+Giúp chuyên viên kiểm thử đánh giá ca kiểm thử dễ dàng.. 
+Bao trùm được hết không gian tìm kiếm.}}
+<. 
+div>
+ANS:Giúp chuyên viên kiểm thử đánh giá ca kiểm thử dễ dàng.
+
+23. Điền vào chỗ trống
+<div class="gdoc-paragraph">Hoạt động đánh giá phần mềm bằng cách thực thi được gọi là {{}}().
+<. 
+div>
+ANS:kiểm thử
+
+24. Khái niệm nào sau đây không liên quan đến kiểm thử tĩnh?
+<div class="gdoc-paragraph">{{Soạn tài liệu. 
+Công cụ chuẩn bị dữ liệu. 
+Phát hiện khuyết điểm sớm. 
+Trình biên dịch}}
+<. 
+div>
+ANS:Công cụ chuẩn bị dữ liệu
+
+25. Kiểm thử chức năng là gì?
+<div class="gdoc-paragraph">{{Mô hình SDLC. 
+Mức độ kiểm tra. 
+Kỹ thuật thiết kế thử nghiệm. 
+Loại thử nghiệm}}
+<. 
+div>
+ANS:Loại thử nghiệm
+
+26. Kiểm thử tích hợp là gì?
+<div class="gdoc-paragraph">{{Kỹ thuật thiết kế thử nghiệm. 
+Mức độ kiểm tra. 
+Loại thử nghiệm. 
+Mô hình SDLC}}
+<. 
+div>
+ANS:Mô hình SDLC
+
+27. Kìm câu trả lời sai trong các câu sau?
+<div class="gdoc-paragraph">{{Kiểm thử chỉ có thể cho thấy sự hiện diện của các lỗi chứ không phải sự vắng mặt của chúng.. 
+Tester thường gọi kiểm test là thành công (hoặc hiệu quả) nếu nó phát hiện ra lỗi. 
+Kìm ra tất cả các thất bại (failure) trong phần mềm là không thể xác định được. 
+Kiểm thử chỉ có thể cho thấy sự hiện diện của các lỗi và sự vắng mặt của chúng.}}
+<. 
+div>
+ANS:Kiểm thử chỉ có thể cho thấy sự hiện diện của các lỗi và sự vắng mặt của chúng.
+
+28. Điền vào chỗ trống
+<div class="gdoc-paragraph">Mô hình {{}}() là viết tắt cho Reachability, Infection, Propagation, Reveal.
+<. 
+div>
+ANS:RIPR
+
+29. Mô hình RIPR là gì?
+<div class="gdoc-paragraph">{{RIPR là tên viết tắt của 4 yếu tố cần thiết để cho 1 lỗi phần mềm được quan sát thấy.. 
+Tất cả đều đúng.. 
+Là bao gồm 4 yếu tố Reachability, Infection, Propagation, Revealability với 4 chữ cái đầu tiên của từng yếu tố là tên viết tắt của mô hình.. 
+Là 1 mô hình kiểm thử.}}
+<. 
+div>
+ANS:Tất cả đều đúng.
+
+30. Mô hình RIPR viết tắt cho những đặc trưng nào?
+<div class="gdoc-paragraph">{{Reliability, Infection, Propagation, Reveal. 
+Reachability, Infection, Propagation, Reveal. 
+Reachability, Infection, Propagation, Realization. 
+Reachability, Inability, Probability, Reveal}}
+<. 
+div>
+ANS:Reachability, Infection, Propagation, Reveal
+
+31. Những yếu tố nào được chấp nhận bởi hành vi của phần mềm để được coi là được chấp nhận?
+<div class="gdoc-paragraph">{{Độ tin cậy (reliability), độ an toàn (safety). 
+Khả năng bảo trì(maintainability), sự an toàn (security). 
+Hiệu quả (efficency). 
+Tất cả các đáp án trên}}
+<. 
+div>
+ANS:Tất cả các đáp án trên
+
+32. Phát biểu nào về kiểm thử (testing) và gỡ lỗi (debugging) sau đây là đúng?
+<div class="gdoc-paragraph">{{Kiểm thử sẽ được thực hiện để tìm ra thất bại (failure), gỡ lỗi sẽ dựa vào quá trình kiểm thử mà bị thất bại để tìm ra lỗi chương trình (fault).. 
+Gỡ lỗi sẽ được thực hiện trước để tìm ra thất bại (failure), sau đó kiểm thử sẽ được thực hiện để phát hiện ra lỗi (fault) của phần mềm.. 
+Kiểm thử và gỡ lỗi chỉ được dùng khi phần mềm đó đã hoàn thiện và không còn lỗi nguy hiểm.. 
+Chúng không có mối quan hệ nào cả.}}
+<. 
+div>
+ANS:Kiểm thử sẽ được thực hiện để tìm ra thất bại (failure), gỡ lỗi sẽ dựa vào quá trình kiểm thử mà bị thất bại để tìm ra lỗi chương trình (fault).
+
+33. Điền vào chỗ trống
+<div class="gdoc-paragraph">Quá trình tìm lỗi sai trong mã nguồn được gọi là {{}}().
+<. 
+div>
+ANS:gỡ lỗi
+
+34. Tại sao không thể có khái niệm đúng (correctness) cho phần mềm?
+<div class="gdoc-paragraph">{{Khái niệm này không có đinh nghĩa. 
+Khái niệm này rất chung chung và không cụ thể. 
+Tất cả các đáp án trên. 
+Vì phần mềm luôn được nhận lệnh được mở rộng lên cấu trúc vật lý (physical structure) và logic luôn ngày một phức tạp}}
+<. 
+div>
+ANS:Tất cả các đáp án trên
+
+35. Ý nào sau đây đúng về phần mềm kiểm thử (testware) (gồm trường hợp kiểm thử (test case) và tập dữ liệu kiểm thử (test dataset))?
+<div class="gdoc-paragraph">{{Chỉ cần thiết cho đến khi phần mềm được phát hành vào sản xuất hoặc sử dụng.. 
+Cần quản lý cấu hình giống như yêu cầu, thiết kế và mã.. 
+Nên được xây dựng mới cho mỗi phiên bản mới của phần mềm.. 
+Tất cả đều sai.}}
+<. 
+div>
+ANS:Cần quản lý cấu hình giống như yêu cầu, thiết kế và mã.
+
+36. Các bài kiểm thử nên được chạy theo thứ tự nào?
+<div class="gdoc-paragraph">{{Tùy thứ tự nào cũng được.. 
+Các bài kiểm tra dễ nhất trước tiên (để tạo sự tự tin ban đầu).. 
+Các bài kiểm thử quan trọng nhất đầu tiên.. 
+Những bài kiểm thử khó nhất trước tiên (để có thời gian sửa chữa tối đa).}}
+<. 
+div>
+ANS:Các bài kiểm thử quan trọng nhất đầu tiên.
+
+37. Kỹ thuật nào sau đây là một hình thức của kiểm thử chức năng (Functional testing)?
+<div class="gdoc-paragraph">{{Kiểm thử bảo mật. 
+Kiểm thử hiệu suất. 
+Kiểm thử khả năng sử dụng. 
+Kiểm thử giá trị biên}}
+<. 
+div>
+ANS:Kiểm thử giá trị biên
+
+38. Mô hình khuếch đại lỗi nào được sử dụng để minh họa việc tạo ra và phát hiện lỗi trong các bước sơ bộ của quy trình kỹ thuật phần mềm?
+<div class="gdoc-paragraph">{{Mã hóa.. 
+Thiết kế.. 
+Tất cả các đáp án trên. 
+Thiết kế chi tiết.}}
+<. 
+div>
+ANS:Tất cả các đáp án trên
+
+39. Người quản lí kiểm thử (Test manager) có vai trò gì trong kiểm thử?
+<div class="gdoc-paragraph">{{Thiết kế kiểm thử.. 
+Thực thi kiểm thử.. 
+Đánh giá kiểm thử.. 
+Giám sát quá trình kiểm thử.}}
+<. 
+div>
+ANS:Giám sát quá trình kiểm thử.
+
+40. Điền vào chỗ trống
+<div class="gdoc-paragraph">Thiết kế và xây dựng kiểm thử là giai đoạn tốn {{}}() nhất của công việc kiểm thử.
+<. 
+div>
+ANS:thời gian
+
+41. Viết tắt thuật ngữ CASE?
+<div class="gdoc-paragraph">{{Kỹ thuật phần mềm được ủy quyền máy tính. 
+Kỹ thuật phần mềm hỗ trợ máy tính. 
+Kỹ thuật phần mềm được ủy quyền chung. 
+Kỹ thuật phần mềm hỗ trợ máy tính}}
+<. 
+div>
+ANS:Kỹ thuật phần mềm được ủy quyền máy tính
+
+42. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() được thực hiện sau khi có những thay đổi trong phần mềm, để đảm bảo rằng phần mềm sau khi được cập nhật vẫn có những chức năng nó có trước khi cập nhật.
+<. 
+div>
+ANS:Kiểm thử hồi quy
+
+43. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là mô hình đặc trưng cho các cấp độ kiểm thử và cách chúng liên quan đến hoạt động phát triển phần mềm.
+<. 
+div>
+ANS:Mô hình V
+
+44. Đâu không phải là một kỹ thuật kiểm thử hộp trắng?
+<div class="gdoc-paragraph">{{Kiểm thử chuyển đổi trạng thái (State transition testing).. 
+Kiểm thử luồng dữ liệu (Data flow testing).. 
+Kiểm thử đường dẫn (Path testing).. 
+Kiểm thử trạng thái (Statement testing).}}
+<. 
+div>
+ANS:Kiểm thử chuyển đổi trạng thái (State transition testing).
+
+45. Đâu không phải là một mức độ kiểm thử?
+<div class="gdoc-paragraph">{{Kiểm thử tích hợp (Integration Testing).. 
+Kiểm thử chấp nhận (Acceptance Testing).. 
+Kiểm thử chức năng (Functional Testing).. 
+Kiểm thử hệ thống (System Testing).}} 
+<. 
+div>
+ANS:Kiểm thử chức năng (Functional Testing).
+
+46. Đâu không phải là một phương pháp tiếp cận để kiểm thử tích hợp?
+<div class="gdoc-paragraph">{{Từ dưới lên.. 
+Tất cả các phương án trên đều đúng.. 
+Từ trên xuống. 
+Big-Bang. (\. 
+\. 
+câu trả lời này không có nghĩa tiếng việt đúng để dịch)}}
+<. 
+div>
+ANS:Tất cả các phương án trên đều đúng.
+
+47. Đâu là mục tiêu chính của kiểm thử chấp nhận (Acceptance testing)?
+<div class="gdoc-paragraph">{{Đánh giá phần mềm liên quan đến thiết kế kiến trúc và hành vi tổng thể.. 
+Đánh giá phần mềm theo yêu cầu hoặc nhu cầu của người dùng.. 
+Đánh giá phần mềm liên quan đến thiết kế hệ thống con.. 
+Đánh giá phần mềm liên quan đến việc triển khai.}}
+<. 
+div>
+ANS:Đánh giá phần mềm theo yêu cầu hoặc nhu cầu của người dùng.
+
+48. Đâu là nhược điểm của hướng tiếp cận Big Bang trong kiểm thử tích hợp?
+<div class="gdoc-paragraph">{{Khó xác định được lỗi thuộc mô đun nào. 
+Khó phát hiện lỗi ở những mô đun quan trọng. 
+Khó phát hiện lỗi ở những mô đun không quan trọng. 
+Không tìm ra được nguyên nhân}}
+<. 
+div>
+ANS:Khó xác định được lỗi thuộc mô đun nào
+
+49. Đâu là việc cần làm khi thực hiện kiểm thử tích hợp (Integration Testing)?
+<div class="gdoc-paragraph">{{Kiểm tra các thành phần riêng lẻ (components) đã được phát triển.. 
+Kiểm tra tương tác giữa các mô đun đã được phát triển.. 
+Kiểm tra xem giao diện đã đúng với mô tả hay chưa.. 
+Kiểm tra xem khách hàng đã hài lòng với sản phẩm hay chưa.}}
+<. 
+div>
+ANS:Kiểm tra tương tác giữa các mô đun đã được phát triển.
+
+50. Hoạt động kiểm thử nào được thiết kế để đánh giá các đơn vị sản xuất trong giai đoạn thực hiện?
+<div class="gdoc-paragraph">{{Kiểm thử mô-đun (Module testing).. 
+Kiểm thử đơn vị (Unit testing).. 
+Kiểm thử chấp nhận (Acceptance testing).. 
+Kiểm thử hệ thống (System testing).}}
+<. 
+div>
+ANS:Kiểm thử đơn vị (Unit testing).
+
+51. Điền vào chỗ trống
+<div class="gdoc-paragraph">Kiểm thử {{}}() (Integration testing) là kiểm thử để kiểm tra sự tương tác của các mô đun.
+<. 
+div>
+ANS:tích hợp
+
+52. Kiểm thử để kiểm tra sự tương tác của các mô đun là:
+<div class="gdoc-paragraph">{{Kiểm thử hệ thống (System testing). 
+Kiểm thử tích hợp (Integration testing). 
+Kiểm thử chấp nhận (Acceptance testing). 
+Kiểm thử đơn vị (Unit testing)}}
+<. 
+div>
+ANS:Kiểm thử tích hợp (Integration testing)
+
+53. Kiểm thử đơn vị được thực hiện bởi ai?
+<div class="gdoc-paragraph">{{Nhà phát triển.. 
+Người dùng.. 
+Không có đáp án đúng.. 
+Khách hàng.}}
+<. 
+div>
+ANS:Nhà phát triển.
+
+54. Kiểm thử hệ thống thuộc loại kiểm thử nào?
+<div class="gdoc-paragraph">{{Kiểm thử đơn vị.. 
+Kiểm thử tích hợp.. 
+Kiểm thử hộp trắng.. 
+Kiểm thử hộp đen.}}
+<. 
+div>
+ANS:Kiểm thử hộp đen.
+
+55. Kiểm thử hộp trắng thường không được sử dụng trong hoạt động kiểm thử nào?
+<div class="gdoc-paragraph">{{Kiểm thử tích hợp.. 
+Kiểm thử đơn vị.. 
+Kiểm thử chấp nhận.. 
+Kiểm thử hệ thống.}}
+<. 
+div>
+ANS:Kiểm thử chấp nhận.
+
+56. Kiểm thử tích hợp phải giả định các mô-đun hoạt động _____________.
+<div class="gdoc-paragraph">{{Chính xác khi chúng được kết nối với nhau.. 
+Lỗi khi chúng hoạt động độc lập.. 
+Chính xác khi chúng hoạt động độc lập.. 
+Lỗi khi chúng được kết nối với nhau.}}
+<. 
+div>
+ANS:Chính xác khi chúng được kết nối với nhau.
+
+57. Kiểm thử từng lớp, mô đun, thành phần là:
+<div class="gdoc-paragraph">{{Kiểm thử chấp nhận (Acceptance testing). 
+Kiểm thử đơn vị (Unit testing). 
+Kiểm thử mô đun (Module testing). 
+Kiểm thử tích hợp (Integration testing)}}
+<. 
+div>
+ANS:Kiểm thử mô đun (Module testing)
+
+58. Kiểm tra Bảng Quyết định là gì?
+<div class="gdoc-paragraph">{{Kỹ thuật thiết kế kiểm tra hộp xám. 
+Kỹ thuật thiết kế thử nghiệm dựa trên kinh nghiệm. 
+Kỹ thuật thiết kế thử nghiệm hộp trắng. 
+Kỹ thuật thiết kế kiểm tra hộp đen}}
+<. 
+div>
+ANS:Kỹ thuật thiết kế kiểm tra hộp đen
+
+59. Kỹ thuật Hộp trắng còn được gọi là gì?
+<div class="gdoc-paragraph">{{Kiểm tra dựa trên thiết kế. 
+Kiểm tra kết cấu. 
+Kỹ thuật đoán lỗi. 
+Kỹ thuật dựa trên kinh nghiệm}}
+<. 
+div>
+ANS:Kiểm tra kết cấu
+
+60. Loại kiểm thử nào có công việc chính là thực hiện lại một số tập hợp con các kiểm thử đã được tiến hành để đảm bảo các thay đổi không bị lan truyền?
+<div class="gdoc-paragraph">{{Kiểm tra dựa trên chuỗi (Thread-based testing).. 
+Kiểm thử đơn vị.. 
+Kiểm thử tích hợp.. 
+Kiểm thử hồi quy.}}
+<. 
+div>
+ANS:Kiểm thử đơn vị.
+
+61. Loại kiểm thử nào sau đây thuộc về kiểm thử tích hợp trong ngữ cảnh hướng đối tượng?
+<div class="gdoc-paragraph">{{Kiểm thử đơn vị.. 
+Kiểm tra dựa trên chuỗi (Thread-based testing).. 
+Kiểm thử hồi quy.. 
+Kiểm thử sandwich (kết hợp giữa phương pháp dưới lên và trên xuống).}}
+<. 
+div>
+ANS:Kiểm tra dựa trên chuỗi (Thread-based testing).
+
+62. Mô hình chữ V là gì?
+<div class="gdoc-paragraph">{{Một mức độ kiểm thử.. 
+Một phương pháp kiểm thử.. 
+Một kỹ thuật thiết kế kiểm thử.. 
+Một mô hình về vòng đời phát triển phần mềm.}}
+<. 
+div>
+ANS:Một mô hình về vòng đời phát triển phần mềm.
+
+63. Mục đích chính của kiểm thử thành phần (Component Testing) là gì?
+<div class="gdoc-paragraph">{{Kiểm tra các chương trình. 
+Kiểm tra các hàm. 
+Kiểm tra hệ thống. 
+Kiểm tra tương tác giữa các hàm}}
+<. 
+div>
+ANS:Kiểm tra các hàm
+
+64. Tài liệu Kiểm tra nào mô tả Tiêu chí Thoát của Kiểm tra?
+<div class="gdoc-paragraph">{{Kế hoạch kiểm tra. 
+Trường hợp thử nghiệm. 
+Báo cáo khiếm khuyết. 
+Báo cáo tóm tắt thử nghiệm}}
+<. 
+div>
+ANS:Trường hợp thử nghiệm
+
+65. Thông thường, ai là người thực hiện việc kiểm thử hệ thống (System Testing)?
+<div class="gdoc-paragraph">{{Chuyên viên phân tích nghiệp vụ (Business Analyst).. 
+Lập trình viên, nhà phát triển (Developer).. 
+Kiểm thử viên (Tester).. 
+Quản lý dự án (Project Manager).}}
+<. 
+div>
+ANS:Kiểm thử viên (Tester).
+
+66. Thông thường, người thực hiện việc kiểm thử chấp nhận là?
+<div class="gdoc-paragraph">{{Người dùng cuối.. 
+Người quản lý dự án.. 
+Đội ngũ kiểm thử.. 
+Đội ngũ phát triển phần mềm.}}
+<. 
+div>
+ANS:Người dùng cuối.
+
+67. Thử nghiệm hoàn chỉnh là?
+<div class="gdoc-paragraph">{{Không thực tế và không thể. 
+Luôn luôn có thể. 
+Thực tế và có thể. 
+Không thực tế nhưng có thể}}
+<. 
+div>
+ANS:Không thực tế nhưng có thể
+
+68. Thứ tự mà các cấp độ kiểm tra được thực hiện là:
+<div class="gdoc-paragraph">{{Nó phụ thuộc vào bản chất của một dự án.. 
+Đơn vị, Tích hợp, Chấp nhận, Hệ thống.. 
+Đơn vị, Hệ thống, Tích hợp, Chấp nhận.. 
+Đơn vị, Tích hợp, Hệ thống, Chấp nhận.}}
+<. 
+div>
+ANS:Nó phụ thuộc vào bản chất của một dự án.
+
+69. Thứ tự thông thường của các hoạt động trong kiểm thử truyền thống là gì?
+<div class="gdoc-paragraph">{{Kiểm thử tích hợp, kiểm thử đơn vị, kiểm thử chấp nhận, kiểm thử hệ thống.. 
+Kiểm thử đơn vị, kiểm thử tích hợp, kiểm thử hệ thống, kiểm thử chấp nhận.. 
+Kiểm thử tích hợp, kiểm thử hệ thống, kiểm thử đơn vị, kiểm thử chấp nhận.. 
+Kiểm thử đơn vị, kiểm thử hệ thống, kiểm thử tích hợp, kiểm thử chấp nhận.}}
+<. 
+div>
+ANS:Kiểm thử đơn vị, kiểm thử tích hợp, kiểm thử hệ thống, kiểm thử chấp nhận.
+
+70. Trong kiểm thử hướng đối tượng, kiểm thử liên phương thức là như thế nào ?
+<div class="gdoc-paragraph">{{Kiểm thử các cặp phương thức trong cùng một gói. 
+Kiểm thử các cặp phương thức trong cùng một lớp. 
+Kiểm thử các cặp phương thức trong khác lớp. 
+Kiểm thử từng phương thức riêng rẽ trong cùng một lớp}}
+<. 
+div>
+ANS:Kiểm thử các cặp phương thức trong cùng một lớp
+
+71. Trong mô hình chữ V, thông tin cho mỗi cấp độ kiểm thử thường được lấy từ đâu?
+<div class="gdoc-paragraph">{{Từ dữ liệu kiểm thử của các hệ thống tương tự.. 
+Thông tin từ các cấp độ kiểm thử trước đó.. 
+Quá trình hoạt động hệ thống trong thực tế.. 
+Các hoạt động phát triển liên kết.}}
+<. 
+div>
+ANS:Các hoạt động phát triển liên kết.
+
+72. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là kiểm thử dựa theo các mô tả bên ngoài của phần mềm, bao gồm các thông số kĩ thuật, yêu cầu và thiết kế.
+<. 
+div>
+ANS:Kiểm thử hộp đen
+
+73. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là quá trình kiểm thử mà kiểm thử viên kiểm tra từ mã nguồn của phần mềm.
+<. 
+div>
+ANS:Kiểm thử hộp trắng
+
+74. Câu nhận định nào sau đây sai?
+<div class="gdoc-paragraph">{{Kiểm thử hộp trắng tốn nhiều chi phí nên thường được áp dụng vào các hệ thống lớn.. 
+Kiểm thử hộp trắng có thể sử dụng cho cả kiểm thử đơn vị và kiểm thử hệ thống.. 
+Kiểm thử hộp trắng đòi hỏi kiến thức về chương trình trong phần mềm.. 
+Kiểm thử hộp đen chỉ dùng cho kiểm thử đơn vị.}}
+<. 
+div>
+ANS:Kiểm thử hộp đen chỉ dùng cho kiểm thử đơn vị.
+
+75. Đâu không phải là ý đúng về điều kiện bao phủ?
+<div class="gdoc-paragraph">{{Điều kiện bao phủ thường được sử dụng để mô tả tỉ lệ hoàn thiện. 
+Thước đo của điều kiện bao phủ là tỉ lệ phần trăm số lỗi tìm thấy. 
+Điều kiện bao phủ có thể đo bằng một bộ kiểm thử. 
+Thước đo của điều kiện bao phủ là tỉ lệ bao phủ của yêu cầu khách hàng}}
+<. 
+div>
+ANS:Thước đo của điều kiện bao phủ là tỉ lệ phần trăm số lỗi tìm thấy
+
+76. Điều nào sau đây sai khi nói về người thực hiện kiểm thử hộp đen?
+<div class="gdoc-paragraph">{{Kiểm thử dựa vào đầu vào và đầu ra của chương trình.. 
+Phải sáng tạo trong việc tìm ra điểm yếu của hệ thống.. 
+Phải hiểu và nắm được mã nguồn.. 
+Cần phải nắm được tài liệu đặc tả yêu cầu và chức năng của hệ thống.}}
+<. 
+div>
+ANS:Phải hiểu và nắm được mã nguồn.
+
+77. Điền vào chỗ trống
+<div class="gdoc-paragraph">Kiểm thử hộp {{}}() là kiểm thử chức năng.
+<. 
+div>
+ANS:đen
+
+78. Điền vào chỗ trống
+<div class="gdoc-paragraph">Kiểm thử hộp {{}}() là kiểm thử cấu trúc.
+<. 
+div>
+ANS:trắng
+
+79. Kiểm thử hộp trắng có thể được thực hiện khi nào?
+<div class="gdoc-paragraph">{{Sau khi lập trình và có mã nguồn.. 
+Sau khi cài đặt chương trình.. 
+Sau khi thiết kế hệ thống.. 
+Sau khi thu thập yêu cầu đặc tả.}}
+<. 
+div>
+ANS:Sau khi lập trình và có mã nguồn.
+
+80. Một miền đầu vào nhận giá trị năm sinh trong [1000, 2000]. Các giá trị biên để kiểm thử cho miền đầu vào này là:
+<div class="gdoc-paragraph">{{1000, 2000. 
+999, 1000, 2000, 2001, 2002. 
+0, 1900, 1990, 2000. 
+1000, 1001, 1090, 1999, 2000}}
+<. 
+div>
+ANS:1000, 2000
+
+81. Phương pháp kiểm thử hộp trắng không áp dụng cho các mức độ kiểm tra phần mềm nào sau đây?
+<div class="gdoc-paragraph">{{Kiểm thử đơn vị (Unit Testing).. 
+Kiểm thử hệ thống (System Testing).. 
+Kiểm thử chấp nhận (Acceptance Testing).. 
+Kiểm thử tích hợp (Integration Testing).}}
+<. 
+div>
+ANS:Kiểm thử chấp nhận (Acceptance Testing).
+
+82. Ý kiến nào sau đây mô tả đúng nhất về sự khác nhau giữa kiểm thử hộp đen và kiểm thử hộp trắng?
+<div class="gdoc-paragraph">{{Kiểm thử hộp đen đáng tin cậy hơn kiểm thử hộp trắng.. 
+Kiểm thử hộp đen là kiểm thử chức năng còn kiểm thử hộp trắng là kiểm thử phi chức năng.. 
+Kiểm thử hộp đen là kiểm thử chức năng còn kiểm thử hộp trắng là kiểm thử cấu trúc.. 
+Kiểm thử hộp đen chỉ có thể thực hiện sau kiểm thử hộp trắng.}}
+<. 
+div>
+ANS:Kiểm thử hộp đen là kiểm thử chức năng còn kiểm thử hộp trắng là kiểm thử cấu trúc.
+
+83. Báo cáo kiểm thử là đầu ra của giai đoạn nào?
+<div class="gdoc-paragraph">{{Thiết kế kiểm thử.. 
+Thực hiện kiểm thử.. 
+Đánh giá kiểm thử.. 
+Tự động hóa kiểm thử.}} 
+<. 
+div>
+ANS:Đánh giá kiểm thử.
+
+84. Câu nào sau đây là đúng về kiểm thử tích hợp thành phần?
+<div class="gdoc-paragraph">{{Kiểm tra tương tác giữa các hệ thống và thực hiện trong khi kiểm thử thành phần. 
+Kiểm tra tương tác giữa các thành phần và thực hiện sau khi kiểm thử thành phần. 
+Kiểm tra tương tác giữa các thành phần và thực hiện trong khi kiểm thử thành phần. 
+Kiểm tra tương tác giữa các thành phần và thực hiện sau khi kiểm thử thành phần}} 
+<. 
+div>
+ANS:Kiểm tra tương tác giữa các thành phần và thực hiện sau khi kiểm thử thành phần
+
+85. Đâu là hướng tiếp cận của kiểm thử thành phần?
+<div class="gdoc-paragraph">{{Kiểm thử hộp đen (Black Box Testing). 
+Test trước, Code sau. 
+Kiểm thử chức năng. 
+Kiểm thử hộp trắng ( White Box Testing)}}
+<. 
+div>
+ANS:Test trước, Code sau
+
+86. Đâu là một kỹ thuật đánh giá để đánh giá chất lượng của các ca kiểm thử?
+<div class="gdoc-paragraph">{{Kiểm định.. 
+Thẩm định.. 
+Phân tích đột biến.. 
+Phân tích hiệu suất.}}
+<. 
+div>
+ANS:Phân tích đột biến.
+
+87. Điền vào chỗ trống
+<div class="gdoc-paragraph">Để kiểm thử toàn diện hệ thống cần có 2 hoạt động: kiểm thử dựa trên {{}}() và kiểm thử dựa trên con người.
+<. 
+div>
+ANS:tiêu chí
+
+88. Giao diện (Interface) được kiểm thử trong pha nào?
+<div class="gdoc-paragraph">{{Kiểm thử hệ thống. 
+Kiểm thử chấp nhận. 
+Kiểm thử tích hợp. 
+Kiểm thử thành phần}}
+<. 
+div>
+ANS:Kiểm thử tích hợp
+
+89. Hai phương pháp tiếp cận cho kiểm thử tích hợp là?
+<div class="gdoc-paragraph">{{Big Bang & Incremental (Tập hợp & Tăng tiến). 
+Chức năng và phi chức năng. 
+Hộp Đen và Hộp Trắng (Black Box & White Box). 
+Từ trên xuống dưới và chức năng}}
+<. 
+div>
+ANS:Big Bang & Incremental (Tập hợp & Tăng tiến)
+
+90. Kiểm thử đơn vị được thực hiện bởi ai?
+<div class="gdoc-paragraph">{{Người lập trình.. 
+Người kiểm thử.. 
+Khách hàng.. 
+Người dùng.}}
+<. 
+div>
+ANS:Người lập trình.
+
+91. Kiểm thử hệ thống sẽ không phát hiện được lỗi nào?
+<div class="gdoc-paragraph">{{Cấu trúc giao tiếp không nhất quán. 
+Điều khiển \. 
+ Luồng dữ liệu không chính xác. 
+Không thực hiện được đầy đủ chức năng. 
+Chức năng hoạt động không chính xác}}
+<. 
+div>
+ANS:Cấu trúc giao tiếp không nhất quán
+
+92. Kiểm thử phần mềm với dữ liệu thực trong môi trường thực được gọi là gì?
+<div class="gdoc-paragraph">{{Kiểm thử beta.. 
+Kiểm thử xich-ma.. 
+Kiểm thử hồi quy.. 
+Kiểm thử alpha.}}
+<. 
+div>
+ANS:Kiểm thử beta.
+
+93. Kiểm thử tích hợp sẽ phát hiện được lỗi nào?
+<div class="gdoc-paragraph">{{Lỗi bảo mật. 
+Quy trình làm việc không chính xác. 
+Lỗi giao tiếp giữa các thành phần. 
+Chức năng thực hiện sai yêu cầu}}
+<. 
+div>
+ANS:Lỗi giao tiếp giữa các thành phần
+
+94. Người thực hiện công đoạn thiết kế ca kiểm thử (Test Design) không cần tìm hiểu quá rõ miền kiến thức nào sau đây?
+<div class="gdoc-paragraph">{{Kiến thức về lập trình. 
+Kiến thức về văn hóa. 
+Kiến thức về kiểm thử. 
+Kiến thức về toán rời rạc}}
+<. 
+div>
+ANS:Kiến thức về văn hóa
+
+95. Sự khác biệt giữa kiểm thử lại và kiểm thử hồi quy là?
+<div class="gdoc-paragraph">{{Kiểm thử lại được thực hiện bởi các nhà phát triển; kiểm thử hồi quy được thực hiện bởi những người kiểm thử độc lập.. 
+Kiểm thư lại đang chạy thử lại; Kiểm thử hồi quy sẽ tìm ra các kết quả phụ bất ngờ.. 
+Kiểm thử lại được thực hiện sau khi sửa lỗi; kiểm thử hồi quy được thực hiện sớm hơn.. 
+Kiểm thử lại sẽ tìm ra các kết quả bất ngờ; kiểm thử hồi quy là lặp lại những bài kiểm tra.}}
+<. 
+div>
+ANS:Kiểm thư lại đang chạy thử lại; Kiểm thử hồi quy sẽ tìm ra các kết quả phụ bất ngờ.
+
+96. Thử nghiệm Beta được thực hiện bởi ai?
+<div class="gdoc-paragraph">{{Nhà phát triển.. 
+Người dùng.. 
+Người lập trình.. 
+Người kiểm tra.}}
+<. 
+div>
+ANS:Nhà phát triển.
+
+97. _____ không phải là Giai đoạn Vòng đời Kiểm tra Phần mềm?
+<div class="gdoc-paragraph">{{Lập kế hoạch kiểm tra. 
+Đóng thử nghiệm. 
+Thu thập yêu cầu. 
+Thiết kế thử nghiệm}}
+<. 
+div>
+ANS:Thu thập yêu cầu
+
+98. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là kiểm thử để tìm ra giới hạn của phần mềm, bằng cách cho vào những giá trị cực lớn hay cực nhỏ, các giá trị không hợp lệ, hoặc những giá trị làm cho phần mềm không thể dự tính được trong các trường hợp bình thường. 
+<. 
+div>
+ANS:Stress test
+
+99. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là quá trình thiết kế các dữ liệu đầu vào sẽ có ảnh hưởng đến phần mềm. 
+<. 
+div>
+ANS:Thiết kế kiểm thử
+
+100. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là quá trình thiết kế các giá trị đầu vào để kiểm tra hiệu quả phần mềm.
+<. 
+div>
+ANS:Thiết kế kiểm thử
+
+101. Các trường hợp kiểm thử được thiết kế trong giai đoạn nào sau đây?
+<div class="gdoc-paragraph">{{Đặc tả kiểm thử. 
+Ghi chép kiểm thử. 
+Cấu hình kiểm thử. 
+Lập kế hoạch kiểm thử}}
+<. 
+div>
+ANS:Đặc tả kiểm thử
+
+102. Các trường hợp kiểm tra sẽ phát hiện ra các lỗi như:
+<div class="gdoc-paragraph">{{Toán tử logic không chính xác hoặc ưu tiên. 
+Tất cả những điều đã đề cập. 
+So sánh các kiểu dữ liệu khác nhau. 
+Kết thúc vòng lặp không tồn tại}}
+<. 
+div>
+ANS:Kết thúc vòng lặp không tồn tại
+
+103. Giai đoạn nào ảnh hưởng nhất đến chất lượng của hệ thống?
+<div class="gdoc-paragraph">{{Pha kiểm thử. 
+Pha thiết kế. 
+Pha phân tích. 
+Pha lên kế hoạch}}
+<. 
+div>
+ANS:Pha lên kế hoạch
+
+104. Kiểm tra hệ thống là?
+<div class="gdoc-paragraph">{{Kiểm thử hộp trắng (White box testing). 
+Kiểm thử tích hợp. 
+Kiểm thử hộp đen (Black box testing). 
+Kiểm thử hộp xám (Grey box testing)}}
+<. 
+div>
+ANS:Kiểm thử hộp đen (Black box testing)
+
+105. Kỹ thuật được áp dụng để kiểm tra khả năng sử dụng là?
+<div class="gdoc-paragraph">{{Kết hợp tất cả. 
+Kiểm thử hộp trắng (White box testing). 
+Kiểm thử hộp đen (Black box testing). 
+Kiểm thử hộp xám (Grey box testing)}} 
+<. 
+div>
+ANS:Kiểm thử hộp đen (Black box testing)
+
+106. Kỹ thuật Hộp trắng cũng được phân loại là?
+<div class="gdoc-paragraph">{{Kiểm thử thành phần. 
+Kỹ thuật đoán lỗi. 
+Kiểm thử dựa trên thiết kế. 
+Kiểm thử cấu trúc}}
+<. 
+div>
+ANS:Kiểm thử cấu trúc
+
+107. Lỗi nào sau đây không nên được kiểm tra khi xử lý lỗi được đánh giá?
+<div class="gdoc-paragraph">{{Lỗi được ghi nhận không tương ứng với lỗi gặp phải. 
+Mô tả lỗi cung cấp đủ thông tin để hỗ trợ xác định vị trí của nguyên nhân gây ra lỗi. 
+Mô tả lỗi khó hiểu. 
+Tình trạng lỗi gây ra sự can thiệp của hệ thống trước khi xử lý lỗi}}
+<. 
+div>
+ANS:Mô tả lỗi khó hiểu
+
+108. Mức độ chi tiết nào của thử nghiệm kiểm tra hành vi hợp tác của mô-đun?
+<div class="gdoc-paragraph">{{Kiểm thử chấp nhận.. 
+Kiểm thử đơn vị.. 
+Kiểm thử hồi quy.. 
+Kiểm thử tích hợp.}}
+<. 
+div>
+ANS:Kiểm thử tích hợp.
+
+109. Điền vào chỗ trống
+<div class="gdoc-paragraph">Người kiểm tra phải có kiến thức về miền ứng dụng của phần mềm, kiểm tra và {{}}().
+<. 
+div>
+ANS:giao diện người dùng
+
+110. Nội dung nào sau đây không phải là một phần của tài liệu thiết kế thử nghiệm?
+<div class="gdoc-paragraph">{{Kế hoạch kiểm thử. 
+Đặc tả ca kiểm thử. 
+Nhật ký kiểm thử. 
+Đặc tả thiết kế kiểm thử}}
+<. 
+div>
+ANS:Nhật ký kiểm thử
+
+111. Phân tích tĩnh KHÔNG tìm thấy gì?
+<div class="gdoc-paragraph">{{Vi phạm liên kết mảng. 
+Bộ nhớ bị rò rỉ. 
+Mã không thể truy cập (chết). 
+Việc sử dụng một biến trước khi nó được định nghĩa}}
+<. 
+div>
+ANS:Việc sử dụng một biến trước khi nó được định nghĩa
+
+112. Tại sao kiểm thử tự động không dễ để thực hiện?
+<div class="gdoc-paragraph">{{Bởi vì máy tính hạn chế trong việc so sánh đầu ra. 
+Bởi vì bảo trì hệ thống kiểm thử rất khó. 
+Bởi vì các công cụ kiểm thử tự động rất khó dùng. 
+Bởi vì máy tính cần có hệ thống quản lý kiểm thử tự động}}
+<. 
+div>
+ANS:Bởi vì bảo trì hệ thống kiểm thử rất khó
+
+113. Điền vào chỗ trống
+<div class="gdoc-paragraph">Thiết kế các mẫu kiểm thử dựa trên phần kiến thức của chương trình và con người là {{}}().
+<. 
+div>
+ANS:kiểm thử dựa trên suy nghĩ của con người
+
+114. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là là quá trình nhúng các giá trị kiểm thử vào các tập lệnh thực thi.
+<. 
+div>
+ANS:Tự động hóa kiểm thử
+
+115. Khả năng kiểm thử (Testability) của một ca kiểm thử bị chi phối bởi các vấn đề nào?
+<div class="gdoc-paragraph">{{Vấn đề chất lượng của bộ kiểm thử đó.. 
+Vấn đề quan sát hành vi và kết quả khi bộ kiểm thử được thực thi.. 
+Vấn đề chọn giá trị để đưa vào bộ kiểm thử, và vấn đề quan sát hành vi và kết quả khi bộ kiểm thử được thực thi.. 
+Vấn đề chọn giá trị để đưa vào bộ kiểm thử.}}
+<. 
+div>
+ANS:Vấn đề chọn giá trị để đưa vào bộ kiểm thử, và vấn đề quan sát hành vi và kết quả khi bộ kiểm thử được thực thi.
+
+116. Kiểm thử đơn vị (Unit test) được thực hiện bởi
+<div class="gdoc-paragraph">{{Khách hàng. 
+Người dùng. 
+Người kiểm thử. 
+Người lập trình}}
+<. 
+div>
+ANS:Người lập trình
+
+117. Kiểm thử nào đề cập đến việc kiểm thử lại một đơn vị, tích hợp và hệ thống sau khi sửa đổi, để chắc chắn rằng sự thay đổi đó không tạo ra các lỗi mới?
+<div class="gdoc-paragraph">{{Kiểm thử Alpha (Alpha Test).. 
+Kiểm thử quy hồi (Regression Test).. 
+Kiểm thử khói (Smoke Test).. 
+Kiểm thử Beta (Beta Test).}}
+<. 
+div>
+ANS:Kiểm thử quy hồi (Regression Test).
+
+118. Mục đích nào sau đây của kiểm thử tự động là KHÔNG ĐÚNG?
+<div class="gdoc-paragraph">{{Có thể kiểm thử được giao diện và trải nghiệm người dùng (UI\. 
+UX).. 
+Giảm lỗi gây ra bởi kiểm thử viên.. 
+Giảm chi phí.. 
+Thống nhất chất lượng giữa các ca kiểm thử.}}
+<. 
+div>
+ANS:Có thể kiểm thử được giao diện và trải nghiệm người dùng (UI\/UX).
+
+119. Hoạt động nào sau đây đòi hỏi các kỹ năng máy tính cơ bản và không yêu cầu cao về kiến thức kỹ thuật?
+<div class="gdoc-paragraph">{{Thiết kế kiểm thử (Test Design). 
+Tự động hóa kiểm thử (Test Automation). 
+Thực thi kiểm thử (Test Execution). 
+Đánh giá kiểm thử (Test Evaluation)}}
+<. 
+div>
+ANS:Thực thi kiểm thử (Test Execution)
+
+120. Kiểm tra hành vi là?
+<div class="gdoc-paragraph">{{Kiểm thử thành phần. 
+Kiểm thử hộp đen. 
+Kiểm thử hộp trắng. 
+Kiểm thử hộp xám}}
+<. 
+div>
+ANS:Kiểm thử hộp đen
+
+121. Loại kiểm thử nào sau đây không phải là một phần của kiểm thử hệ thống?
+<div class="gdoc-paragraph">{{Kiểm thử hộp xám. 
+Kiểm thử hệ thống. 
+Kiểm thử ngẫu nhiên. 
+Kiểm thử thành phần}}
+<. 
+div>
+ANS:Kiểm thử ngẫu nhiên
+
+122. Phân tích giá trị biên thuộc về?
+<div class="gdoc-paragraph">{{Kiểm thử hộp đen (Black box testing). 
+Kiểm thử hộp trắng (White box testing). 
+Kiểm thử thành phần. 
+Kiểm thử hộp xám (Grey box testing)}}
+<. 
+div>
+ANS:Kiểm thử hộp đen (Black box testing)
+
+123. Trong chiến lược kiểm thử nào sau đây, đơn vị nhỏ nhất có thể kiểm tra được là lớp hoặc đối tượng được đóng gói?
+<div class="gdoc-paragraph">{{Kiểm thử hệ thống. 
+Kiểm thử thành phần. 
+Kiểm thử hộp trắng. 
+Kiểm thử hệ thống}}
+<. 
+div>
+ANS:Kiểm thử thành phần
+
+124. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là quá trình đánh giá kết quả của thử nghiệm và báo cáo cho các nhà phát triển.
+<. 
+div>
+ANS:Đánh giá thử nghiệm
+
+125. Cái nào không phải là một phần của Kiểm tra thông số kỹ thuật?
+<div class="gdoc-paragraph">{{Bảng Quyết định. 
+Kiểm tra ca sử dụng. 
+Kiểm tra Quyết định. 
+Phân vùng tương đương}}
+<. 
+div>
+ANS:Phân vùng tương đương
+
+126. Fault Masking là gì?
+<div class="gdoc-paragraph">{{Tạo một trường hợp thử nghiệm không để lộ lỗi. 
+Điều kiện lỗi ẩn điều kiện lỗi khác. 
+Che dấu lỗi của người thử nghiệm. 
+Che dấu lỗi của nhà phát triển}}
+<. 
+div>
+ANS:Tạo một trường hợp thử nghiệm không để lộ lỗi
+
+127. Khi thực hiện đánh giá kiểm thử, kiến thức nào sau đây là không cần thiết?
+<div class="gdoc-paragraph">{{Kiến thức về tâm lý học.. 
+Kiến thức về giao diện người dùng.. 
+Kiến thức về kiểm thử.. 
+Kiến thức về y học.}}
+<. 
+div>
+ANS:Kiến thức về y học.
+
+128. Thử nghiệm khám phá là gì?
+<div class="gdoc-paragraph">{{Kỹ thuật thiết kế thử nghiệm hộp trắng. 
+Kỹ thuật thiết kế thử nghiệm dựa trên kinh nghiệm. 
+Kỹ thuật thiết kế kiểm tra hộp đen. 
+Kỹ thuật thiết kế kiểm tra hộp xám}}
+<. 
+div>
+ANS:Kỹ thuật thiết kế thử nghiệm dựa trên kinh nghiệm
+
+129. Các trường hợp kiểm tra bắt nguồn từ các ca sử dụng
+<div class="gdoc-paragraph">{{Hữu ích nhất trong việc che phủ các khiếm khuyết trong các dòng quy trình trong quá trình sử dụng hệ thống trong thế giới thực. 
+Hữu ích nhất trong việc phát hiện ra các khiếm khuyết trong các luồng quy trình trong quá trình sử dụng hệ thống trong thế giới thực. 
+Hữu ích nhất trong việc phát hiện ra các khiếm khuyết trong các luồng quy trình trong quá trình sử dụng thử nghiệm hệ thống. 
+Hữu ích nhất trong việc che phủ các khiếm khuyết ở Cấp độ Tích hợp}}
+<. 
+div>
+ANS:Hữu ích nhất trong việc phát hiện ra các khiếm khuyết trong các luồng quy trình trong quá trình sử dụng hệ thống trong thế giới thực
+
+----------------------------
+1. Bạn không nên tự động hóa trường hợp kiểm thử nào?
+<div class="gdoc-paragraph">{{Các bài kiểm tra yêu cầu kiểm tra liên tục.. 
+Các thử nghiệm cần nhiều thời gian hơn để thực hiện.. 
+Các thử nghiệm yêu cầu thử nghiệm đa nền tảng.. 
+Các thử nghiệm không yêu cầu thực hiện lại.}}
+<. 
+div>
+ANS:Các thử nghiệm không yêu cầu thực hiện lại.
+
+2. Các trường hợp kiểm thử được thiết kế trong giai đoạn nào sau đây?
+<div class="gdoc-paragraph">{{Cấu hình kiểm thử.. 
+Đặc điểm kỹ thuật kiểm thử.. 
+Lập kế hoạch kiểm thử.. 
+Ghi âm kiểm thử.}}
+<. 
+div>
+ANS:Đặc điểm kỹ thuật kiểm thử.
+
+3. Cách tiếp cận nào sau đây là tốt nhất cho tự động hóa trong dài hạn?
+<div class="gdoc-paragraph">{{Bắt buộc người kiểm tra thủ công bắt đầu tự động hóa.. 
+Liên kết với các nhà phát triển để bắt đầu tự động hóa.. 
+Gia công các tác vụ tự động hóa cho các nhà cung cấp bên ngoài.. 
+Xây dựng một đội với các thành viên có kỹ năng phát triển.}} 
+<. 
+div>
+ANS:Xây dựng một đội với các thành viên có kỹ năng phát triển.
+
+4. Cách tiếp cận nào sau đây là tốt nhất cho tự động hóa trong dài hạn?
+<div class="gdoc-paragraph">{{Đào tạo người kiểm thử thủ công và bắt đầu tự động hóa. 
+Xây dựng một đội với các thành viên có kỹ năng phát triển. 
+Liên kết với các nhà phát triển để bắt đầu tự động hóa. 
+Gia công các tác vụ tự động hóa cho các nhà cung cấp bên ngoài}}
+<. 
+div>
+ANS:Xây dựng một đội với các thành viên có kỹ năng phát triển
+
+5. Đặc điểm nào sau đây không phải là đặc điểm của công cụ tự động hóa tốt?
+<div class="gdoc-paragraph">{{Hỗ trợ kiểm tra cơ sở dữ liệu.. 
+Tích hợp dễ dàng với các công cụ CI.. 
+Khả năng gỡ lỗi tốt.. 
+Hỗ trợ thử nghiệm đa nền tảng.}}
+<. 
+div>
+ANS:Tích hợp dễ dàng với các công cụ CI.
+
+6. Đâu không không phải là một loại kiểm thử?
+<div class="gdoc-paragraph">{{Kiểm thử bảo mật.. 
+Kiểm thử cơ sở dữ liệu.. 
+Kiểm thử xác nhận.. 
+Kiểm tra chức năng.}}
+<. 
+div>
+ANS:Kiểm thử xác nhận.
+
+7. Đâu không phải là mục tiêu của kiểm thử tự động (Test Automation)?
+<div class="gdoc-paragraph">{{Giúp việc kiểm thử quy hồi dễ dàng hơn bằng cách cho phép thực hiện kiểm thử nhiều lần với chỉ một thao tác nhấn nút.. 
+Giảm chi phí và thời gian kiểm thử.. 
+Giảm thiểu lỗi từ người phát triển.. 
+Giúp chương trình được kiểm thử có nhiều tính năng hơn.}}
+<. 
+div>
+ANS:Giúp chương trình được kiểm thử có nhiều tính năng hơn.
+
+8. Đâu không phải là ưu điểm của kiểm thử tự động?
+<div class="gdoc-paragraph">{{Khả năng lặp.. 
+Khả năng tái sử dụng.. 
+Hiểu hơn về hệ thống.. 
+Độ tin cậy cao.}}
+<. 
+div>
+ANS:Hiểu hơn về hệ thống.
+
+9. Điều nào sau đây không phải là nhược điểm của kiểm thử tự động hóa?
+<div class="gdoc-paragraph">{{Kiểm thử tự động phù hợp để tự động hóa chức năng hiện có.. 
+Kiểm tra tự động có thể bị phá vỡ cho đến khi mã trở nên ổn định.. 
+Kiểm thử tự động không khả thi đối với chức năng mới.. 
+Các tập lệnh tự động có thể cần làm lại nếu chức năng được thực hiện lại.}}
+<. 
+div>
+ANS:Kiểm thử tự động không khả thi đối với chức năng mới.
+
+10. Điều nào sau đây không phải là nhược điểm của kiểm thử tự động?
+<div class="gdoc-paragraph">{{Kiểm thử tự động phù hợp để tự động hóa chức năng hiện có. 
+Các câu lệnh tự động có thể cần làm lại nếu chức năng được thực hiện lại. 
+Kiểm thử tự động không khả thi đối với chức năng mới. 
+Kiểm thử tự động có thể bị phá vỡ cho đến khi mã nguồn ổn định}}
+<. 
+div>
+ANS:Kiểm thử tự động không khả thi đối với chức năng mới
+
+11. Điều nào sau đây không phải là ưu điểm của kiểm thử tự động ?
+<div class="gdoc-paragraph">{{Nó hữu ích cho việc kiểm tra các luồng đầu cuối. 
+Nó có thể giúp xác định các trường hợp kiểm thử ưu tiên cao. 
+Nó có thể phát hiện mức độ nghiêm trọng cao hoặc hiển thị lỗi nút. 
+Nó rất tốt cho việc xác nhận các luồng chức năng}}
+<. 
+div>
+ANS:Nó có thể giúp xác định các trường hợp kiểm thử ưu tiên cao
+
+12. Điều nào sau đây không phải là ưu điểm của kiểm thử tự động?
+<div class="gdoc-paragraph">{{Khả năng bao phủ cao (High coverage).. 
+Khả năng tái sử dụng (Reuseability).. 
+Độ tin cậy cao (Reliability).. 
+Khả năng lặp (Repeatability).}}
+<. 
+div>
+ANS:Khả năng bao phủ cao (High coverage).
+
+13. Điều nào sau đây không phải là yêu cầu tiên quyết cho kiểm thử tự động hóa?
+<div class="gdoc-paragraph">{{Tất cả đều sai.. 
+Mã và ứng dụng ổn định.. 
+Kỹ năng và kinh nghiệm kiểm thử.. 
+Tập lệnh kiểm thử (Test Script) sẵn sàng.}}
+<. 
+div>
+ANS:Tập lệnh kiểm thử (Test Script) sẵn sàng.
+
+14. Điều nào sau đây là ưu điểm của kiểm thử tự động?
+<div class="gdoc-paragraph">{{Khả năng bao phủ cao (High coverage).. 
+Khả năng lặp (Repeatability).. 
+Dễ mở rộng (Easy scalability).. 
+Chi phí cao.}}
+<. 
+div>
+ANS:Khả năng lặp (Repeatability).
+
+15. JUnit có hỗ trợ cơ chế sinh các ca kiểm thử không?
+<div class="gdoc-paragraph">{{. 
+. 
+Có.. 
+Không.}}
+<. 
+div>
+ANS:Không.
+
+16. JUnit là công cụ cho các đơn vị kiểm thử được viết bằng?
+<div class="gdoc-paragraph">{{Java.. 
+Python.. 
+HTML.. 
+C++.}}
+<. 
+div>
+ANS:Java.
+
+17. Khả năng kiểm tra bị chi phối bởi mấy vấn đề thực tế?
+<div class="gdoc-paragraph">{{2. 
+4. 
+3. 
+5}}
+<. 
+div>
+ANS:2
+
+18. Kiểm thử đơn vị (Unit test) được thực hiện bời ai?
+<div class="gdoc-paragraph">{{Người lập trình. 
+Người quản lý dự án. 
+Người kiểm thử. 
+Người phân tích nghiệp vụ}}
+<. 
+div>
+ANS:Người lập trình
+
+19. Kiểm thử dựa trên danh sách kiểm tra có thể dừng nếu
+<div class="gdoc-paragraph">{{Hết thời gian. 
+Không có tài nguyên có sẵn. 
+Mỗi mục trên danh sách kiểm tra được kiểm thử. 
+Mỗi mục trên danh sách kiểm tra được kiểm tra và thông qua (pass)}}
+<. 
+div>
+ANS:Mỗi mục trên danh sách kiểm tra được kiểm tra và thông qua (pass)
+
+20. Kiểm thử hoàn chỉnh là:
+<div class="gdoc-paragraph">{{Không thực tế nhưng có thể.. 
+Không thực tế và không thể.. 
+Luôn có thể.. 
+Thực tế và có thể.}}
+<. 
+div>
+ANS:Không thực tế nhưng có thể.
+
+21. Lý do nào sau đây không phải là lý do hợp lệ để tự động hóa (automating) trường hợp kiểm thử (test case)?
+<div class="gdoc-paragraph">{{Kiểm thử sẽ giúp tiết kiệm thời gian để thực hiện kiểm thử thăm dò(exploratory testing).. 
+iểm thử sẽ cần được thực hiện một lần, nhưng với một tập dữ liệu lớn.. 
+Bài kiểm thử (test) cho kết quả không liên tục và không thể kiểm tra bằng tay.. 
+Tất cả đều sai.}}
+<. 
+div>
+ANS:Bài kiểm thử (test) cho kết quả không liên tục và không thể kiểm tra bằng tay.
+
+22. Lý do nào sau đây không phải là lý do hợp lệ để tự động hóa trường hợp kiểm thử?
+<div class="gdoc-paragraph">{{Kiểm thử sẽ cần được thực hiện 1 lần, nhưng với bộ dữ liệu lớn. 
+Kiểm thử sẽ giúp tiết kiệm thời gian để thực hiện kiểm thử khám phá. 
+Kiểm thử cho kết quả không liên tục và không thể kiểm thử bằng tay. 
+Kiểm thử là quan trọng đối với doanh nghiệp và trường hợp sử dụng điển hình để kiểm thử}}
+<. 
+div>
+ANS:Kiểm thử cho kết quả không liên tục và không thể kiểm thử bằng tay
+
+23. Mục đích của bộ mô phỏng trong kiểm thử tự động là gì?
+<div class="gdoc-paragraph">{{Mô phỏng quá trình thực hiện của chương trình cần kiểm thử.. 
+So sánh giá trị đầu ra thực tế và đầu ra mong muốn của mỗi ca kiểm thử.. 
+Sinh ra các ca kiểm thử.. 
+Kiểm tra việc thực hiện các câu lệnh của chương trình cần kiểm thử.}}
+<. 
+div>
+ANS:Mô phỏng quá trình thực hiện của chương trình cần kiểm thử.
+
+24. Phương thức assertNotNull() thất bại khi nào?
+<div class="gdoc-paragraph">{{Đối tượng không phải Null.. 
+Biểu thức đúng.. 
+Tham chiếu đối tượng Null.. 
+Biểu thức sai.}}
+<. 
+div>
+ANS:Tham chiếu đối tượng Null.
+
+25. Phương thức nào trong JUnit được sử dụng để giúp tránh được việc trùng mã khi nhiều test cùng chia sẻ nhau ở phần khởi tạo và dọn dẹp các biến?
+<div class="gdoc-paragraph">{{Boolean assertNotSame().. 
+Void fail().. 
+Setup() và TearDown().. 
+Boolean assertFalse().}}
+<. 
+div>
+ANS:Setup() và TearDown().
+
+26. Điền vào chỗ trống
+<div class="gdoc-paragraph">Phương thức Void fail() trong JUnit thường được ưu tiên khi xử lý các {{}}().
+<. 
+div>
+ANS:ngoại lệ
+
+27. Tại sao lại thực hiện kiểm thử tự động (Automation testing)?
+<div class="gdoc-paragraph">{{Cải thiện hiệu quả của kiểm thử. 
+Giảm chi phí kiểm thử. 
+Tăng tỷ lệ phát hiện lỗi. 
+Cải thiện chất lượng của mã nguồn}}
+<. 
+div>
+ANS:Cải thiện hiệu quả của kiểm thử
+
+28. Trong một bộ công cụ kiểm thử tự động, công cụ nào cho phép quản lý việc thực hiện\/thực thi các ca kiểm thử?
+<div class="gdoc-paragraph">{{Quản lý kiểm thử.. 
+Sinh giá trị đầu ra mong muốn.. 
+Phân tích động.. 
+Bộ mô phỏng.}}
+<. 
+div>
+ANS:Quản lý kiểm thử.
+
+29. _____—– không phải là Loại thử nghiệm?
+<div class="gdoc-paragraph">{{Kiểm tra chức năng. 
+Kiểm tra bảo mật. 
+Kiểm tra cơ sở dữ liệu. 
+Kiểm tra Tuyên bố}}
+<. 
+div>
+ANS:Kiểm tra cơ sở dữ liệu
+
+30. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là mức độ mà một hệ thống hay một thành phần tạo điều kiện thuận lợi cho việc thiết lập các tiêu chí kiểm thử và thực hiện các kiểm thử để xác định xem các tiêu chí đó đã được đáp ứng chưa.
+<. 
+div>
+ANS:Khả năng kiểm thử phần mềm
+
+31. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là mức độ mà hệ thống tạo điều kiện thuận lợi cho việc thiết lập các tiêu chí thử nghiệm và thực hiện các thử nghiệm đó.
+<. 
+div>
+ANS:Khả năng kiểm tra
+
+32. Lý thuyết số Cyclomatic trong một đồ thị được định nghĩa bởi ________
+<div class="gdoc-paragraph">{{e - n + 1. 
+e - n + 2. 
+e - n - 2. 
+e - n - 1}}
+<. 
+div>
+ANS:e - n + 2
+
+33. Điền vào chỗ trống
+<div class="gdoc-paragraph">Tính {{}}() của phần mềm thể hiện mức độ dễ dàng để chúng ta có thể cung cấp cho phần mềm những đầu vào cần thiết.
+<. 
+div>
+ANS:điều khiển
+
+34. Điền vào chỗ trống
+<div class="gdoc-paragraph">Tính {{}}() của phần mềm thể hiện mức độ dễ dàng để chúng ta có thể theo dõi được trạng thái của phần mềm.
+<. 
+div>
+ANS:quan sát
+
+35. Điền vào chỗ trống
+<div class="gdoc-paragraph">Tính dễ kiểm thử đánh giá bởi bởi tính dễ quan sát và {{}}().
+<. 
+div>
+ANS:dễ điều khiển
+
+36. V&V trong kiểm thử phần mềm được hiểu là thế nào? (Vì đáp án không có nghĩa rõ ràng trong tiếng việt, nên sẽ để tiếng anh).
+<div class="gdoc-paragraph">{{Verified Version.. 
+Verified Version.. 
+Version Validation.. 
+Verification and Validation.}}
+<. 
+div>
+ANS:Verification and Validation.
+
+37. Giá trị cần thiết để xem kết quả của giá trị trường hợp thử nghiệm (test case) là gì?
+<div class="gdoc-paragraph">{{Giá trị thoát (Exit Values). 
+Giá trị hậu tố (Postfix Values). 
+Giá trị xác minh (Verification Values). 
+Giá trị tiền tố (Prefix Values)}}
+<. 
+div>
+ANS:Giá trị xác minh (Verification Values)
+
+38. Kết quả {{mong đợi}} là kết quả được tiến hành bởi các bài kiểm thử nếu như phần mềm có các hành vi giống với mong đợi.
+<div class="gdoc-paragraph">{{. 
+. 
+. 
+}}
+<. 
+div>
+39. Khai niệm bộ kiểm thử là gì?
+<div class="gdoc-paragraph">{{Một kịch bản kiểm thử.. 
+Một tập các ca kiểm thử.. 
+Một tập các giá trị trị đầu vào.. 
+Một tập các ràng buộc của chương trình.}}
+<. 
+div>
+ANS:Một tập các ca kiểm thử.
+
+40. Tiêu chuẩn nào sau đây là tiêu chuẩn kiểm thử thành phần?
+<div class="gdoc-paragraph">{{BS7925-2. 
+BS7925-1. 
+IEEE 829. 
+IEEE 610}}
+<. 
+div>
+ANS:BS7925-2
+
+41. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là một tập hợp các giả định, khái niệm và các công cụ hỗ trợ tự động hóa kiểm tra.
+<. 
+div>
+ANS:Khung kiểm thử
+
+42. Đâu không phải là mô hình kiểm thử tự động (Test Automation Framework)?
+<div class="gdoc-paragraph">{{Hướng hành vi (Behavior-Driven Development Framework).. 
+Hướng dữ liệu (Data-Driven Testing Framework).. 
+Hướng từ khóa (Keyword-Driven Testing Framework).. 
+Hướng đối tượng (Object-Oriented Development Framework).}}
+<. 
+div>
+ANS:Hướng đối tượng (Object-Oriented Development Framework).
+
+43. Khai niệm khung phần mềm kiểm thử tự động là gì?
+<div class="gdoc-paragraph">{{Một chương trình tự động hóa kiểm thử.. 
+Một công cụ chạy ca kiểm thử tự động.. 
+Một tập hợp các công cụ hỗ trợ tự động hóa kiểm thử?. 
+Một tập hợp các giả định, khái niệm và công cụ hỗ trợ tự động hóa kiểm thử.}}
+<. 
+div>
+ANS:Một tập hợp các giả định, khái niệm và công cụ hỗ trợ tự động hóa kiểm thử.
+
+44. Loại trường hợp kiểm thử (test case) nào sau không nên tự động hóa (automation)?
+<div class="gdoc-paragraph">{{Các thử nghiệm cần nhiều thời gian hơn để thực hiện.. 
+Các thử nghiệm thuộc tiêu chuẩn thử nghiệm chấp nhận.. 
+Các thử nghiệm không yêu cầu thực hiện lại.. 
+Các thử nghiệm yêu cầu thử nghiệm đa nền tảng.}} 
+<. 
+div>
+ANS:Các thử nghiệm không yêu cầu thực hiện lại.
+
+45. Câu nào là đúng về các phương thức của JUnit?
+<div class="gdoc-paragraph">{{Tất cả các phương thức đều trả về void.. 
+Các phương thức assume được sử dụng để kiểm tra các giá trị kết quả.. 
+JUnit 5 vẫn sử dụng chú thích (annotations) cho các ngoại lệ.. 
+Các phương thức assert được sử dụng để giới hạn các giá trị đầu vào.}} 
+<. 
+div>
+ANS:Tất cả các phương thức đều trả về void.
+
+46. Câu nào sau đây là đúng về JUnit?
+<div class="gdoc-paragraph">{{JUnit có thể sử dụng hàm main() để chạy các ca kiểm thử.. 
+JUnit có thể sử dụng để viết các ca kiểm thử cho chương trình viết bằng JavaScript.. 
+JUnit không có giao diện đồ hoạ mà chỉ có giao diện dòng lệnh.. 
+JUnit không thể kiểm tra các ngoại lệ do người dùng cài đặt.}}
+<. 
+div>
+ANS:JUnit có thể sử dụng hàm main() để chạy các ca kiểm thử.
+
+47. _____ không phải là Cấp độ Thử nghiệm?
+<div class="gdoc-paragraph">{{Kiểm tra hệ thống. 
+Kiểm tra tích hợp. 
+Kiểm tra chức năng. 
+Kiểm tra chấp nhận}}
+<. 
+div>
+ANS:Kiểm tra hệ thống
+
+48. Chú thích (Annotation) nào sau đây để đánh dấu phương thức được gọi trước khi thực thi mỗi phương thức @Test được gọi?
+<div class="gdoc-paragraph">{{@After. 
+@Before. 
+@BeforeClass. 
+@AfterClass}}
+<. 
+div>
+ANS:@Before
+
+49. Chú thích (Annotation) nào sau đây để đánh dấu phương thức được gọi trước khi thực thi tất cả phương thức @Test được gọi?
+<div class="gdoc-paragraph">{{@AfterClass. 
+@Before. 
+@BeforeClass. 
+@After}}
+<. 
+div>
+ANS:@BeforeClass
+
+50. Chú thích nào định nghĩa một kiểm tra JUnit?
+<div class="gdoc-paragraph">{{@SuppressWarnings. 
+@Before. 
+@After. 
+@Test}}
+<. 
+div>
+ANS:@Test
+
+51. Đâu là một vòng đời của một ca kiểm thử JUnit?
+<div class="gdoc-paragraph">{{@BeforeClass -> @Before -> @Test -> @After -> @AfterClass. 
+@Before -> @BeforeClass -> @Test -> @AfterClass -> @After. 
+@Test -> @BeforeClass -> @Before -> @After -> @AfterClass. 
+@BeforeClass -> @Before -> @After -> @Test-> @AfterClass}}
+<. 
+div>
+ANS:@BeforeClass -> @Before -> @Test -> @After -> @AfterClass
+
+52. Hàm nào thuộc lớp Assert kiểm tra 2 đối tượng cùng trỏ tới một đối tượng?
+<div class="gdoc-paragraph">{{void assertEquals(expected, actual). 
+void assertChecks(Object expected, Object actual). 
+void assertSame(expected, actual). 
+void assert(expected, actual)}}
+<. 
+div>
+ANS:void assertSame(expected, actual)
+
+53. Junit không được sử dụng để kiểm thử yếu tố nào?
+<div class="gdoc-paragraph">{{Một biến dữ liệu.. 
+Một phần của đối tượng. VD: một công thức hay nhiều công thức phối hợp lẫn nhau.. 
+Toàn bộ một đối tượng.. 
+Sự phối hợp giữa các đối tượng.}}
+<. 
+div>
+ANS:Một biến dữ liệu.
+
+54. Điền vào chỗ trống
+<div class="gdoc-paragraph">JUnit là công cụ giúp kiểm thử {{}}().
+<. 
+div>
+ANS:tự động
+
+55. JUnit là gì?
+<div class="gdoc-paragraph">{{Thuật toán tìm đường.. 
+Công cụ giúp kiểm thử tự động.. 
+Phần mềm giúp soạn thảo văn bản khoa học.. 
+Phần mềm hỗ trợ tính toán.}}
+<. 
+div>
+ANS:Công cụ giúp kiểm thử tự động.
+
+56. Lớp Assert nào sẽ so sánh và kiểm tra 2 giá trị đầu vào?
+<div class="gdoc-paragraph">{{assertEquals(). 
+assertFalse(). 
+assertTrue(). 
+assertCheck()}}
+<. 
+div>
+ANS:assertEquals()
+
+57. Một lớp kiểm thử không bao gồm những gì?
+<div class="gdoc-paragraph">{{Chương trình được kiểm thử. 
+Phương thức để thiết lập trạng thái của chương trình trước khi chạy kiểm thử. 
+Phương thức để cập nhật trạng thái chương trình sau kiểm thử. 
+Một tập hợp các phương thức kiểm thử}}
+<. 
+div>
+ANS:Chương trình được kiểm thử
+
+58. Điền vào chỗ trống
+<div class="gdoc-paragraph">Phương thức {{}}() gọi mỗi lần trước mỗi ca kiểm thử.
+<. 
+div>
+ANS:@Before
+
+59. Ý kiến nào sau đây sai về JUnit?
+<div class="gdoc-paragraph">{{JUnit tự động sửa lỗi trong mã nguồn, giúp tiết kiệm thời gian kiểm thử và phát triển phần mềm.. 
+JUnit giúp phát triển mã nguồn dễ đọc, đáng tin cậy và hạn chế lỗi hơn, từ đó tạo sự tự tin trong quá trình phát triển.. 
+JUnit giúp phát hiện được lỗi sớm trong mã nguồn.. 
+JUnit hữu ích cho các nhà phát triển làm việc trong môi trường phát triển hướng kiểm thử (Test Driven Development).}}
+<. 
+div>
+ANS:JUnit tự động sửa lỗi trong mã nguồn, giúp tiết kiệm thời gian kiểm thử và phát triển phần mềm.
+
+60. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là phương pháp viết kiểm thử một lần rồi sau đó cung cấp giá trị dữ liệu qua một bảng.
+<. 
+div>
+ANS:Kiểm thử dựa trên dữ liệu
+
+61. Đâu là nhược điểm của mô hình kiểm thử hướng dữ liệu (Data-Driven Testing Framework)?
+<div class="gdoc-paragraph">{{Tập các bộ kiểm thử không tách biệt với mã kiểm thử.. 
+Dữ liệu kiểm thử không thể thay đổi độc lập với các kịch bản kiểm thử (test script).. 
+Không cho phép các kịch bản kiểm thử (test script) làm việc với nhiều bộ dữ liệu kiểm thử trong quá trình kiểm thử hồi quy.. 
+Người kiểm thử phải có kĩ năng lập trình nhất định.}} 
+<. 
+div>
+ANS:Người kiểm thử phải có kĩ năng lập trình nhất định.
+
+----------------------------
+1. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() đảm bảo rằng phần mềm luôn được thỏa mãn các ca kiểm thử mỗi khi có cập nhật mới.  
+<. 
+div>
+ANS:Tích hợp liên tục
+
+2. Đâu không phải là ưu điểm của tích hợp liên tục?
+<div class="gdoc-paragraph">{{Các sai lầm (mistakes) diễn ra muộn hơn.. 
+Tích hợp liên tục giúp giảm thiểu rủi ro.. 
+Các bước xây dựng lại và xác minh lại phải diễn ra càng sớm càng tốt. Do vậy, các ca kiểm thử cần được thực thi nhanh chóng.. 
+Những người phát triển khác biết về sự thay đổi sớm hơn (tăng độ nhất quán).}}
+<. 
+div>
+ANS:Các sai lầm (mistakes) diễn ra muộn hơn.
+
+3. Hạn chế của kiểm thử dựa trên danh sách kiểm tra (checklist) là gì?
+<div class="gdoc-paragraph">{{Nó không có đủ thông tin để tái kiểm tra. 
+Nó bao gồm các cấp độ khác nhau của thử nghiệm. 
+Nó rất dễ dàng để chuẩn bị. 
+Nó có thể được sử dụng để hỗ trợ nhiều loại hình kiểm thử hộp trắng}}
+<. 
+div>
+ANS:Nó không có đủ thông tin để tái kiểm tra
+
+4. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là phương pháp giúp phần mềm bắt đầu từ nhỏ và tiến hóa theo thời gian thay vì chiến đấu với nó.
+<. 
+div>
+ANS:Phương pháp linh hoạt (Agile)
+
+5. Điền vào chỗ trống
+<div class="gdoc-paragraph">Công nghệ phần mềm truyền thống tập trung chủ yếu vào mô hình hóa mở rộng và {{}}() với mục đích là để làm bộc lộ những vấn đề và những thay đổi tiềm ẩn càng sớm càng tốt.
+<. 
+div>
+ANS:phân tích trả trước
+
+6. Trong những ngày đầu của kỹ thuật phần mềm, lĩnh vực này đã tạo ra hai các giả định để cho phép kỹ thuật phần mềm truyền thống chế ngự hiệu quả đường cong chi phí thay đổi, đó là những giả định nào?
+<div class="gdoc-paragraph">{{Cả 2 đáp án 1 và 2. 
+Không có phải cả 2 đáp án 1 và 2. 
+Kỹ thuật mô hình hóa và phân tích có thể xác định tiềm năng một cách hiệu quả các vấn đề và thay đổi sớm trong vòng đời.. 
+Khoản tiết kiệm được ngụ ý bởi đường cong chi phí thay đổi biện minh cho chi phí các kỹ thuật mô hình hóa và phân tích, khi được xem xét về vào tổng chi phí sở hữu trong suốt thời gian tồn tại của dự án.}}
+<. 
+div>
+ANS:Cả 2 đáp án 1 và 2
+
+7. Đâu không phải là loại kiểm thử Test-Driven Development?
+<div class="gdoc-paragraph">{{Kiểm thử chấp nhận (Acceptance Testing).. 
+Kiểm thử tích hợp (Integration Testing).. 
+Kiểm thử đơn vị (Unit Testing).. 
+Kiểm thử hệ thống (System Testing).}}
+<. 
+div>
+ANS:Kiểm thử hệ thống (System Testing).
+
+8. Đâu là nhược điểm của phát triển hướng kiểm thử (Test-Driven Development)?
+<div class="gdoc-paragraph">{{Việc tái cấu trúc lại mã nguồn mất nhiều thời gian.. 
+Việc tái cấu trúc khiến việc thiết kế các đoạn mã khó khăn hơn.. 
+Phải cập nhật lại các ca kiểm thử khi yêu cầu thay đổi.. 
+Chi phí của các lỗi khi được phát hiện sớm cao.}}
+<. 
+div>
+ANS:Phải cập nhật lại các ca kiểm thử khi yêu cầu thay đổi.
+
+9. Ở cấp độ rộng nhất, các phương pháp nhanh (agile methods) bao gồm đạt được kết quả cuối cùng chính (achieving key end results) là những gì?
+<div class="gdoc-paragraph">{{working software, responsiveness to change (phần mềm hoạt động, khả năng đáp ứng với sự thay đổi). 
+nhóm phát triển hiệu quả và khách hàng hài lòng. Trong khi điều này rộng (effective development teams, and happy customers). 
+Cả 2 đáp án 1 và 2. 
+Không có phải cả 2 đáp án 1 và 2}}
+<. 
+div>
+ANS:Cả 2 đáp án 1 và 2
+
+10. Tại sao chi phí phát triển ngày càng tăng?
+<div class="gdoc-paragraph">{{Không phải cả 2 đáp án 1 và 2. 
+Một vấn đề thứ hai là phần mềm phát triển càng khó tìm ra nguyên nhân gốc rễ của lỗi. 
+Cả 2 đáp án 1 và 2. 
+Các lý do chính cho chi phí ngày càng tăng là công việc bổ sung là được đầu tư phụ thuộc vào quyết định ban đầu và công việc này cũng phải sửa đổi nếu quyết định ban đầu được sửa đổi}}
+<. 
+div>
+ANS:Cả 2 đáp án 1 và 2
+
+11. Kiểm thử mô hình Agile yêu cầu phần mềm bắt đầu đơn giản và {{tiến hóa}} theo thời gian.
+<div class="gdoc-paragraph">{{. 
+. 
+. 
+}}
+<. 
+div>
+12. Điền vào chỗ trống
+<div class="gdoc-paragraph">Kiểm thử trong mô hình {{}}() chỉ kiểm thử một số giá trị đại diện của phần mềm.
+<. 
+div>
+ANS:Agile
+
+13. Điền vào chỗ trống
+<div class="gdoc-paragraph">Trong phương thức Agile, {{}}() là đặc tả thực tế cho hệ thống.
+<. 
+div>
+ANS:các trường hợp thử nghiệm
+
+14. _____ có phải là Người kiểm tra Kiểm thử Hệ thống không?
+<div class="gdoc-paragraph">{{Người kiểm tra độc lập. 
+Nhà phân tích kinh doanh. 
+Khách hàng. 
+Nhà phát triển}}
+<. 
+div>
+ANS:Nhà phát triển
+
+15. Một máy chủ tích hợp liên tục thực hiện những công việc nào khi có cập nhật mới trong kho lưu trữ?
+<div class="gdoc-paragraph">{{Xây dựng lại hệ thống, trả về và xác minh lại những ca kiểm thử.. 
+Kiểm tra hệ thống, xây dựng lại và thực thi lại những ca kiểm thử.. 
+Kiểm tra lại yêu cầu, xây dựng lại và thực thi lại những ca kiểm thử.. 
+Xây dựng lại, trả về và thực thi những ca kiểm thử.}} 
+<. 
+div>
+ANS:Xây dựng lại hệ thống, trả về và xác minh lại những ca kiểm thử.
+
+16. Điền vào chỗ trống
+<div class="gdoc-paragraph">Tích hợp {{}}() đảm bảo rằng phần mềm luôn được thỏa mãn các ca kiểm thử mỗi khi có cập nhật mới. 
+<. 
+div>
+ANS:liên tục
+
+17. Điền vào chỗ trống
+<div class="gdoc-paragraph">Trong tích hợp liên tục (Continuos Integration), mỗi sự tích hợp sẽ được kiểm định lại bởi một build tự động để phát hiện ra {{}}() càng sớm càng tốt.
+<. 
+div>
+ANS:lỗi tích hợp
+
+18. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là quá trình hệ thống sẽ được tái xây dựng và tái kiểm thử mỗi khi có một thay đổi nào được đẩy (commit) vào mã nguồn.
+<. 
+div>
+ANS:Tích hợp liên tục
+
+19. Các phương pháp Agile mong đợi phần mềm ____
+<div class="gdoc-paragraph">{{bắt đầu lớn và phát triền đều. 
+bắt đầu nhỏ và phát triển theo thời gian. 
+bắt đầu nhỏ và phát triển đều. 
+bắt đầu lớn và phát triền đều}}
+<. 
+div>
+ANS:bắt đầu nhỏ và phát triển theo thời gian
+
+20. Chiến lược nào sau đây là một chiến lược của kiểm thử hộp đen?
+<div class="gdoc-paragraph">{{Điều khiển cấu trúc bao phủ.. 
+Bao phủ tất cả đường đi.. 
+Xây dựng đồ thị nhân-quả.. 
+Bao phủ tất cả các câu lệnh.}} 
+<. 
+div>
+ANS:Xây dựng đồ thị nhân-quả.
+
+21. Đặc điểm nào sau đây không phải của câu chuyện người dùng (user stories)?
+<div class="gdoc-paragraph">{{Không được lưu trữ.. 
+Hướng đến ngôn ngữ của người dùng cuối (end user).. 
+Chi tiết và mô tả rõ các yêu cầu bằng ngôn ngữ kỹ thuật.. 
+Quy mô nhỏ và ít chi tiết.}}
+<. 
+div>
+ANS:Chi tiết và mô tả rõ các yêu cầu bằng ngôn ngữ kỹ thuật.
+
+22. Hoạt động nào không phải là hoạt động SQA?
+<div class="gdoc-paragraph">{{Kiểm thử hộp đen.. 
+Kiểm thử đơn vị.. 
+Kiểm thử hội nhập.. 
+Kiểm thử hộp trắng.}}
+<. 
+div>
+ANS:Kiểm thử hộp trắng.
+
+23. Hộp nào xác định hành vi của một hệ thống hoặc một phần của hệ thống?
+<div class="gdoc-paragraph">{{Hộp rõ ràng (Clear box).. 
+Không có ý nào đúng.. 
+Hộp đen (Black box).. 
+Hộp trạng thái (State box).}}
+<. 
+div>
+ANS:Hộp đen (Black box).
+
+24. Khái niệm hộp đen dựa trên (các) giả định rằng:
+<div class="gdoc-paragraph">{{Hệ thống siêu ổn định.. 
+Tất cả các ý trên.. 
+Hộp đen phụ thuộc vào môi trường.. 
+Mối quan hệ giữa đầu vào và đầu ra ổn định.}}
+<. 
+div>
+ANS:Hệ thống siêu ổn định.
+
+25. Kiểm thử hệ thống là một:
+<div class="gdoc-paragraph">{{Kiểm thử hộp trắng.. 
+Kiểm thử hộp đen.. 
+Kiểm thử hộp xám.. 
+Kiểm thử hộp đen và kiểm thử hộp trắng.}}
+<. 
+div>
+ANS:Kiểm thử hộp đen.
+
+26. Kiểm thử hộp trắng có thể được bắt đầu:
+<div class="gdoc-paragraph">{{Sau khi thiết kế.. 
+Sau khi cài đặt.. 
+Sau khi tạo SRS.. 
+Sau khi lập trình.}}
+<. 
+div>
+ANS:Sau khi lập trình.
+
+27. Kỹ thuật kiểm thử hộp đen nào phù hợp với mọi cấp độ kiểm thử?
+<div class="gdoc-paragraph">{{Đảm bảo chất lượng.. 
+Kiểm tra hồi quy.. 
+Phân vùng tương đương.. 
+Kiểm tra chấp nhận.}}
+<. 
+div>
+ANS:Phân vùng tương đương.
+
+28. Kỹ thuật nào sau đây được áp dụng để kiểm thử khả năng sử dụng (usability testing) của phần mềm?
+<div class="gdoc-paragraph">{{Kiểm thử hộp đen.. 
+Tất cả các kỹ thuật trên.. 
+Kiểm thử hộp xám.. 
+Kiểm thử hộp trắng.}}
+<. 
+div>
+ANS:Kiểm thử hộp đen.
+
+29. Một nhược điểm của kiểm thử nhanh (Agile Testing) là gì?
+<div class="gdoc-paragraph">{{Kiểm thử nhanh sẽ khiến nhóm phát triển tin tưởng vào hệ thống mà họ phát triển.. 
+Kiểm thử nhanh bao phủ tất cả các trường hợp có thể xảy ra của hệ thống.. 
+Kiểm thử nhanh chỉ tập trung vào kiểm thử hệ thống trong điều kiện sử dụng bình thường, không tập trung vào các trường hợp đặc biệt.. 
+Kiểm thử nhanh tìm được tất cả các lỗi của chương trình.}}
+<. 
+div>
+ANS:Kiểm thử nhanh chỉ tập trung vào kiểm thử hệ thống trong điều kiện sử dụng bình thường, không tập trung vào các trường hợp đặc biệt.
+
+30. Những điều sau đây là một phần của kiểm thử hệ thống?
+<div class="gdoc-paragraph">{{Kiểm thử khả năng sử dụng.. 
+Kiểm thử dựa vào yêu cầu.. 
+Tất cả những điều trên là đúng.. 
+Kiểm thử hiệu năng, kiểm thử tốc độ tải và kiểm thử khả năng chịu tải.}}
+<. 
+div>
+ANS:Kiểm thử hiệu năng, kiểm thử tốc độ tải và kiểm thử khả năng chịu tải.
+
+31. Phân tích giá trị biên thuộc về loại kiểm thử nào?
+<div class="gdoc-paragraph">{{Kiểm thử hộp đen.. 
+Không thuộc loại nào cả.. 
+Kiểm thử hộp trắng.. 
+Kiểm thử hộp trắng và hộp đen.}}
+<. 
+div>
+ANS:Kiểm thử hộp đen.
+
+32. Phát triển phần mềm dựa trên kiểm thử (Test-driven Development) là gì?
+<div class="gdoc-paragraph">{{Là quá trình mà mình viết chức năng cho hệ thống mà không quan tâm tới kiểm thử.. 
+Là quá trình mà mình phải viết đoạn mã chức năng rồi kiểm thử đoạn mã đó.. 
+Là quá trình mà mình viết bộ kiểm thử mà không quan tâm tới chức năng.. 
+Là quá trình mà trước tiên mình phải viết một bộ kiểm thử mà chương trình chạy không đúng trước khi viết chức năng phù hợp với bộ kiểm thử đấy.}}
+<. 
+div>
+ANS:Là quá trình mà trước tiên mình phải viết một bộ kiểm thử mà chương trình chạy không đúng trước khi viết chức năng phù hợp với bộ kiểm thử đấy.
+
+33. Quá trình hệ thống sẽ được tái xây dựng và tái kiểm thử mỗi khi có một thay đổi nào được đẩy (push) vào mã nguồn là gì?
+<div class="gdoc-paragraph">{{Kiểm thử chấp nhận (Acceptance testing).. 
+Tích hợp liên tục (Continuous Integration).. 
+Kiểm thử tự động (Automation testing).. 
+Chuyển giao liên tục (Continuous Delivery).}}
+<. 
+div>
+ANS:Tích hợp liên tục (Continuous Integration).
+
+34. Sự khác biệt chính giữa kiểm thử chương trình và kiểm thử hệ thống là gì?
+<div class="gdoc-paragraph">{{Kiểm thử chương trình toàn diện hơn kiểm thử hệ thống.. 
+Kiểm thử hệ thống rất khó còn kiểm thử chương trình rất dễ.. 
+Không có đáp án nào ở trên.. 
+Kiểm thử hệ thống tập trung vào kiểm tra giao diện giữa các chương trình, kiểm thử chương trình tập trung vào các chương trình riêng lẻ.}}
+<. 
+div>
+ANS:Kiểm thử hệ thống tập trung vào kiểm tra giao diện giữa các chương trình, kiểm thử chương trình tập trung vào các chương trình riêng lẻ.
+
+35. Thứ tự các Cấp độ Kiểm tra được thực hiện là?
+<div class="gdoc-paragraph">{{Nó phụ thuộc vào bản chất của một dự án. 
+Đơn vị, Tích hợp, Hệ thống, Chấp nhận. 
+Đơn vị, Hệ thống, Tích hợp, Chấp nhận. 
+Đơn vị, Tích hợp, Chấp nhận, Hệ thống}}
+<. 
+div>
+ANS:Đơn vị, Tích hợp, Chấp nhận, Hệ thống
+
+36. Tích hợp liên tục (Continuous Integration) là gì?
+<div class="gdoc-paragraph">{{Là quá trình mà người lập trình phải tự tay xây dựng lại hệ thống mỗi khi có thay đổi được đẩy vào mã nguồn.. 
+Là quá trình hệ thống được tái kiểm thử mỗi khi có một thay đổi được đẩy vào mã nguồn.. 
+Là quá trình hệ thống được tái xây dựng mỗi khi có một thay đổi được đẩy vào mã nguồn.. 
+Là quá trình hệ thống sẽ được tái xây dựng và tái kiểm thử mỗi khi có một thay đổi nào được đẩy (commit) vào mã nguồn.}}
+<. 
+div>
+ANS:Là quá trình hệ thống sẽ được tái xây dựng và tái kiểm thử mỗi khi có một thay đổi nào được đẩy (commit) vào mã nguồn.
+
+37. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là quá trình cải tiến code có thể kiểm soát được mà không tạo ra chức năng mới.
+<. 
+div>
+ANS:Cải tiến
+
+38. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là một cách để sửa đổi (và hi vọng sẽ cải thiện) cấu trúc của mã hiện có mà không thay đổi hành vi của mã đó.
+<. 
+div>
+ANS:Tái cấu trúc
+
+39. Trong thiết kế hướng kiểm thử, khi một thay đổi được thực hiện, kiểm thử viên sẽ làm gì?
+<div class="gdoc-paragraph">{{Hủy dự án.. 
+Không làm gì.. 
+Thêm một ca kiểm thử ứng với thay đổi đó. 
+Xóa phần mềm.}} 
+<. 
+div>
+ANS:Thêm một ca kiểm thử ứng với thay đổi đó
+
+40. Đâu không phải là nhược điểm của quá trình kiểm thử trong mô hình Agile ?
+<div class="gdoc-paragraph">{{Có khó khăn ban đầu trong quá trình chuyển đổi.. 
+Công việc kiểm thử tay nhàm chán, độ đồng hóa không cao.. 
+Không giúp cải tiến mã nguồn.. 
+Khó kiểm soát sai sót của chương trình nếu chương trình được chạy theo cách không bình thường.}}
+<. 
+div>
+ANS:Công việc kiểm thử tay nhàm chán, độ đồng hóa không cao.
+
+41. Phát triển theo hướng kiểm thử có khả năng nào?
+<div class="gdoc-paragraph">{{Khiến cho lập trình viên thấy yên tâm là phần mềm ổn định. 
+Tìm được nhiều lỗi nhất. 
+Dễ dàng thêm kiểm thử TDD cho mỗi lần cải tiến. 
+Bao hàm toàn bộ mã nguồn}}
+<. 
+div>
+ANS:Dễ dàng thêm kiểm thử TDD cho mỗi lần cải tiến
+
+----------------------------
+1. Câu nào sau đây đúng khi nói về kiểm thử truyền thống (traditional testing)?
+<div class="gdoc-paragraph">{{Kiểm thử truyền thống được thực hiện khá nhanh.. 
+Kiểm thử truyền thống tiết kiệm chi phí. 
+Kiểm thử truyền thống tiết kiệm nhân lực. 
+Nhược điểm chính của kiểm thử truyền thống là tốn nhân lực và tốn thời gian}}
+<. 
+div>
+ANS:Nhược điểm chính của kiểm thử truyền thống là tốn nhân lực và tốn thời gian
+
+2. Chiến lược kiểm thử hộp trắng sử dụng phương pháp kiểm thử nào sau đây?
+<div class="gdoc-paragraph">{{Kiểm thử dòng dữ liệu.. 
+Kiểm thử dòng điều khiển.. 
+Kiểm thử tự động.. 
+Kiểm thử dựa trên mô hình.}}
+<. 
+div>
+ANS:Kiểm thử dòng điều khiển.
+
+3. Kỹ thuật kiểm thử nào sau đây thuộc kiểm thử hộp đen?
+<div class="gdoc-paragraph">{{Kỹ thuật phân lớp tương đương.. 
+Kiểm thử dựa trên luồng điều khiển.. 
+Kiểm thử đột biến.. 
+Kiểm thử đường cơ bản - Đồ thị dòng.}}
+<. 
+div>
+ANS:Kỹ thuật phân lớp tương đương.
+
+4. Kỹ thuật kiểm thử nào sau đây thuộc kiểm thử hộp trắng?
+<div class="gdoc-paragraph">{{Kỹ thuật phân tích các giá trị biên.. 
+Kỹ thật phân tích vùng miền.. 
+Kỹ thuật phân tích các giá trị biên.. 
+Kiểm thử đường cơ bản - Đồ thị dòng.}}
+<. 
+div>
+ANS:Kiểm thử đường cơ bản - Đồ thị dòng.
+
+5. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() được đo bằng tỉ lệ giữa số các yêu cầu kiểm thử được thỏa mãn bởi tập kiểm thử T và kích thước của tập yêu cầu kiểm thử TR.
+<. 
+div>
+ANS:Mức độ bao phủ
+
+6. Điền vào chỗ trống
+<div class="gdoc-paragraph">Các điều kiện bao phủ (Coverage Criterion) thường có liên hệ với nhau, và được so sánh trên phương diện {{}}().
+<. 
+div>
+ANS:quan hệ bao hàm
+
+7. Cho một bộ yêu cầu kiểm thử TR và một bộ kiểm thử T thỏa mãn mọi yêu cầu, T là nhỏ nhất khi:
+<div class="gdoc-paragraph">{{Nếu không có một bộ kiểm thử nào bao hàm nó.. 
+Nếu không có bộ kiểm thử nào nhỏ hơn mà cũng thỏa mãn toàn bộ yêu cầu kiểm thử.. 
+Nó chỉ có một bộ kiểm thử thỏa mãn yêu cầu.. 
+Nếu loại bỏ bất cứ kiểm thử nào trong T sẽ khiến cho T không còn thỏa mãn mọi yêu cầu.}}
+<. 
+div>
+ANS:Nếu không có bộ kiểm thử nào nhỏ hơn mà cũng thỏa mãn toàn bộ yêu cầu kiểm thử.
+
+8. Đâu là thước đo để đánh giá mã nguồn sau khi đã thực hiện các ca kiểm thử?
+<div class="gdoc-paragraph">{{Bao phủ thay đổi. 
+Bao phủ mã nguồn. 
+Bao phủ quy tắc. 
+Thay đổi dư thừa}}
+<. 
+div>
+ANS:Bao phủ mã nguồn
+
+9. Đâu là tiêu chuẩn phủ tốt nhất theo chuẩn công nghiệp?
+<div class="gdoc-paragraph">{{MCCD.. 
+MMDC.. 
+MCDC.. 
+MCPD.}}
+<. 
+div>
+ANS:MCDC.
+
+10. Độ bao phủ dòng lệnh (Statement Coverage) sẽ không kiểm tra yếu tố nào sau đây?
+<div class="gdoc-paragraph">{{Các nhánh chưa được sử dụng.. 
+Các câu lệnh chưa được sử dụng.. 
+Mã chết (Dead Code).. 
+Các câu lệnh bị thiếu.}}
+<. 
+div>
+ANS:Các câu lệnh bị thiếu.
+
+11. Đối tượng nào sau đây thường ưu tiên việc tạo các giá trị thử nghiệm bên ngoài và đo lường dựa trên tiêu chí?
+<div class="gdoc-paragraph">{{Các tập đoàn và doanh nghiệp.. 
+Các hộ gia đình.. 
+Các sinh viên công nghệ. 
+Các nhà nghiên cứu cộng đồng.}}
+<. 
+div>
+ANS:Các tập đoàn và doanh nghiệp.
+
+12. Đối tượng nào sau đây thường ưu tiên việc trực tiếp tạo các giá trị thử nghiệm để đáp ứng tiêu chí?
+<div class="gdoc-paragraph">{{Các nhà quản lý dự án.. 
+Các tập đoàn, doanh nghiệp.. 
+Các bên nghiên cứu trong cộng đồng.. 
+Các điều tra viên.}}
+<. 
+div>
+ANS:Các bên nghiên cứu trong cộng đồng.
+
+13. Điền vào chỗ trống
+<div class="gdoc-paragraph">Mã nguồn {{}}() được coi là một mô hình.
+<. 
+div>
+ANS:không
+
+14. Mức độ bao phủ (Coverage level) là gì?
+<div class="gdoc-paragraph">{{Là số lượng yêu cầu thử nghiệm được thỏa mãn.. 
+Là tỷ lệ giữa kích thước của TR so với số lượng yêu cầu thử nghiệm được thỏa mãn.. 
+Là kích thước của TR.. 
+Là tỷ lệ giữa số lượng yêu cầu thử nghiệm được thỏa mãn so với kích thước của TR.}}
+<. 
+div>
+ANS:Là tỷ lệ giữa số lượng yêu cầu thử nghiệm được thỏa mãn so với kích thước của TR.
+
+15. Tại sao ta sử dụng tiêu chuẩn bao phủ?
+<div class="gdoc-paragraph">{{Vì chúng ta không thể kiểm thử với mọi đầu vào.. 
+Tiêu chuẩn bao phủ có thể giảm tối đa rủi ro.. 
+Vì chúng ta sẽ kiểm thử được mọi trường hợp.. 
+Vì có thể đếm được hết các tiêu chuẩn bao phủ.}}
+<. 
+div>
+ANS:Vì chúng ta không thể kiểm thử với mọi đầu vào.
+
+16. Trong các đặc điểm trên đâu là đặc điểm của một tiêu chí bao phủ tốt?
+<div class="gdoc-paragraph">{{Hiệu quả để tạo các giá trị thử nghiệm.. 
+Dễ dàng để tính toán các yêu cầu kiểm tra một cách tự động.. 
+Các bài kiểm tra kết quả phải tiết lộ càng nhiều lỗi càng tốt.. 
+Cả 3 đặc điểm trên.}}
+<. 
+div>
+ANS:Cả 3 đặc điểm trên.
+
+17. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là một quy tắc hoặc một tập hợp các quy tắc áp đặt các yêu cầu kiểm thử lên các bộ kiểm thử.
+<. 
+div>
+ANS:Tiêu chí bao phủ
+
+18. Cho 3 điều kiện bao phủ C1 nằm trong C2 nằm trong C3. Biết rằng bộ kiểm thử T1, T2, T3 lần lượt thoả mãn C1, C2, C3 trên cùng một chương trình P. Điều kiện nào sau đây sai?
+<div class="gdoc-paragraph">{{T2 cần thoả mãn C3. 
+T1 cần thoả mãn C3. 
+T2 cần thoả mãn C1. 
+T1 cần thoả mãn C2}}
+<. 
+div>
+ANS:T2 cần thoả mãn C1
+
+19. Đâu không phải là lợi ích từ việc sử dụng các tiêu chuẩn bao phủ?
+<div class="gdoc-paragraph">{{Xây dựng nên các chương trình tốt hơn.. 
+Tiết kiệm chi phí phát triển phần mềm.. 
+Tìm ra nhiều hơn các lỗi trong phần mềm.. 
+Phát triển phần mềm nhanh hơn để đưa đến cho khách hàng.}}
+<. 
+div>
+ANS:Phát triển phần mềm nhanh hơn để đưa đến cho khách hàng.
+
+20. Đâu không phải là mục đích của việc sử dụng tiêu chuẩn bao phủ?
+<div class="gdoc-paragraph">{{Kiểm thử phần mềm theo phương pháp truyền thống tốn nhiều tài nguyên.. 
+Tiêu chuẩn bao phủ tăng khả năng phát hiện lỗi cho nhân viên kiểm thử.. 
+Đảm bảo phần mềm đạt chất lượng tốt, đáng tin cậy hơn.. 
+Để sinh ra được càng nhiều ca kiểm thử có thể, nhằm bao phủ được toàn bộ chương trình.}}
+<. 
+div>
+ANS:Để sinh ra được càng nhiều ca kiểm thử có thể, nhằm bao phủ được toàn bộ chương trình.
+
+21. Đâu không phải là rào cản để áp dụng kiểm thử dựa trên tiêu chí?
+<div class="gdoc-paragraph">{{Am hiểu sâu rộng về kiểm thử.. 
+Thiếu khả năng sử dụng công cụ.. 
+Thiếu kiến thức về kiểm thử.. 
+Các công cụ yếu kém và không hiệu quả.}}
+<. 
+div>
+ANS:Am hiểu sâu rộng về kiểm thử.
+
+22. Đâu không phải ưu điểm của việc áp dụng kiểm thử tự động và kiểm thử dựa theo tiêu chí?
+<div class="gdoc-paragraph">{{Kiểm thử viên cần làm việc thủ công.. 
+Tiết kiệm chi phí.. 
+Xây dựng phần mềm chất lượng hơn.. 
+Tìm được nhiều lỗi hơn.}}
+<. 
+div>
+ANS:Kiểm thử viên cần làm việc thủ công.
+
+23. Điền vào chỗ trống
+<div class="gdoc-paragraph">Khi lựa chọn tiêu chí kiểm thử, kiểm thử viên cần cân bằng giữa {{}}() và {{}}() của các tiêu chí dựa trên phần mềm được kiểm thử.
+<. 
+div>
+ANS:chi phí,hiệu quả
+
+24. Khi lựa chọn tiêu chí kiểm thử, kiểm thử viên cần cân bằng giữa các tiêu chí nào?
+<div class="gdoc-paragraph">{{Thời gian.. 
+Chi phí.. 
+Độ hiệu quả.. 
+Chi phí và độ hiệu quả.}}
+<. 
+div>
+ANS:Chi phí và độ hiệu quả.
+
+25. Điền vào chỗ trống
+<div class="gdoc-paragraph">Một trong những ưu điểm của thiết kế ca kiểm thử dựa trên {{}}() là thuận tiền hơn để tự động hóa.
+<. 
+div>
+ANS:tiêu chí
+
+26. Yếu tố nào sau đây có thể được sử dụng để đánh giá các tiêu chí về độ bao phủ?
+<div class="gdoc-paragraph">{{Số ca kiểm thử được sinh ra.. 
+Kết quả đầu ra khi kiểm thử.. 
+Thời gian thực thi kiểm thử.. 
+Mức độ hiệu quả khi đưa vào kiểm thử.}}
+<. 
+div>
+ANS:Mức độ hiệu quả khi đưa vào kiểm thử.
+
+----------------------------
+1. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là tất cả các đầu vào có thể có của một chương trình.
+<. 
+div>
+ANS:Không gian đầu vào
+
+2. Điền vào chỗ trống
+<div class="gdoc-paragraph">{{}}() là tất cả đầu vào có thể có cho một chương trình. 
+<. 
+div>
+ANS:Miền đầu vào
+
+3. Bước thứ năm của mô hình hóa miền đầu vào (IDM) là?
+<div class="gdoc-paragraph">{{Làm mịn tổ hợp các khối thành các đầu vào kiểm thử.. 
+Áp dụng tiêu chí kiểm thử để lựa chọn các tổ hợp giá trị.. 
+Mô hình hóa miền đầu vào.. 
+Tìm tất cả các tham số.}}
+<. 
+div>
+ANS:Làm mịn tổ hợp các khối thành các đầu vào kiểm thử.
+
+4. D720=
+<div class="gdoc-paragraph">{{3. 
+4. 
+5. 
+2}}
+<. 
+div>
+ANS:2
+
+5. Đâu không là lợi ích của phân vùng không gian đầu vào?
+<div class="gdoc-paragraph">{{Tiện tích trong kiểm thử.. 
+Không cần kiến thức triển khai.. 
+Dễ dàng áp dụng mà không cần tự động hóa.. 
+Ở một số cấp độ thử nghiệm có thể áp dụng như nhau.}} 
+<. 
+div>
+ANS:Tiện tích trong kiểm thử.
+
+6. Đâu không phải là lợi ích của kiểm thử phân hoạch không gian đầu vào?
+<div class="gdoc-paragraph">{{Có thể áp dụng đối với nhiều mức độ trong kiểm thử.. 
+Không yêu cầu kiến thức cài đặt.. 
+Luôn sinh ra ít ca kiểm thử hơn các mô hình kiểm thử khác.. 
+Có thể dễ dàng áp dụng mà không cần tự động hóa.}}
+<. 
+div>
+ANS:Luôn sinh ra ít ca kiểm thử hơn các mô hình kiểm thử khác.
+
+7. Đâu không phải là lợi ích của kiểm thử phân hoạch?
+<div class="gdoc-paragraph">{{Bao phủ tốt hơn. 
+Giải quyết một số vấn đề cụ thể. 
+Giảm số lượng các ca kiểm thử. 
+Đảm bảo độ tin cậy sản phẩm}}
+<. 
+div>
+ANS:Đảm bảo độ tin cậy sản phẩm
+
+8. Đâu KHÔNG PHẢI là ý đúng khi nói về phân hoạch giá trị đầu vào (Input Space Partitioning)?
+<div class="gdoc-paragraph">{{Phân hoạch giá trị đầu vào chỉ áp dụng cho các phương pháp kiểm thử đã lỗi thời (như kiểm thử truyền thống).. 
+Dễ dàng áp dụng mà không cần tự động hóa kiểm thử.. 
+Dễ dàng áp dụng ở mọi tầng lớp kiểm thử: từ đơn vị, đến tích hợp và hệ thống.. 
+Chỉ cần có miền không gian đầu vào là có thể phân hoạch được, không cần kinh nghiệm tích hợp khác.}}
+<. 
+div>
+ANS:Phân hoạch giá trị đầu vào chỉ áp dụng cho các phương pháp kiểm thử đã lỗi thời (như kiểm thử truyền thống).
+
+9. Đâu không phải mối quan hệ trong kiểm thử phân hoạch (partition-based testing)?
+<div class="gdoc-paragraph">{{Cân đối. 
+Phản xạ. 
+Bao phủ. 
+Bắc cầu}} 
+<. 
+div>
+ANS:Bao phủ
+
+10. Đâu không phải một trong các bước của mô hình hóa miền đầu vào?
+<div class="gdoc-paragraph">{{Tìm tất cả các tham số.. 
+Làm mịn tổ hợp các khối thành các đầu vào kiểm thử.. 
+Nhận biết các lỗi hiện có trong phần mềm.. 
+Áp dụng tiêu chí kiểm thử để lựa chọn các tổ hợp giá trị.}}
+<. 
+div>
+ANS:Nhận biết các lỗi hiện có trong phần mềm.
+
+11. Kĩ thuật kiểm thử phân hoạch theo không gian đầu vào không được áp dụng ở mức độ kiểm thử nào?
+<div class="gdoc-paragraph">{{Kiểm thử hệ thống.. 
+Kiểm thử chấp nhận.. 
+Kiểm thử kết hợp.. 
+Kiểm thử đơn vị.}}
+<. 
+div>
+ANS:Kiểm thử chấp nhận.
+
+12. Kiểm thử giá trị biên là gì?
+<div class="gdoc-paragraph">{{Kiểm thử dữ liệu hợp lệ. 
+Kiểm thử ranh giới mà phân biệt điều kiện hợp lệ và không hợp lệ. 
+Kiểm thử tất cả các dữ liệu. 
+Kiểm thử dữ liệu không hợp lệ}}
+<. 
+div>
+ANS:Kiểm thử ranh giới mà phân biệt điều kiện hợp lệ và không hợp lệ
+
+13. Một biến đầu nhận giá trị năm sinh có khoảng từ năm 1900 và 2010. Các giá trị biên để kiểm thử biến này là?
+<div class="gdoc-paragraph">{{1900, 2010, 2011. 
+1899, 1900, 2010, 2010. 
+1900, 2010. 
+1899, 1900, 1901, 2009, 2010, 2011}}
+<. 
+div>
+ANS:1899, 1900, 1901, 2009, 2010, 2011
+
+14. Một chương trình xác nhận một khoảng như sau: giá trị nhỏ hơn 20 hoặc lớn hơn 30 không được chấp thuận, giá trị từ 20 đến 30 được chấp nhận. Các giá trị đầu vào nào sau đây nằm cùng trong một phân vùng tương đương?
+<div class="gdoc-paragraph">{{11256. 
+20, 21, 31. 
+20, 30, 31. 
+20, 25, 30}} 
+<. 
+div>
+ANS:20, 25, 30
+
+15. Một trường dữ liệu nhận giá trị năm sinh trong khoảng [1000, 2000]. Các giá trị biên để kiểm thử cho trường dữ liệu này là?
+<div class="gdoc-paragraph">{{1000, 2000. 
+999, 1000, 2000, 2001, 2002. 
+0, 1900, 1990, 2000. 
+1000, 1001, 1090, 1999, 2000}}
+<. 
+div>
+ANS:1000, 1001, 1090, 1999, 2000
+
+16. Phương pháp phân hoạch miền giá trị đầu vào dựa trên giao diện (Interface-based approach) là gì?
+<div class="gdoc-paragraph">{{Phát triển các đặc tính dựa trên tính chất của hệ thống đang kiểm thử.. 
+Phát triển các đặc tính (characteristic) dựa trên các giá trị đầu vào đã được tách riêng biệt.. 
+Phát triển các đặc tính dựa trên các hành vi (behaviour) của hệ thống đang kiểm thử. 
+Phát triển các đặc tính dựa trên các tính năng (functionality) của hệ thống đang kiểm thử.}}
+<. 
+div>
+ANS:Phát triển các đặc tính (characteristic) dựa trên các giá trị đầu vào đã được tách riêng biệt.
+
+17. Phương pháp phân hoạch miền giá trị đầu vào dựa trên tính năng (Functionality-based approach) là gì?
+<div class="gdoc-paragraph">{{Phát triển các đặc tính dựa trên các tính năng (functionality) của hệ thống đang kiểm thử. 
+Phát triển các đặc tính dựa trên các hành vi (behaviour) của hệ thống đang kiểm thử. 
+Phát triển các đặc tính (characteristic) dựa trên các giá trị đầu vào đã được tách riêng biệt.. 
+Phát triển các đặc tính dựa trên tính chất của hệ thống đang kiểm thử.}}
+<. 
+div>
+ANS:Phát triển các đặc tính dựa trên các tính năng (functionality) của hệ thống đang kiểm thử
+
+18. Ý nào sau đây thỏa mãn điều kiện khi phân mảnh?
+<div class="gdoc-paragraph">{{Các khối (block) có thể trùng nhau và không thể bao phủ hết các ca kiểm thử.. 
+Các khối (block) không được giao nhau.. 
+Các khối (block) giao nhau phải bao phủ hoàn toàn các ca kiểm thử.. 
+Các khối (block) phải giao nhau.}}
+<. 
+div>
+ANS:Các khối (block) không được giao nhau.
+
+19. Bước đầu tiên của thiết kế theo miền đầu vào là gì?
+<div class="gdoc-paragraph">{{Thiết lập tiêu chuẩn để lựa chon giá trị.. 
+Tìm tất cả tham số ảnh hưởng đến chức năng kiểm thử được.. 
+Chọn giá trị thích hợp cho từng miền đầu vào.. 
+Xác định những chức năng kiểm thử được.}}
+<. 
+div>
+ANS:Xác định những chức năng kiểm thử được.
+
+20. Bước đầu tiên trong 5 bước của quá trình mô hình hóa miền đầu vào (IDM) là?
+<div class="gdoc-paragraph">{{Mô hình hóa miền đầu vào.. 
+Làm mịn tổ hợp các khối thành các đầu vào kiểm thử.. 
+Nhận biết các chức năng có thể kiểm thử được.. 
+Tìm tất cả tham số.}}
+<. 
+div>
+ANS:Nhận biết các chức năng có thể kiểm thử được.
+
+21. Bước đầu tiên trong việc mô hình hóa miền đầu vào là gì?
+<div class="gdoc-paragraph">{{Lọc các khối kết hợp thành đầu vào kiểm tra.. 
+Xác định các chức năng có thể kiểm tra.. 
+Lập mô hình miền đầu vào.. 
+Tìm tất cả các thông số.}}
+<. 
+div>
+ANS:Xác định các chức năng có thể kiểm tra.
+
+22. Bước số 2 của việc mô hình hóa miền không gian đầu vào là gì?
+<div class="gdoc-paragraph">{{Xác định các chức năng có thể kiểm tra.. 
+Áp dụng tiêu chí kiểm tra để chọn những giá trị kết hợp với nhau.. 
+Tìm tất cả thông số.. 
+Lập mô hình miền đầu vào.}}
+<. 
+div>
+ANS:Tìm tất cả thông số.
+
+23. Điền vào chỗ trống
+<div class="gdoc-paragraph">các hệ thống lớn chắc chắn có thể phù hợp với cách tiếp cận phân vùng không gian đầu vào và các hệ thống như vậy thường cung cấp chức năng {{}}()
+<. 
+div>
+ANS:phức tạp
+
+24. Cách tiếp cận thiết kế theo miền đầu vào nào thường dẫn đến những ca kiểm thử chất lượng hơn?
+<div class="gdoc-paragraph">{{Do cách tiếp cận tùy theo dự án nên không thể nói cách nào tốt hơn.. 
+Tiếp cận theo giao diện.. 
+Cả hai cách đều chất lượng như nhau.. 
+Tiếp cận theo chức năng.}}
+<. 
+div>
+ANS:Tiếp cận theo chức năng.
+
+25. Chiến lược nào không được sử dụng để xác định giá trị cho miền đầu vào?
+<div class="gdoc-paragraph">{{Phân vùng phụ cho một số khối.. 
+Kiểm tra tính đầy đủ và không giao nhau.. 
+Thêm các giá trị hợp lệ, không hợp lệ và giá trị đặc biệt.. 
+Cố gắng tối thiểu số khối trong từng đặc tính.}}
+<. 
+div>
+ANS:Cố gắng tối thiểu số khối trong từng đặc tính.
+
+26. Đâu không phải là phân hoạch miền đầu vào các số nguyên?
+<div class="gdoc-paragraph">{{Số dương, số âm, số 0.. 
+Số nguyên tố, số không nguyên tố.. 
+Số không dương, số không âm, số 0.. 
+Số chẵn, số lẻ.}}
+<. 
+div>
+ANS:Số không dương, số không âm, số 0.
+
+27. Điền vào chỗ trống
+<div class="gdoc-paragraph">Hai phương pháp tiếp cận trong việc mô hình hóa miền đầu vào là phương pháp {{}}() và phương pháp {{}}().
+<. 
+div>
+ANS:dựa trên giao diện,dựa trên chức năng
+
+28. Khẳng định nào sau đây không đúng khi nói về về mô hình hóa miền đầu vào (IDM) theo hướng tiếp cận dựa trên chức năng?
+<div class="gdoc-paragraph">{{Có thể tạo ra các bài kiểm tra tốt hơn hoặc ít bài kiểm tra hiệu quả hơn.. 
+Phát triển các đặc tính (characteristics) từ hành vi của chương trình đang thử nghiệm.. 
+Khó phát triển hơn vì đòi hỏi nhiều nỗ lực thiết kế.. 
+Phát triển các đặc tính (characteristics) trực tiếp từ các tham số đầu vào riêng lẻ.}}
+<. 
+div>
+ANS:Phát triển các đặc tính (characteristics) trực tiếp từ các tham số đầu vào riêng lẻ.
+
+29. Điền vào chỗ trống
+<div class="gdoc-paragraph">Miền đầu vào là {{}}() có thể mà tham số đầu vào có thể có.
+<. 
+div>
+ANS:các giá trị
+
+30. Điền vào chỗ trống
+<div class="gdoc-paragraph">Mỗi phương pháp công khai thường là một chức năng có thể kiểm tra được cần được {{}}()
+<. 
+div>
+ANS:kiểm tra riêng lẻ
+
+31. Điền vào chỗ trống
+<div class="gdoc-paragraph">Phân mảnh phải thỏa mãn hai điều kiện {{}}().
+<. 
+div>
+ANS:đầy đủ, rời rạc
+
+32. Theo định nghĩa, đầu vào kiểm tra sử dụng gì?
+<div class="gdoc-paragraph">{{RTM (Ma trận xác định nguồn gốc yêu cầu). 
+Chính xác một khối từ mỗi đặc tính. 
+Hàm. 
+Toán tử}}
+<. 
+div>
+ANS:Chính xác một khối từ mỗi đặc tính
+
+33. Điền vào chỗ trống
+<div class="gdoc-paragraph">Từ quan điểm của đặc tính cụ thể, tất cả các giá trị trong mỗi khối được coi là {{}}().
+<. 
+div>
+ANS:tương đương
+
+34. Điền vào chỗ trống
+<div class="gdoc-paragraph">Cách tiếp cận theo giao diện bỏ qua {{}}().
+<. 
+div>
+ANS:mối quan hệ giữa các tham số
+
+35. Đâu là điểm mạnh của phương pháp dựa theo giao diện với mẫu miền đầu vào?
+<div class="gdoc-paragraph">{{Xác định các đặc tính.. 
+Một vài thông tin không được sử dụng.. 
+Kết hợp ngữ nghĩa.. 
+Bỏ qua mối quan hệ giữa các tham số.}}
+<. 
+div>
+ANS:Xác định các đặc tính.
+
+36. Điền vào chỗ trống
+<div class="gdoc-paragraph">Kĩ thuật kiểm thử phân vùng không gian đầu vào có thể được áp dụng dễ dàng mà không cần {{}}().
+<. 
+div>
+ANS:tự động hóa
+
+37. Phương pháp phát triển các đặc tính trực tiếp từ các tham số đầu vào cho chương trình đang thử nghiệm với mẫu miền đầu vào là gì?
+<div class="gdoc-paragraph">{{Phương pháp dựa trên kiến trúc.. 
+Phương pháp dựa trên giao diện.. 
+Phương pháp dựa trên chức năng.. 
+Phương pháp dựa trên đặc tính.}}
+<. 
+div>
+ANS:Phương pháp dựa trên giao diện.
+
+38. Điền vào chỗ trống
+<div class="gdoc-paragraph">Tiếp cận theo hướng {{}}() phát triển các đặc tính từ các tham số đầu vào độc lập. 
+<. 
+div>
+ANS:giao diện
+
+39. Ý nào sau đây thỏa mãn khi tiếp cận hướng giao diện (Interface-Based Approach)?
+<div class="gdoc-paragraph">{{Kỹ thuật mô hình đơn giản và phụ thuộc chủ yếu trên chức năng (function).. 
+Coi mỗi tham số độc lập nhau.. 
+Sử dụng tất cả miền và thông tin ngữ nghĩa.. 
+Thỏa mãn mọi quan hệ giữa các tham số.}}
+<. 
+div>
+ANS:Coi mỗi tham số độc lập nhau.
+
+40. Đâu không phải đặc điểm của cách tiếp cận dựa trên chức năng đối với việc mô hình hóa nguồn dữ liệu đầu vào?
+<div class="gdoc-paragraph">{{Có thể cho ra các ca kiểm thử chất lượng hơn cách tiếp cận dựa trên lớp giao tiếp.. 
+Khó khăn hơn trong việc phát triển vì cần thêm công sức thiết kế.. 
+Phát triển các đặc tính từ góc nhìn hành vi của chương trình đang được kiểm thử.. 
+Phát triển các đặc tính trực tiếp từ các tham số đầu vào riêng lẻ.}}
+<. 
+div>
+ANS:Phát triển các đặc tính trực tiếp từ các tham số đầu vào riêng lẻ.
+
+41. Điền vào chỗ trống
+<div class="gdoc-paragraph">Tiếp cận theo hướng {{}}() phát triển các đặc tính từ các hành vi hệ thống khi kiểm thử.
+<. 
+div>
+ANS:chức năng
+
+42. Điền vào chỗ trống
+<div class="gdoc-paragraph">Trong việc thiết kế miền đầu vào, ta có thể chấp nhận các mô hình miền đầu vào khác nhau mà có sự {{}}().
+<. 
+div>
+ANS:trùng lặp
+
+43. Điền vào chỗ trống
+<div class="gdoc-paragraph">Mọi {{}}() phải chấp nhận toàn bộ giá trị, dù giá trị đó hợp lệ hay không hợp lệ.
+<. 
+div>
+ANS:phân hoạch
+
+44. Phân vùng của một tập hợp các giá trị trong miền của một đặc tính được gọi là gì?
+<div class="gdoc-paragraph">{{Khối.. 
+Miền đầu vào.. 
+Tham số.. 
+Đầu vào.}}
+<. 
+div>
+ANS:Khối.
+
+45. Điền vào chỗ trống
+<div class="gdoc-paragraph">Việc mọi phân vùng đều phải tiếp nhận tất cả các giá trị, kể cả giá trị không hợp lệ thể hiện tính {{}}() của phương pháp không gian phân vùng đầu vào.
+<. 
+div>
+ANS:đầy đủ
+
+46. Điền vào chỗ trống
+<div class="gdoc-paragraph">Kiểm tra tính {{}}() là xác định các khối trong từng đặc tính đã che phủ toàn bộ miền đặc tính.
+<. 
+div>
+ANS:đầy đủ
+
+47. Điền vào chỗ trống
+<div class="gdoc-paragraph">Kiểm tra tính {{}}() là xác định không có giá trị nào nằm trong nhiều hơn một khối.
+<. 
+div>
+ANS:không giao nhau
+
+48. Đâu không phải cách chọn tổ hợp giá trị sinh ra từ cách chọn bao phủ t-Wise (t-Wise Coverage: TWC)?
+<div class="gdoc-paragraph">{{Bao phủ lựa chọn cơ sở (Base Choice Coverage).. 
+Bao phủ cặp đôi (Pair-Wise Coverage).. 
+Bao phủ mỗi lựa chọn (Each Choice Coverage).. 
+Bao phủ tất cả (All Combinations Coverage).}}
+<. 
+div>
+ANS:Bao phủ lựa chọn cơ sở (Base Choice Coverage).
+
+49. Đâu không phải đặc điểm của lựa chọn cơ sở (Base Choice)
+<div class="gdoc-paragraph">{{Phức tạp.. 
+Nhỏ nhất. 
+Đến từ quan điểm của người dùng cuối.. 
+Đơn giản.}}
+<. 
+div>
+ANS:Phức tạp.
+
+50. Khẳng định nào đúng khi nói về tiêu chí lựa chọn miền bao phủ?
+<div class="gdoc-paragraph">{{Là chọn một giá trị từ một khối của mỗi đặc điểm cần được sử dụng ít nhất trong một ca kiểm thử.. 
+Tất cả đều sai.. 
+Là một giá trị từ mỗi khối của từng đặc điểm cần được kết hợp với với giá trị từ các khối của các đặc điểm khác.. 
+Là chọn một giá trị từ một khối của mỗi đặc điểm cần được sử dụng nhiều nhất trong một ca kiểm thử.}}
+<. 
+div>
+ANS:Là chọn một giá trị từ một khối của mỗi đặc điểm cần được sử dụng ít nhất trong một ca kiểm thử.
+
+51. Điền vào chỗ trống
+<div class="gdoc-paragraph">Kiểm thử cặp đôi (pair-wise) là một cách tiếp cận kiểm thử được sử dụng để kiểm thử phần mềm bằng cách sử dụng {{}}().
+<. 
+div>
+ANS:phương pháp tổ hợp
+
+52. Mục đích của kỹ thuật kiểm thử cặp đôi (pair-wise) là:
+<div class="gdoc-paragraph">{{Tạo ra bộ dữ liệu có kích thước nhỏ, có thể bao phủ được nhiều lỗi nhất có thể.. 
+Tạo ra bộ dữ liệu có kích thước lớn, có thể bao phủ được nhiều lỗi nhất có thể.. 
+Tạo ra bộ dữ liệu có kích thước nhỏ, có thể bao phủ 1 phần ít các lỗi.. 
+Tạo ra bộ dữ liệu có kích thước để cho việc kiểm thử dễ dàng.}}
+<. 
+div>
+ANS:Tạo ra bộ dữ liệu có kích thước nhỏ, có thể bao phủ được nhiều lỗi nhất có thể.
+
+53. Điền vào chỗ trống
+<div class="gdoc-paragraph">Tiêu chí {{}}() là một giá trị từ mỗi khối của từng đặc điểm cần được kết hợp với với giá trị từ các khối của các đặc điểm khác.
+<. 
+div>
+ANS:bao phủ thông minh theo cặp
+
+54. Điền vào chỗ trống
+<div class="gdoc-paragraph">Cách các ràng buộc được xử lí khi lựa chọn các giá trị phụ thuộc vào {{}}() được lựa chọn, và quyết định thường được đưa ra khi lựa chọn các giá trị.
+<. 
+div>
+ANS:tiêu chí bao phủ
+
+55. Điền vào chỗ trống
+<div class="gdoc-paragraph">Nếu mô hình miền đầu vào có quá nhiều ràng buộc, có khả năng nó có vấn đề về cấu trúc và phải được {{}}().
+<. 
+div>
+ANS:thiết kế lại
+
+56. Phương pháp nào kết hợp ngữ nghĩa với mẫu miền đầu vào?
+<div class="gdoc-paragraph">{{Dựa vào giao diện.. 
+Dựa vào thiết kế.. 
+Dựa vào tiêu chí.. 
+Dựa vào chức năng.}}
+<. 
+div>
+ANS:Dựa vào chức năng.
+
+57. Tiêu chí bao phủ nào dưới đây không loại bỏ các cặp không khả thi?
+<div class="gdoc-paragraph">{{BCC.. 
+ACC.. 
+TWC.. 
+PWC.}}
+<. 
+div>
+ANS:BCC.
+
+----------------------------
